@@ -1,0 +1,506 @@
+(ROOT
+  (SBARQ
+    (WHNP-1
+      (WP what))
+    (SQ
+      (VP
+        (AUX do)
+      	(NP
+	  (PRP you))
+        (VP
+	  (VB want)
+	  (NP
+	    (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (INTJ
+    (UH no)
+    (. !)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NNS Rice_Crispies)))
+  (FRAG
+    (NP
+      (NNS Cheerios))))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP
+        (NNS Rice_Crispies))
+      (CC or)
+      (NP
+        (NNS Cheerios)))
+    (. ?)))
+
+(ROOT
+  (NP
+    (NNP Chi)
+    (. !)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1
+      (WP what))
+    (SQ
+      (VP
+        (AUX do)
+      	(NP
+	  (PRP you))
+        (VP
+	  (VB want)
+	  (NP
+	    (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VB want)
+        (S
+	  (VP
+	    (TO ta)
+	    (VP
+	      (VB talk)
+              (PP
+	        (IN about)
+          	(NP
+		  (NN that))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (ADVP
+        (RB already))
+      (VBD told)
+      (NP
+        (PRP you))
+      (NP
+        (WHADVP
+	  (WRB why))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (ADVP
+      (RB now))
+    (WHNP-1
+      (WP what))
+    (SQ
+      (VP
+        (AUX do)
+	(NP
+	  (PRP you))
+        (VP
+	  (VB want)
+	  (NP
+	    (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1
+      (WP what))
+    (SQ
+      (VP
+        (AUX do)
+      	(NP
+	  (PRP you))
+        (VP
+	  (VB want)
+	  (NP
+	    (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP
+      (MD can)
+      (NP
+        (PRP I))
+      (VP
+        (VB have)
+      	(NP
+	  (NNS Fruit_Loops))))
+    (. ?)))
+
+(ROOT
+  (INTJ
+    (UH no)
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1
+      (WP what))
+    (SQ
+      (VP
+        (AUX do)
+      	(NP
+	  (PRP you))
+        (VP
+	  (VB want)
+	  (NP
+	    (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP
+      (PRP you))
+    (VP
+      (AUX did)
+      (NOT n't)
+      (VP
+        (VB eat)
+        (ADVP
+	  (RB too)
+	  (RB good))
+        (ADVP
+	  (RB either))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NNS Cheerios))
+    (NP
+      (NNS Rice_Crispies))
+    (. .)))
+
+(ROOT
+  (NP
+    (NNP mommy)
+    (. !)))
+
+(ROOT
+  (FRAG
+    (NP
+      (PRP I)))
+  (S
+    (NP
+      (PRP you))
+    (VP
+      (VBD said)))
+  (FRAG
+    (VP
+      (MD could))
+    (. .)))
+
+(ROOT
+  (NP
+    (NNP Kerri)
+    (. !)))
+
+(ROOT
+  (NP
+    (NNP Kerri)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NNS Cheerios)))
+  (FRAG
+    (NP
+      (NNS Rice_Crispies))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VB pick)
+      (NP
+        (PRP it))
+      (ADVP
+        (RB now)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (VBP want)
+      (NP
+        (NNS Rice_Crispies)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (WHNP
+      (WP what))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NNS Rice_Crispies))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1
+      (WP what))
+    (SQ
+      (VP
+        (AUX do)
+      	(NP
+	  (PRP you))
+        (VP
+	  (VB want)
+	  (NP
+	    (-NONE-ABAR-WH- *T*-1))))))
+  (NP
+    (NNP Chi)
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP
+      (WP what))
+    (. ?)))
+
+(ROOT
+  (S
+    (VP
+      (VB give)
+      (NP
+        (NN that))
+      (PP
+        (IN to)
+        (NP
+	  (NNP Chi))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP
+      (RB now))
+    (NP
+      (PRP I))
+    (VP
+      (MD 'll)
+      (VP
+        (VB get)
+        (NP
+	  (PRP$ my)
+	  (NNS blocks))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH yes))
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (VBD heard)
+      (NP
+        (PRP you)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR-1
+      (COMP if)
+      (COMP if)
+      (S
+        (NP
+	  (PRP you))
+        (VP
+	  (AUX do)
+	  (NOT n't)
+          (VP
+	    (VB eat)
+            (ADVP
+	      (RB good))
+	    (ADVP
+	      (NN today))))))
+  (NP
+    (NNP Chi))
+  (NP
+    (PRP you))
+  (VP
+    (AUX do)
+    (NOT n't)
+    (VP
+      (VB get)
+      (NP
+        (DT no)
+	(NNS Fruit_Loops))
+      (ADVP
+        (NN tomorrow))
+      (SBAR
+        (-NONE-ABAR-OTHER- *T*-1))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP
+      (NN tomorrow))
+    (NP-1
+      (PRP you))
+    (VP
+      (AUX 're)
+      (VP
+        (VBG going)
+        (S
+	  (NP
+	    (-NONE-A-RAISE- *T*-1))
+          (VP
+	    (TO to)
+            (VP
+	      (VB have)
+              (NP
+	        (NN juice)))))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH yes)
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VB knock)
+      (NP
+        (PRP it))
+      (PRT
+        (RP off)))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH no))
+  (FRAG
+    (SBAR
+      (COMP because)
+      (S
+        (NP
+	  (PRP I)
+	  (PRP I))
+        (VP
+	  (AUX 'm)
+      	  (VP
+	    (VBG having)
+            (NP
+	      (NN orange)
+	      (NN juice))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (AUX am))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (AUX am))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (AUX am))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (AUX am))
+    (. .)))
+
+(ROOT
+  (NP
+    (NNP Kerri)
+    (. !)))
+
+(ROOT
+  (S
+    (VP
+      (VB stop)
+      (S
+        (VP
+	  (VBG fighting)
+          (PP
+	    (IN with)
+            (NP
+	      (PRP her))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP
+      (JJ alright)))
+  (S
+    (VP
+      (VB start)
+      (S
+        (VP
+	  (VBG eating)))))
+  (NP
+    (NNS guys)
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP you))
+    (VP
+      (AUX did)
+      (NOT n't)
+      (VP
+        (VB do)
+        (NP
+	  (DT that)
+	  (NN one))))
+    (. .)))
+
+(ROOT
+  (SQ
+    (VP
+      (COP are)
+      (NP
+        (PRP you))
+      (ADJP
+        (JJ done)))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (NP
+      (PRP you))
+    (VP
+      (COP 're)
+      (ADJP
+        (RB all)
+      	(JJ done)))
+    (. ?)))
+
+(ROOT
+  (NP
+    (NNP Ma)
+    (. !)))

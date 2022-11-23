@@ -1,0 +1,8617 @@
+(ROOT (SBARQ (NP (PRP you)) (VP (VB have) (WHNP (DT a) (WP what))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (PP (IN in) (NP (NN that)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what) (RB else))
+     (SQ (VP (COP is) (PP (IN in) (NP (NN there)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what) (RB else))
+     (SQ (VP (AUX can)
+      (NP (PRP you))
+      (VP (VB build) (PP (IN with) (NP (NNPS Legos))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHPP (IN with) (WHNP (WP what))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (PP (IN in) (NP (NN there)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN that)))) (. ?)))
+
+
+(ROOT (INTJ (UH oh)) (, ,) (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN that)))) (. ?)))
+
+
+(ROOT (S (NP (PRP I))
+     (VP (AUX do)
+      (NOT n't)
+      (VP (VB know)
+       (SBAR (WHNP (WP what)) (S (NP (NN that)) (VP (COP is))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP who)) (SQ (VP (VBD found) (NP (PRP it)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WDT which))
+	   (SQ (VP (COP is) (NP (PRP$ your) (JJ favorite) (NN one))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WHNP (WDT what) (NN kind))
+	    (PP (IN of) (NP (NN truck))))
+     (SQ (VP (COP is) (NP (NN that))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (AUX do)
+     (NP (PRP you))
+      (VP (VB put) (PP (IN inside) (NP (NN there))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what) (RB else))
+     (SQ (VP (MD can)
+	  (VP (VB go) (PP (IN in) (NP (DT a) (NN dump) (NN truck))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+     (NP (PRP you))
+      (VP (VB do) (PP (IN with) (NP (DT a) (NN dump) (NN truck))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB take) (NP (PRP it)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (DT this) (NN one)) (PP (IN for))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP is) (NP (DT this) (NN one)) (PP (IN for))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH yeah)) (CC and)
+     (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB do) (PP (IN with) (NP (NN that))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP we))
+      (VP (VB have) (PP (IN in) (NP (NN here))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (PP (IN in) (NP (NN there)))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (AUX do)
+     (NP (PRP you))
+     (VP (VB know)
+      (SBAR (WHNP (WP what)) (S (NP (NN that)) (VP (COP is))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP is) (NP (NN that)))) (, ,) (NP (NNP Brooke))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN this)))) (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (NN this))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB find) (NP (DT all) (DT these) (NNS things)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB go)
+       (S (VP (TO to)
+	   (VP (VB play) (PP (IN on) (NP (DT these) (NNS things)))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (VP (VB go) (S (VP (TO to) (VP (VB play) (WHADVP (WRB where))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX do)
+      (NP (PRP they))
+      (VP (VB have) (NP (DT all) (NN this)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB go) (PP (IN to) (NP (DT the) (NN park))) (PP (IN with)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB do) (ADVP (RB there)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WDT which) (NN one))
+	  (SQ (VP (COP is) (NP (DT the) (NN mommy))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (DT this) (NN one))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (DT the) (NN daddy))
+      (VP (VB say) (PP (IN to) (NP (DT all) (DT the) (NNS children))))))
+     (. ?)))
+
+
+(ROOT (SQ (NP (PRP you))
+     (VP (AUX haf) (S (VP (TO ta)
+     (VP (VB play)
+      (SBAR (WHADVP (WRB where)) (S (NP (PRP you)) (VP (COP are))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (DT the) (NNS kids)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and) (ADVP (RB then))
+     (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (NNP Mommy)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VB show) (NP (PRP me)) (WHADVP (WRB how))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (PRP me))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to)
+	     (VP (VB go)
+	      (PP (IN on) (NP (DT the) (NN merrygoround)))))))) (, ,) (NP (NNP Daddy))
+     (. .)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (DT the) (NN daddy))
+      (VP (VB say)
+       (SBAR (WHADVP (WRB when))
+	(S (NP (PRP I))
+	 (VP (VB go) (PP (IN on) (NP (DT the) (NN merrygoround)))))))))
+     (. ?)))
+
+
+(ROOT (NP (NNP Daddy)) (, ,)
+     (SBARQ (WHADVP (WRB where))
+     (SQ (VP (COP 's) (NP (NNP Mommy))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX 'd) (NP (NNP Mommy)) (VP (VB go))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (NP (DT that) (JJ little) (NN boy))
+       (PP (IN in) (NP (DT the) (JJ blue) (NN shirt))))
+      (VP (VBG doing) (ADVP (RB over)) (RB there))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (PRP he)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (PRP he)) (VP (VBG saying))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (AUX is)
+      (NP (NN everyone) (RB else))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT the) (NN daddy))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (PRP he))
+      (VP (VB say) (PP (IN to) (NP (NN everyone))))))
+     (. ?)))
+
+
+(ROOT (NP (NNP Mother) (NNP Mother)) (, ,)
+     (SBARQ (WHADVP (WRB where))
+      (SQ (VP (COP 's) (NP (PRP$ your) (NN hat))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (PRP she)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (COP 's) (NP (DT the) (NN mommy))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB why)) (NOT not) (. ?)))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (NNP Mommy))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (ADVP (RB then))
+     (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (PRP she))
+      (VP (AUX have) (S (VP (TO to) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (S (NP (PRP you))
+     (VP (VB show)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (S (ADVP (RB now))
+     (NP (PRP you))
+     (VP (VB tell)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB look)
+	(SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VB have)))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who)) (SQ (VP (COP 's) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who)) (SQ (VP (COP 's) (NP (NN this)))) (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP who))
+     (SQ (VP (AUX 's)
+      (NP (NN that))
+      (VP (VBG goING) (S (VP (TO To) (VP (COP be)))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB how)) (PP (IN about) (NP (DT this) (NN one)))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (NN that)) (VP (VB look) (PP (IN like)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB do) (PP (IN with) (NP (NN that))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX does) (NP (PRP it)) (VP (VB go))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB how) (RB about))
+     (PP (IN on)
+      (NP (NP (DT the) (NN head))
+       (PP (IN of) (NP (DT the) (NN mommy)))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP who)) (SQ (VP (COP 's) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's)
+	  (NP (NP (DT the) (NN matter)) (PP (IN with) (NP (PRP her))))))
+     (. ?)))
+
+
+(ROOT (SQ (NP (PRP$ her) (NN tummy)) (VP (COP 's) (WHNP (WP what))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT this) (JJ little) (NN girl))
+      (VP (VBG doing)
+       (PP (ADVP (RB all)) (IN by) (NP (PRP herself)))
+       (ADVP (RB over) (RB here)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (PRP she)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (PRP$ her) (NN mommy))
+      (VP (VB say) (PP (IN to) (NP (PRP her))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (PRP she))
+      (VP (VB tell) (NP (DT these) (JJ little) (NNS children)))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (VP (AUX does)
+     (NP (NNP Mommy))
+     (VP (VB say)
+      (PP (IN to)
+       (NP (DT the) (JJ little) (NNS children)))
+	(SBAR (WHADVP (WRB when))
+	 (S (NP (PRP they))
+	  (VP (COP 're) (PP (IN on) (NP (DT the)))))))) (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB why)) (NOT not) (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB how)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB how))
+     (NP (PRP her)) (VP (VB go) (PP (IN on) (NP (PRP it))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX does)
+      (NP (PRP she))
+      (VP (VB go) (PP (IN on) (NP (PRP it))))))
+     (. ?)))
+
+
+(ROOT (FRAG (NP (DT the) (NN mommy))
+     (VP (VB say)
+      (SBAR (WHADVP (WRB when))
+       (S (NP (PRP she))
+	(VP (VBZ goes) (PP (IN on) (NP (DT the) (NN slide)))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH oh)) (, ,) (S (VP (VB look)
+      (SBAR (WHNP (WP what))
+       (S (VP (VBD happened) (PP (IN to) (NP (DT the) (NN bench)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (VBZ happens) (PP (IN with) (NP (PRP her)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (DT the) (NN matter))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (AUX 's) (VP (VBG saying) (NP (NN that)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB say)
+       (SBAR (WHADVP (WRB when))
+	(S (NP (PRP you))
+	 (VP (VB go) (PP (IN down)) (NP (DT the) (NN slide))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 'd) (NP (PRP she)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB now))
+     (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB want) (S (NP (NNP Mommy)) (VP (TO to) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (S (VP (VB show)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX did) (NP (PRP I)) (VP (VB show) (NP (PRP you)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB do) (NP (PRP it)))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (PRP her))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (S (VP (VP (VB talk) (PP (IN to) (NP (PRP me))))
+	(CC and)
+	(VP (VB explain) (NP (PRP it)) (PP (IN to) (NP (PRP me)))))) (, ,)
+	(FRAG (SBAR (WHNP (WP what))
+	 (S (NP (PRP I)) (VP (MD should) (VP (VB do)))))
+     (. .)))
+
+
+(ROOT (S (NP (PRP you))
+     (VP (MD can)
+      (VP (VB play)
+       (PP (IN with) (NP (NN that)))
+       (SBAR (WHADVP (WRB when))
+	(S (NP (PRP you))
+	 (VP (COP 're)
+	  (ADJP (JJ done) (S (VP (VBG showing) (NP (NNP Mommy))))))))))
+     (. .)))
+
+
+(ROOT (SBARQ (ADVP (RB now))
+     (WHNP (WP what))
+     (SQ (VP (AUX were)
+      (NP (PRP you))
+      (ADJP (JJ supposed)
+       (S (VP (TO to)
+	   (VP (VB show)
+	    (NP (PRP me))
+	    (SBAR (WHADVP (WRB how))
+	     (S (VP (TO to) (VP (VB do) (ADVP (RB here))))))))))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VB show)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (PRP it))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX did)
+      (NP (PRP she))
+      (ADVP (RB just))
+      (VP (VB tell) (NP (PRP you)) (S (VP (TO to) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (AUX did)
+	 (NOT n't)
+	 (NP (PRP she))
+	 (VP (ADVP (RB just))
+	  (VB show)
+	  (NP (PRP you))
+	  (SBAR (WHADVP (WRB how))
+	   (S (VP (TO to)
+	       (VP (VB do)
+		(NP (NN something))
+		(PP (IN about)
+		 (S (VP (VBG going) (ADVP (RB around))))))))))))
+     (CC and))
+
+
+(ROOT (SBARQ (WHADVP (WRB why))
+     (SQ (VP (AUX are)
+      (NP (PRP you))
+      (VP (COP being)
+       (PP (IN like) (NP (NN this)))
+       (NP (NP (DT all)) (PP (IN of) (NP (DT a) (NN sudden)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (VBD happened))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (VBD happened)
+	  (PP (IN to) (NP (PRP$ my) (JJ sweet) (NN girl)))))
+     (. ?)))
+
+
+(ROOT (SQ (NP (PRP you))
+     (VP (VB promise)
+      (S (VP (TO to)
+	  (VP (VB show)
+	   (NP (NNP Mommy))
+	   (SBAR (WHADVP (WRB how))
+	    (S (VP (TO to)
+		(VP (VB do)
+		 (NP (PRP it))
+		 (NP (DT the) (JJ right) (NN way))))))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (S (VP (VP (VB take) (NP (PRP them)) (PRT (RP off)))
+      (CC and)
+      (VP (VB show)
+       (NP (NNP Mommy))
+       (SBAR (WHADVP (WRB how))
+	(S (VP (TO to) (VP (VB do) (NP (PRP it))))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (PRP her))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (PRP her))
+	(SBAR (WHNP (WP what))
+	 (S (NP (PRP she))
+	  (VP (AUX has) (S (VP (TO to) (VP (VB do))))))))
+     (. .)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (FRAG (ADVP (RB now))
+     (WHNP (WP what) (JJ other) (NN kind))
+     (. ?)))
+
+
+(ROOT (FRAG (ADVP (RB now))
+     (WHNP (WP what) (NN kind))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADJP (WRB how) (JJ many))
+     (SQ (VP (AUX did)
+      (NP (PRP she))
+      (VP (AUX have) (S (VP (TO to) (VP (VB put) (PRT (RP on))))))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (AUX do)
+     (NP (PRP you))
+     (VP (VB know)
+      (SBAR (WHNP (WP what)) (S (NP (NNS those)) (VP (COP are))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP are) (NP (NNS those))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WHNP (WDT what) (NN kind))
+	    (PP (IN of) (NP (NNS things))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (NN that))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN that)))) (. ?)))
+
+
+(ROOT (FRAG (WHNP (WHNP (WDT what) (NN kind))
+	    (PP (IN of) (NP (NN thing))))
+     (. ?)))
+
+
+(ROOT (FRAG (ADVP (RB just))
+     (SBAR (IN like)
+      (S (NP (PRP you))
+       (VP (VB hold)
+	(PRT (RP on))
+	 (SBAR (WHADVP (WRB when))
+	  (S (NP (PRP you))
+	   (VP (VB go) (PP (IN on) (NP (DT the) (NNS rides)))))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WHNP (WDT what) (NN kind))
+	    (PP (IN of) (NP (NNS rides))))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB like))))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and) (WHNP (WP what) (RB else))
+     (. ?)))
+
+
+(ROOT (S (NP (PRP I))
+     (VP (MD 'll)
+      (VP (VB show)
+       (SBAR (WHADVP (WRB how)) (S (NP (NNS these)) (VP (VB fit))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (COP 's)
+	  (NP (NP (DT that) (JJ big) (NN one))
+	  (ADVP (RB over) (RB there)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB think) (NP (NN that)) (VP (COP is)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB think) (NP (NN that)) (VP (COP is)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who)) (SQ (VP (COP is) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP$ whose) (NN hat))
+     (SQ (VP (COP is) (NP (NN that))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (NP (DT that) (NN lady) (POS 's)) (NN name))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (DT the) (NN mommy)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (PRP she))
+      (VP (VBG doing)
+       (PP (IN with) (NP (DT all) (PRP$ her) (NNS children))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where)) (SQ (VP (COP are) (NP (PRP they)))) (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (COP are) (NP (DT all) (DT the) (NNS children))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (COP is)
+     (NP (NN that))
+     (SBAR (WHNP (WP what))
+      (S (NP (NN this)) (VP (AUX is) (VP (VBN called))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH well)) (, ,) (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP they))
+      (VP (AUX have)
+       (S (VP (TO to)
+	   (VP (VB do)
+	    (SBAR (IN if)
+	     (S (NP (DT the) (NN ride))
+	      (VP (COP is) (ADJP (JJ full)))))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP they))
+      (VP (VB do)
+       (SBAR (IN if)
+	(S (NP (PRP they))
+	 (VP (VB want)
+	  (S (VP (TO to)
+	      (VP (VB go)
+	       (PP (IN on)))))))
+		(CC and)
+		 (S (NP (DT the) (NN ride))
+		  (VP (COP is) (ADJP (JJ full))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WDT which) (NN one)) (SQ (VP (COP is) (NP (DT the) (NN baby))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (PRP$ his) (NN name))
+      (VP (VBG goING) (S (VP (TO To) (VP (COP be)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (COP is) (NP (DT the) (NN mother))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who)) (SQ (VP (COP 's) (NP (NN this)))) (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB how)) (PP (IN about) (NP (DT this) (NN one)))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN that)))) (. ?)))
+
+
+(ROOT (S (NP (PRP you))
+     (VP (VB know)
+      (SBAR (WHNP (WP what)) (S (NP (NN that)) (VP (COP is)))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX are) (NP (PRP they)) (VP (VBG going))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHPP (IN to) (WHNP (DT the) (WP what))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is)
+      (NP (DT that) (JJ little) (NN girl))
+      (VP (VBG goING)
+       (S (VP (TO To)
+	   (VP (VB do)
+	    (ADVP (RB over) (RB there))
+	    (PP (ADVP (RB all)) (IN by) (NP (PRP herself)))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (PRP she))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (COP is)
+     (NP (NN that))
+     (SBAR (WHADVP (WRB how))
+      (S (NP (PRP I))
+       (VP (COP 'm)
+	(ADJP (JJ supposed)
+	 (S (VP (TO to) (VP (VB go) (PRT (RP down)))))))))) (, ,) (NP (NNP Mommy))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (MD should) (NP (PRP I)) (VP (VB go) (PRT (RP down)))))
+     (. .)))
+
+
+(ROOT (FRAG (WHADVP (WRB how)) (. ?)))
+
+
+(ROOT (FRAG (SBAR (WHADVP (WRB when))
+     (S (NP (PRP it)) (VP (VBZ stops))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB why))
+     (SQ (VP (AUX do)
+      (NP (PRP I))
+      (ADVP (RB always))
+      (VP (AUX have) (S (VP (TO to) (VP (VB wait)))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB why)) (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB why))
+     (SQ (VP (AUX do)
+      (NP (PRP I))
+      (VP (AUX have)
+       (S (VP (TO to) (VP (VB hold) (PRT (RP on)))))))) (, ,) (NP (NNP Mommy))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT the) (NN girl))
+      (VP (VBG doing) (ADVP (RB over) (RB here)))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH well)) (, ,)
+     (SBARQ (WHNP (WP what))
+     (SQ (VP (MD should) (NP (PRP I)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX are)
+      (NP (PRP they))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB go)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB now))
+     (WHADVP (WRB where))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB go))))
+     (. ?)))
+
+
+(ROOT (S (NP (PRP she))
+	(VP (COP 's) (ADJP (JJ done)))) (, ,)
+	(SBARQ (ADVP (RB so))
+     (WHADVP (WRB where))
+      (SQ (VP (AUX does) (NP (PRP she)) (VP (VB go))))
+      (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (VBZ goes) (ADVP (RB next))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (PRP he))
+      (VP (VB say)
+       (SBAR (IN as)
+	(S (NP (PRP he))
+	 (VP (VBZ goes) (PP (IN down) (NP (DT the) (NN slide)))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (PRP he)) (VP (VBG saying))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH hey)) (, ,) (NP (NNS kids)) (, ,)
+     (SQ (VP (MD can)
+      (NP (PRP I))
+      (VP (VB go) (PP (IN on) (NP (DT the) (NN slide)))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB why)) (NOT not) (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB when))
+     (SQ (VP (MD can) (NP (PRP I)) (VP (VB go))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB when))
+     (SQ (VP (MD can)
+      (NP (PRP I))
+      (VP (VB go) (PP (IN on) (NP (DT the) (NN slide))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH no)) (, ,)
+     (S (NP (PRP I)) (VP (AUX did)
+      (NOT n't)
+      (VP (VB know)
+       (S (NP (NN that)) (VP (MD would) (VP (VB fall))))))
+     (. .)))
+
+
+(ROOT (FRAG (WHADVP (WRB why)) (NOT not) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who) (RB else))
+     (SQ (VP (VBZ wants) (S (VP (TO to) (VP (VB go))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB how)) (PP (IN about)
+     (NP (DT the) (JJ little) (NN baby)))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,)
+     (S (VP (VB teach) (NP (NNP Mommy)) (WHADVP (WRB how)))
+     (. .)))
+
+
+(ROOT (S (VP (VB teach)
+	(NP (NNP Mommy))
+	(SBAR (WHNP (WP what)) (S (VP (TO to) (VP (VB do))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP I))
+      (VP (AUX have) (S (VP (TO to) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (. ?)))
+
+
+(ROOT (FRAG (WHNP (WHADJP (WRB how) (JJ many)) (NNS times)) (. ?)))
+
+
+(ROOT (SBARQ (CC and) (ADVP (RB then))
+     (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (. .)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (S (ADVP (RB now)) (VP (VB teach)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (DT the) (JJ little) (NN girl)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (PRP she)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and) (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SQ (NP (PRP you)) (VP (MD can) (NOT n't) (WHNP (WP what))) (. ?)))
+
+
+(ROOT (FRAG (CC and) (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (S (NP (NN that))
+	 (VP (COP 's)
+	     (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN stuff))))
+	     (S (VP (TO to)
+		 (VP (VB keep) (NP (NN track)) (PP (IN of)))))))
+     (, ,)
+     (SQ (VP (COP is)
+     (NOT n't)
+     (NP (PRP it)))
+     (. .)))
+
+
+(ROOT (FRAG (CC and)
+     (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (PRP she))
+      (VP (AUX have) (S (VP (TO to) (VP (VB do))))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay))
+     (, ,)
+     (S (ADVP (RB now))
+     (VP (VB see)
+      (SBAR (IN if)
+       (S (NP (PRP you))
+	(VP (MD can)
+	 (VP (VB teach)
+	  (NP (NNP Mommy))
+	  (SBAR (WHADVP (WRB how))
+	   (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))))))
+     (. .)))
+
+
+(ROOT (INTJ (UH yup)) (, ,)
+     (S (NP (PRP you))
+     (VP (VB teach) (NP (NNP Mommy)) (WHADVP (WRB how)))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP I))
+      (VP (AUX have) (S (VP (TO to) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (VBZ goes) (ADVP (RB first))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WDT which) (NN one)) 
+	(SQ (VP (VBZ goes) (ADVP (RB first))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB teach) (NP (PRP her)) (WHADVP (WRB how))) (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP 's) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WDT what) (NN one))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB want)
+       (S (NP (PRP me)) (VP (TO to) (VP (VB put) (PRT (RP on))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (ADVP (RB then))
+     (WHNP (WP what) (NN one))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB how) (RB come)) (. ?)))
+
+
+(ROOT (SQ (VP (AUX are)
+     (NP (PRP you))
+     (VP (VBG going)
+      (S (VP (TO to)
+	  (VP (VB come)
+	   (VP (VB see)
+	    (SBAR (WHNP (WP what))
+	     (S (VP (COP 's)
+		 (PP (IN inside) (PP (IN of) (NP (NN there)))))))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (PP (IN inside) (PP (IN of) (NP (NN there))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (PRP it)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (PRP we))
+      (VP (VBG goING)
+       (S (VP (TO To)
+	   (VP (VB do) (PP (IN with) (NP (DT these) (NNS cowboys)))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB why))
+     (SQ (VP (AUX do)
+      (NP (PRP I))
+      (VP (VB need) (NP (DT this) (JJ yellow) (NN thing)))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (AUX do)
+     (NP (PRP you))
+     (VP (VB know)
+      (SBAR (WHNP (WP what)) (S (NP (NN that)) (VP (COP is))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN this)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN that)))) (. ?)))
+
+
+(ROOT (INTJ (UH no))
+     (, ,)
+     (SBARQ (WHADVP (WRB why))
+     (SQ (VP (AUX do)
+      (NOT n't)
+      (NP (PRP you))
+		(VP (VP (VB stay) (ADVP (RB here)))
+		 (CC and)
+		 (VP (VB play)
+		  (PP (IN with) (NP (DT these) (NNS toys))))))))
+	     (CC and)
+	     (FRAG (ADVP (RB then)) (NP (PRP we)) (VP (MD can))))
+
+
+(ROOT (S (VP (VB look))) (, ,)
+     (SQ (VP (AUX do)
+     (NP (PRP you))
+     (VP (VB know)
+      (SBAR (WHNP (WP what)) (S (NP (NN this)) (VP (COP is))))))
+     (. ?)))
+
+
+(ROOT (FRAG (SBAR (WHNP (WDT whatever) (NN one))
+	   (S (NP (PRP you)) (VP (VB want))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is)
+      (NP (PRP she))
+      (VP (VBG goING)
+       (S (VP (TO To)
+	   (VP (VB say)
+	    (SBAR (WHADVP (WRB when))
+	     (S (NP (PRP she))
+	      (VP (VBZ goes) (PP (IN up) (NP (DT the) (NN slide))))))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is)
+      (NP (DT that) (JJ little) (NN girl))
+      (VP (VBG saying))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WDT what) (NNS people))
+      (SQ (VP (AUX are)
+       (VP (VBG going)
+	(PP (IN on) (NP (DT the) (NN slide)))
+	(ADVP (RB again)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (PRP she)) (VP (VBG saying))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (AUX do)
+     (NP (PRP you))
+     (VP (VB know)
+      (SBAR (WHNP (WP who)) (S (NP (PRP she)) (VP (COP is))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (PRP he)) (VP (VBG saying))))
+     (. ?)))
+
+
+(ROOT (S (NP (NN that))
+     (VP (COP 's)
+      (SBAR (WHADVP (WRB how)) (S (NP (PRP it)) (VP (VBZ goes)))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (PRP he))
+      (VP (VB say)
+       (SBAR (WHADVP (WRB when))
+	(S (NP (PRP he))
+	 (VP (VBZ wants) (S (VP (TO to) (VP (VB go) (PP (IN on)))))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (NP (NNP mommy)) (, ,) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (FRAG (CC and)
+     (WHNP (WP what)(RB else))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (PRP he))
+      (VP (VB do)
+       (SBAR (IN while)
+	(S (NP (NN everybody) (RB else))
+	 (VP (VBZ goes) (PP (IN on) (NP (DT the) (NN ride)))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (DT these) (NNS guys))
+      (VP (VBG goING)
+       (S (VP (TO To) (VP (VB do))))))) (, ,) (NP (NNP Jarrett))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are) (NP (PRP they)) (VP (VBG saying))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (NN this)) (PP (IN for))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (PP (IN in) (NP (NN here)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what) (RB else))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB have) (ADVP (RB there)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN this)))) (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX does) (NP (PRP he)) (VP (VB go))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB call)
+       (NP (NP (DT the) (NN place))
+       (SBAR (WHADVP (WRB where))
+	(S (NP (DT all) (DT these) (NNS things)) (VP (COP are))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB call)
+       (NP (NP (DT a) (NN place)) (PP (IN like) (NP (NN this)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB do) (ADVP (RB there)))))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and)
+     (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB play) (PP (IN on))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's)
+	  (NP (NP (PRP$ your) (JJ favorite) (NN ride))
+	   (PP (IN at) (NP (DT the) (NN park))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (NN this)) (PP (IN for))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (COP 's) (NP (NN that)) (PP (IN for))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (PRP it)))) (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB why))
+     (SQ (VP (AUX does)
+      (NP (PRP she))
+      (VP (VB wear) (NP (DT a) (NN hat)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (PRP$ his) (NN name))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (PRP$ his) (NN name))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB want) (S (VP (TO to) (VP (VB call) (NP (PRP him))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB how) (IN about))
+     (SBAR (IN if)
+      (S (NP (PRP we))
+       (VP (VB call) (NP (PRP him)) (NP (NNP Peter)))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB why)) (NP (NNP Mommy)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (MD will)
+	  (VP (VB happen)
+	   (SBAR (IN if)
+	    (S (NP (PRP I))
+	     (VP (AUX do)
+	      (NOT n't)
+	      (VP (VB hold) (PRT (RP on))))))))) (, ,) (NP (NNP Mommy))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT this) (JJ little) (NN boy))
+      (VP (VBG doing))
+       (PP (ADVP (RB all)) (IN by) (NP (PRP himself)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (VBZ happens)
+	  (SBAR (WHADVP (WRB when))
+	   (S (NP (DT the) (NNS kids))
+	   (VP (VB go) (PP (ADVP (RB round)
+	     (CC and)
+	     (RB round))
+	      (IN on) (NP (DT the) (NN merrygoround))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (DT the) (NN mommy)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,)
+     (S (NP (PRP you))
+     (VP (VB teach)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (NN that)))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB teach) (NP (PRP her)) (WHADVP (WRB how))) (. .)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (, ,) (NP (NNP Honey)) (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,)
+     (S (NP (PRP you))
+     (VP (VB teach)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (NN that)))))))
+     (. .)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VB show) (NP (PRP me)) (WHADVP (WRB how))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH oh)) (, ,)
+     (FRAG (WHNP (WP what))
+     (NP (DT a) (JJ good) (NN girl))
+     (. .)))
+
+
+(ROOT (S (ADVP (RB now))
+     (NP (PRP you))
+     (VP (VB teach)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (NN that)))))))
+     (. .)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (NP (DT a) (JJ good) (NN teacher))
+      (NP (PRP you)) (VP (COP are))
+     (. .)))
+
+
+(ROOT (SQ (VP (COP is)
+     (NP (NN that))
+     (SBAR (WHNP (WP what))
+      (S (NP (PRP you))
+       (VP (AUX 're)
+	(VP (VBG goING)
+	 (S (VP (TO To) (VP (VB be)))))))))) (, ,) (FRAG (NP (DT a) (NN teacher))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP are) (NP (PRP they)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (SBAR (WHADVP (WRB when))
+	    (S (NP (PRP you))
+	     (VP (VB go) (PP (IN to) (NP (DT the) (NN park))))))
+     (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB play) (PP (IN on)))))
+     (. ?)))
+
+
+(ROOT (FRAG (NP (DT the) (NNS hills)) (CC and) (WHNP (WP what) (RB else)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB do) (PP (IN at) (NP (DT the) (NN park))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what) (JJ other) (NN part))
+     (. ?)))
+
+
+(ROOT (S (ADVP (RB now))
+     (NP (PRP it))
+     (VP (VBZ looks)
+      (SBAR (IN like)
+       (S (NP (NP (DT a) (NN ladder))
+	   (SBAR (WHNP (WP that))
+	    (S (VP (VBZ goes)
+		(PP (ADVP (RB up)) (TO to) (NP (NN nowhere))))))))))) (, ,)
+	(SQ (VP (AUX does) (NOT n't) (NP (PRP it)))
+     (. .)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX 's) (NP (PRP she)) (VP (VBG going))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX 's) (NP (PRP she)) (VP (VBG going))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB think)
+       (SBAR (S (NP (PRP she)) (VP (AUX 's) (VP (VBG going))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (, ,) (NP (NNP Hon)) (. ?)))
+
+
+(ROOT (INTJ (UH no)) (, ,) (S (NP (PRP I))
+     (VP (AUX 've)
+      (ADVP (RB never))
+      (VP (VBN seen)
+       (NP (NP (DT a) (NN slide))
+	(SBAR (WHNP (WP that))
+	 (S (VP (VBD looked) (PP (IN like) (NP (NN that)))))))))
+     (. .)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (NP (NNP Hon)) (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (NP (NNP Honey)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 'd) (NP (PRP she)) (VP (VB bang) (PP (IN into)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP 's) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's)
+	  (NP (NP (DT that) (JJ little) (NN girl) (POS 's)) (NN name))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (NP (NNP Honey)) (. ?)))
+
+
+(ROOT (SQ (VP (COP is)
+     (NP (NN that))
+     (SBAR (WHADVP (WRB how))
+      (S (NP (PRP she))
+       (VP (VBZ goes) (PP (IN down) (NP (DT the) (NN slide)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is)
+      (NP (DT that) (JJ little) (NN girl))
+      (VP (VBG doing)
+       (ADVP (RB all) (RB over) (RB there)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (PRP she)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (S (NP (PRP I))
+     (VP (AUX do)
+      (NOT n't)
+      (VP (VB know)
+       (SBAR (WHNP (WP what))
+	(S (NP (PRP it)) (VP (VBZ looks) (PP (IN like)))))))
+     (. .)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) 
+	(S (ADVP (RB now))
+     (NP (PRP you))
+     (VP (VB teach)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (ADVP (RB now))
+     (WHNP (WP what))
+     (SQ (VP (AUX am)
+      (NP (PRP I))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (SQ (VP (COP is)(NP (NN that)) 
+	 (SBAR (WHNP (WP what))
+      (S (NP (PRP you))
+       (VP (VB want)
+	(S (NP (NNP Mommy)) (VP (TO to) (VP (VB do))))))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VB show)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+	     (S (VP (TO to) (VP (VB do) (NP (NN this)))))))))
+       (CC and)
+       (S (ADVP (RB then))
+	 (NP (PRP you))
+	 (VP (MD can) (VP (VB have) (NP (NN some))))))
+
+
+(ROOT (INTJ (UH yes)) (, ,)
+     (FRAG (SBAR (WHADVP (WRB when))
+      (S (NP (PRP you))
+       (VP (VB show)
+		(NP (NNP Mommy))
+		  (NP (DT these) (CD three) (NNS things)))))) (CC and)
+	       (FRAG (ADVP (RB then))
+		(NP (PRP we))
+		(VP (AUX 're)
+		 (VP (VBG goING) (S (VP (TO To) (VP (COP be))))))))
+
+
+(ROOT (SQ (VP (COP is)
+     (NP (NN that))
+     (SBAR (WHNP (WP what))
+      (S (NP (PRP you))
+       (VP (VB want) (S (NP (PRP me)) (VP (TO to) (VP (VB do))))))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (NNP Mommy))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB do) (ADVP (RB now)))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,)
+     (S (ADVP (RB now))
+     (NP (PRP you))
+     (VP (MD can)
+      (VP (VB show)
+       (NP (NNP Mommy))
+       (SBAR (WHADVP (WRB how))
+	(S (VP (TO to) (VP (VB do) (NP (PRP it))))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (NNP Mommy))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (S (VP (VB tell)
+      (NP (PRP me))
+      (ADVP (RB again))
+      (SBAR (IN because)
+       (S (NP (PRP I))
+	(VP (AUX did)
+	 (NOT n't)
+	 (VP (VB hear)
+	  (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBD said)))))))))
+     (. .)))
+
+
+(ROOT (SBARQ (ADVP (RB now))
+     (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB do) (ADVP (RB first)))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP I))
+      (VP (VB do) (ADVP (RB first) (RB now)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where)) (SQ (VP (COP 's) (NP (PRP mine)))) (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB now))
+     (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB do) (ADVP (RB first)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and) (ADVP (RB then))
+	(WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what) (DT a) (JJ good) (NN teacher))
+     (SQ (NP (PRP you)) (VP (COP are)))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP is) (NP (PDT all) (DT this) (NN stuff))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP 's) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP 's) (NP (NN this)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB call) (NP (PDT all) (DT these) (NNS pieces)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP they)) (VP (VB go) (PP (IN to)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB do)
+       (SBAR (WHADVP (WRB when))
+	(S (NP (PRP you))
+	 (VP (VB go) (PP (IN to) (NP (DT the) (NN park)))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+      (WHNP (WP what) (ADVP (RB else)))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB do) (PP (IN at) (NP (DT the) (NN park))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (DT the) (JJ little) (NN girl))
+      (VP (VB say)
+       (SBAR (WHADVP (WRB when))
+	(S (NP (PRP she))
+	 (VP (VBZ falls) (PP (IN off) (NP (DT the) (NN merrygoround)))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB have))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (DT the) (JJ little) (NN girl)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and) (WHNP (WP what) (RB else))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (PRP she))
+      (VP (VB say)
+       (SBAR (WHADVP (WRB when))
+	(S (NP (PRP she))
+	 (VP (VBZ gets) (PP (IN on) (NP (DT the) (NN merrygoround)))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (VBZ happens)
+	  (SBAR (IN after)
+	   (S (NP (PRP she)) (VP (VBZ falls) (PRT (RP down)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (DT these) (JJ little) (NNS girls))
+      (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (S (NP (NN that))
+     (VP (COP 's)
+      (SBAR (WHNP (WP what)) (S (NP (NNP mommy)) (VP (VBZ says)))))
+     (. .)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (. ?)))
+
+
+(ROOT (S (VP (VB let)
+	(NP (PRP 's))
+	 (VP (VB go)
+	  (VP (VB see)
+	   (SBAR (WHNP (WP what))
+	    (S (NP (DT the) (JJ other) (NNS kids))
+	     (VP (AUX are) (VP (VBG doing))))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (DT the) (NNS kids)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB why) (NOT not)) (. ?)))
+
+
+(ROOT (S (NP (PRP you))
+     (VP (VB tell)
+      (NP (PRP me))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB put) (NP (PRP it)) (ADVP (RB in)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB do) (NP (PRP it)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX do) (NP (PRP they)) (VP (VB sit))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (NN this)) (VP (VBN called))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH whoa)) (, ,) (SBARQ (WHNP (WP what)) (SQ (VP (VBD happened))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (DT the) (NN mommy)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB tell)
+	(SBAR (WHNP (WHNP (WP what))
+	 (S (NP (DT the) (NN mommy)) (VP (VBZ does))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT the) (NN mommy))
+      (VP (VBG goING)
+       (S (VP (TO To)
+	   (VP (VB do)
+	    (PP (IN about) (NP (DT this) (JJ little) (NN girl)))))))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (COP is)
+     (NP (NN that))
+     (SBAR (WHNP (WP what))
+      (S (NP (DT the) (NN mommy)) (VP (VBZ says)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WDT which) (NN one))
+     (SQ (VP (COP 's) (NP (DT the) (NN mommy))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WDT which) (NN one))
+     (SQ (VP (COP 's) (NP (DT the) (NN mommy))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (PRP$ your) (NN name))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (PRP$ your) (NN name))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+	  (VP (VBG goING) (S (VP (TO To) (VP (VB happen)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (PRP he)) (VP (VBG saying))))
+     (. ?)))
+
+
+(ROOT (S (INTJ (UH okay))
+     (VP (VB teach)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (NN that)))))))
+     (. .)))
+
+
+(ROOT (SBAR (WHNP (WP what) (DT a) (JJ good) (NN teacher))
+     (S (NP (PRP you)) (VP (COP are)))
+     (. !)))
+
+
+(ROOT (S (VP (VB show)
+	(NP (PRP me))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (S (ADVP (RB now))
+     (VP (VB see)
+      (SBAR (IN if)
+       (S (NP (PRP you))
+	(VP (MD can)
+	 (VP (VB tell)
+	  (NP (NNP Mommy))
+	  (SBAR (WHADVP (WRB how))
+	   (S (VP (TO to) (VP (VB do) (NP (NN that)))))))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB tell) (NP (PRP her)) (WHADVP (WRB how))) (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what) (NN kind))
+     (SQ (VP (COP is) (NP (NN that))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB try) (NP (DT that) (NN one))) (. .)))
+
+
+(ROOT (S (VP (VB see)
+	(SBAR (IN if)
+	 (S (NP (NNP Mommy)) (VP (VBZ knows) (WHADVP (WRB how))))))
+     (. .)))
+
+
+(ROOT (S (NP (NN that))
+     (VP (COP 's)
+      (SBAR (WHADVP (WRB how))
+       (S (NP (PRP you))
+	(VP (VB do) (NP (DT the) (JJ whole) (NN thing))))))
+     (. .)))
+
+
+(ROOT (SQ (VP (AUX did)
+     (NP (PRP you))
+     (VP (VB teach)
+      (NP (PRP me))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (PRP it))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (COP 's) (NP (NN that))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (COP 's) (NP (NN that))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP is) (NP (NN this))))) (, ,) (FRAG (NP (DT all) (DT this) (NN stuff))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP is) (NP (DT this) (NN place))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (PP (IN about) (NP (NN this))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP 's) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN this)))) (, ,) (NP (NNP Chris))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP is) (NP (DT that) (NN thing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (PRP it)) (VP (VBN called))))
+     (. ?)))
+
+
+(ROOT (S (NP (PRP you))
+	(VP (VBD went) (PP (IN to) (NP (DT the) (NN park)))))
+     (CC and)
+     (SBARQ (WHNP (WP what))
+      (SQ (VP (AUX did) (NP (PRP you)) (VP (VB ride))))
+      (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX did) (NP (PRP ja)) 
+	 (VP (VB ride) (PP (IN at) (NP (DT the) (NN park))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB why) (NOT not)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP 's) (NP (NN that)))) (. ?)))
+
+
+(ROOT (FRAG (NP (NN that)) (VP (VBZ looks) (PP (IN like)))))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (AUX does) (NP (NN that)) (VP (VB go) (PP (IN on)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (NN that)) (VP (VBN called))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (PRP it)) (VP (VBN called)) (ADVP (RB though))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (PRP she)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX 's)
+      (NP (PRP she))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB go) (PRT (RP down))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (DT the) (NN mommy))
+      (VP (VB say) (PP (IN to) (NP (DT the) (JJ little) (NN girl))))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB hold)
+	(PRT (RP on))
+	 (SBAR (WHADVP (WRB when))
+	  (S (NP (PRP you))
+	   (VP (VB go) (PP (IN on) (NP (DT the) (NN slide)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (DT the) (JJ little) (NN girl)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (PRP$ his) (NN name))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX 's)
+      (NP (PRP he))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB go)))))))
+     (. ?)))
+
+
+(ROOT (S (NP (DT that) (NN one))
+     (VP (COP 's) (NP (NNP Johnny)))
+     (. .)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX does) (NP (NNP Johnny)) (VP (VB go))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (NNP Johnny))
+      (VP (VB say) (PP (IN to) (NP (NNP Christopher))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (DT the) (NN mommy)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX did) (NP (PRP ja))
+	 (VP (VB do)
+	  (SBAR (WHADVP (WRB when))
+	   (S (NP (PRP you))
+	    (VP (VBD went) (PP (IN to) (NP (DT the) (NN park)))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+	(SQ (VP (AUX did) (NP (PRP ja))
+     (VP (VB do)
+	  (PP (IN at) (NP (DT the) (NN park)))))) (, ,) (NP (NNP Chris))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+	(SQ (VP (AUX did) (NP (PRP ja))
+    (VP (VB do) (ADVP (RB there)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) 
+	(SQ (VP (AUX did) (NP (PRP ja))
+     (VP (VB play) (PP (IN on)))))
+     (. ?)))
+
+
+(ROOT (SQ (NP (PRP you))
+     (VP (AUX do) (NOT n't) (VP (VB want) (WHNP (WP what))))
+     (. ?)))
+
+
+(ROOT (FRAG (VP (VB want)
+	(S (NP (PRP me))
+	 (VP (TO to)
+	  (VP (VB show)
+	   (NP (PRP you))
+	   (SBAR (WHADVP (WRB how))
+	    (S (VP (TO to) (VP (VB put) (NP (PRP them)) (PRT (RP on))))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT the) (NN mommy))
+      (VP (VBG doing) (ADVP (RB over) (RB here)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (PRP she)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (NNP Aunty) (NNP Brenda)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (NNP Aunty) (NNP Brenda)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP who))
+     (SQ (VP (AUX 's)
+	  (VP (VBG goING)
+	   (S (VP (TO To)
+	       (VP (VB go) (PP (IN in) (NP (DT the) (NN carriage)))))))))
+     (. .)))
+
+
+(ROOT (FRAG (VP (VB know) (WHNP (WP what))) (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX 's) (NP (PRP it)) (VP (VB go))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is)
+      (NP (DT this) (NN thing))
+      (VP (VBN called)) (ADVP (RB again))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (DT this) (NN thing)) (VP (VBN called))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT this) (JJ little) (NN girl))
+      (VP (VBG goING)
+       (S (VP (TO To)
+	   (VP (VB do)
+	    (ADVP (RB here)) (PP (ADVP (RB all))
+	    (IN by) (NP (PRP herself)))))))))
+     (. ?)))
+
+
+(ROOT (S (NP (PRP you)) (VP (VBD got) (NP (DT that) (NN one))) (. .)))
+
+
+(ROOT (SQ (NP (PRP you))
+     (VP (VB know)
+      (SBAR (WHNP (WP what))
+       (S (NP (PRP he))
+	(VP (AUX 's) (VP (VBG goING) (S (VP (TO To) (VP (VB say)))))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH hey)) (, ,)
+     (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (PRP you))
+      (VP (VBG doing) (PP (IN in) (NP (NN there))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (PRP you))
+      (VP (VBG doing) (PP (IN in) (NP (NN there))))))
+     (. ?)))
+
+
+(ROOT (NP (NNP Christopher)) (, ,)
+     (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (PRP they))
+      (VP (VBG doing) (PP (IN in) (NP (NN there))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (AUX 's) (VP (VBG pushing) (NP (DT the) (NN carriage)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP who))
+     (SQ (VP (COP 's) (PP (IN in) (NP (DT the) (NN carriage)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX are) (NP (PRP you)) (VP (VBG going))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (COP 's) (NP (NNP Mommy))))
+     (. .)))
+
+
+(ROOT (FRAG (SBAR (WHNP (WP that))
+	   (S (VP (VB go)
+	       (PP (ADVP (RB up))
+	        (IN in) (NP (DT the) (NN air))))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (AUX do)
+     (NP (PRP you))
+     (VP (VB know)
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to)
+	   (VP (VB fly)
+	    (NP (DT an) (NN airplane))
+	    (ADVP (NP (DT all) (DT the) (NN way))
+	    (RB up))
+	      (ADVP (RB high)
+	      (PP (IN in) (NP (DT the) (NN sky))))))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH whoa)) (, ,) (NP (NNP Brian)) (, ,)
+     (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (PP (IN in) (NP (NN here)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP is) (NP (DT all) (DT this) (NN stuff))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP 's) (NP (NN that)))) (. ?)))
+
+
+(ROOT (FRAG (CC and)
+    (WHADVP (WRB how)) (PP (IN about) (NP (NN this)))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN that)))) (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB how)) (PP (IN about) (NP (DT this) (NN thing)))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (PRP it)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (PRP it)))) (. ?)))
+
+
+(ROOT (SQ (VP (COP is)
+    (NP (NN that)) 
+	(SBAR (WHNP (WP what))
+      (S (NP (DT the) (JJ little) (NN girl))
+       (VP (VBZ says)
+	(SBAR (WHADVP (WRB when))
+	 (S (NP (PRP she))
+	  (VP (VBZ goes) (PP (IN down) (NP (DT the) (NN slide))))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP who))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB think)
+       (SBAR (S (NP (DT this) (NN lady)) (VP (COP is)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB think)
+       (SBAR (S (NP (DT this) (NN lady))
+	      (VP (COP is))))))) (, ,) (NP (NNP Brian))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB think) (SBAR (S (NP (NN that)) (VP (COP is)))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (. .)))
+
+
+(ROOT (FRAG (WHADVP (WRB how)) (PP (IN about)
+	(NP (DT this) (JJ little) (NN boy)))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB how)) (PP (IN about)
+     (SBAR (IN if) (S (NP (PRP we)) (VP (VB turn) (NP (PRP it))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP 's) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (NN this))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB make)
+       (S (NP (PRP them))
+	(VP (VB sit) (PP (IN on) (NP (DT the) (NN merrygoround))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (NP (PRP you)) (VP (VB know) (WHNP (WP what))) (. ?)))
+
+
+(ROOT (SQ (NP (PRP you))
+     (VP (VB want)
+      (S (VP (TO to) (VP (VB put) (NP (PRP her)) (WHADVP (WRB where))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT the) (NN mommy))
+      (VP (VBG going)
+       (S (VP (TO to)
+	   (VP (VB say)
+	    (PP (IN to) (NP (DT all) (DT these) (NNS kids)))))))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB be)
+	(ADJP (JJ careful))
+	(PP (IN on)
+	 (NP (DT that)(NN merrygoround)))) (, ,) 
+	 (INTJ (UH okay)) (, ,)  (NP (NNS kids))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (PRP you))
+      (VP (VBG doing) (PP (IN on) (NP (DT the) (NN ground))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH hey)) (, ,)
+     (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (PRP you))
+      (VP (VBG doing)
+       (PP (IN on) (NP (DT the) (NN ground)))
+       (ADVP (RB over) (RB here)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP he)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP we)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (PRP we))
+      (VP (VBG going)
+       (S (VP (TO to) (VP (VB do) (PP (IN to) (NP (NN that)))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (PP (IN for)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (PRP he))
+      (VP (VB want) (S (VP (TO to) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (DT the) (NN mommy)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB why))
+     (SQ (VP (AUX is) (NP (NN everybody)) (VP (VBG falling))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (DT the) (NN matter))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB how)) (PP (IN about)
+	(NP (DT this) (NN girl)))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is)
+      (NP (PRP she))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (VBZ happens)
+	  (SBAR (IN if)
+	   (S (NP (PRP she))
+	    (VP (AUX does) (NOT n't) (VP (VB hold) (PRT (RP on))))))))
+     (. .)))
+
+
+(ROOT (SBARQ (CC and) (ADVP (RB then))
+     (WHNP (WP what)) (SQ (VP (MD would) (VP (VB happen))))
+     (. ?)))
+
+
+(ROOT (FRAG (NP (PRP she))
+     (VP (MD might) (VP (VB be) (WHNP (WP what))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB want)
+       (S (NP (PRP me))
+	(VP (TO to)
+	 (VP (VB do) (PP (IN with) (NP (DT this) (NN one)))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB now))
+     (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (PRP we))
+      (VP (VBG goING)
+       (S (VP (TO To) (VP (VB do) (PP (IN with) (NP (PRP it)))))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH whoa)) (, ,)
+	(SBARQ (WHNP (WP what))
+      (SQ (VP (VBD happened) (PP (IN to) (NP (PRP her)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT this) (JJ little) (NN boy))
+      (VP (VBG goING)
+       (S (VP (TO To) (VP (VB do) (ADVP (RB over) (RB here))))))))
+     (. ?)))
+
+
+(ROOT (NP (NNP Brian)) (, ,)
+	(SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT this) (JJ little) (NN boy))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB why))
+     (SQ (VP (AUX are)
+      (NOT n't)
+      (NP (PRP they))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB fall) (PRT (RP off))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP$ whose) (NN turn))
+     (SQ (VP (COP is) (NP (PRP it)) (ADVP (RB now))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT that) (NN girl))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB why))
+     (SQ (VP (AUX does)
+      (NP (DT the) (NN mommy))
+      (VP (AUX need)
+       (S (VP (TO to) (VP (VB wear) (NP (DT this) (NN hat))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB why)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (DT all) (DT the) (NNS kids))
+      (VP (VBG goING)
+       (S (VP (TO To)
+	   (VP (VB do) (PP (IN in) (NP (DT the) (NN rain)))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX is) (NP (PRP she)) (VP (VBG going))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX 's) (NP (DT this) (NN boy)) (VP (VBG going))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX 's) (NP (PRP he)) (VP (VBG going))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX 's) (NP (PRP he)) (VP (VBG going))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (COP 's) (NP (PRP$ his) (NN mom))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADJP (WRB how) (JJ many))
+     (SQ (VP (COP is) (NP (NN that))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (CD five) (WP what)) (. ?)))
+
+
+(ROOT (FRAG (WHADJP (WRB how) (JJ many)) (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (S (VP (VB teach) (NP (NNP Mommy)) (WHADVP (WRB how)))
+     (. .)))
+
+
+(ROOT (INTJ (UH no)) (, ,) (S (VP (VB let)
+      (S (NP (PRP me))
+      (VP (VB see)
+       (SBAR (WHADVP (WRB how))
+	(S (NP (PRP you)) (VP (VB do) (NP (PRP it))))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB teach) (NP (NNP Mommy)) (WHADVP (WRB how))) (. .)))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (PRP her))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB do) (NP (PRP it)) (ADVP (RB now)))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB show)
+	(NP (PRP me))
+	(SBAR (WHADVP (WRB how))
+	 (S (NP (PRP you)) (VP (VBD did) (NP (PRP it))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB do) (ADVP (RB first)))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB show)
+	(NP (NNP Mommy))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (DT that) (NN part)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB do) (NP (PRP it)) (ADVP (RB first)))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB let)
+	 (S (NP (PRP me))
+	(VP (VB see)
+	 (SBAR (WHADVP (WRB how))
+	  (S (NP (DT the) (NN girl)) (VP (VBZ does) (NP (PRP it))))))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB show)
+	(NP (PRP me))
+	(SBAR (WHADVP (WRB how))
+	 (S (NP (PRP she)) (VP (VBZ does) (NP (PRP it))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB show) (NP (PRP me)) (WHADVP (WRB how))) (. .)))
+
+
+(ROOT (S (VP (VB show)
+	(NP (PRP her))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB teach)
+	(NP (NNP Mommy))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (NN that)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX did) (NP (PRP she)) (VP (VB do) (NP (PRP it)))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH well)) (, ,) (FRAG (WHNP (WP what))))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP I))
+     (VP (VB see)
+      (SBAR (WHNP (WP what))
+       (S (NP (DT the) (NN girl)) (VP (VBZ does))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH oh) (UH yeah)) (, ,)
+     (S (NP (PRP I))
+     (VP (COP was))) (, ,)
+      (CC so)
+       (SQ (VP (MD can)
+	(NP (PRP you))
+	(VP (VB show)
+	 (NP (PRP me))
+	 (SBAR (WHADVP (WRB how))
+	  (S (NP (PRP you)) (VP (VB do) (NP (NN that)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX was)
+      (NP (DT the) (NN girl))
+      (VP (VBG doing) (ADVP (RB now)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX did)
+      (NP (PRP she))
+      (VP (VB do) (PP (IN before) (NP (NN that))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH well)) (, ,) (S (VP (VB let)
+      (S (NP (PRP me))
+      (VP (VB see)
+       (SBAR (WHADVP (WRB how))
+	(S (NP (PRP she)) (VP (VBZ does) (NP (PRP it))))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB show) (NP (PRP her)) (WHADVP (WRB how))) (. .)))
+
+
+(ROOT (INTJ (UH alright)) (, ,)
+     (S (NP (PRP you))
+     (VP (VB show)
+      (NP (PRP me))
+      (SBAR (WHADVP (WRB how))
+       (S (NP (PRP you)) (VP (VB do) (NP (PRP it))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB teach)
+	(NP (NNP Mommy))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (NN that)))))))
+     (. .)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VB show)
+      (NP (PRP me))
+      (SBAR (WHADVP (WRB how))
+       (S (NP (PRP you))
+	(VP (VBD did) (NP (DT that) (NN one))))) (ADVP (RB again))))
+     (. ?)))
+
+
+(ROOT (S (NP (PRP you))
+     (VP (VB show)
+      (NP (PRP me))
+      (SBAR (WHADVP (WRB how))
+       (S (NP (PRP you))
+	(VP (VBD did) (NP (DT that) (NN one))))) (ADVP (RB again)))
+     (. .)))
+
+
+(ROOT (S (VP (VB teach)
+	(NP (NNP Mommy))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP I))
+     (VP (VB see)
+      (SBAR (WHADVP (WRB how))
+       (S (NP (PRP you)) (VP (VB do) (NP (NN that)))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH well)) (, ,) (FRAG (WHNP (WDT which) (NN one))))
+
+
+(ROOT (S (NP (PRP you))
+     (VP (VB show)
+      (NP (PRP me))
+      (SBAR (WHADVP (WRB how))
+       (S (NP (PRP you)) (VP (VB do) (NP (PRP it))))))
+     (. .)))
+
+
+(ROOT (FRAG (ADVP (RB now))
+     (WHNP (WDT what) (NN one))
+	 (NP (PRP you)) (VP (VBG getting))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WDT which) (NN one))
+     (NP (PRP you)) (VP (VB do)) (, ,) (NP (NNP Brian))
+     (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB now))
+     (WHNP (WDT what) (NN one))
+     (SQ (VP (AUX do)
+      (NP (PRP I))
+      (VP (VB put) (PRT (RP on)) (ADVP (RB now)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WDT which) (NN one))
+     (SQ (VP (COP is) (NP (PRP it))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (PP (IN in) (NP (NN there)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (PRP it)))) (. ?)))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (PRP me))
+	(SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (COP is)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB call) (NP (NN that)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB call) (NP (NN this)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (DT that) (NN lady)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (NN that)) (VP (VBN called))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (PRP she)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SQ (NP (PRP he))
+     (VP (AUX 's) (VP (VBG doing) (WHNP (WP what))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (PRP she)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN this)))) (. ?)))
+
+
+(ROOT (FRAG (NP (NP (DT a) (NN cover)) (PP (IN for) (WHNP (WP what))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN this)))) (. ?)))
+
+
+(ROOT (INTJ (UH no)) (CC but)
+     (SQ (SBAR (WHADVP (WRB when))
+      (S (NP (PRP you))
+       (VP (VB go)
+	(PP (IN to) (NP (DT the) (NN park))))))
+	(VP (AUX do)
+		  (VP (VB like) (S (VP (TO to) (VP (VB go))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB like)
+       (S (VP (TO to)
+	   (VP (VB ride) (PP (IN at) (NP (DT the) (NN park)))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WHNP (WP what) (NN kind))
+	    (PP (IN of) (NP (NNS rides))))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and)
+     (WHNP (WP what) (RB else))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB say)
+       (PP (IN to) (NP (NNP Chrissy) (CC and) (NNP Eddie)))
+       (SBAR (WHADVP (WRB when))
+	(S (NP (PRP you)) (VP (VB see) (NP (PRP them))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB say) (PP (IN to) (NP (PRP them))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are) (NP (PRP you)) (VP (VBG doing)))) (, ,) (NP (NNP Kevin))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (PRP he)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB so))
+     (WHADVP (WRB where))
+     (SQ (VP (AUX 's)
+      (NP (NNP Eddie))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB sit)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB why))
+     (SQ (VP (AUX did) (NP (PRP she)) (VP (VB fall) (PRT (RP off)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (PRP$ her) (NN name))))
+     (. ?)))
+
+
+(ROOT (FRAG (NP (PRP he)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (PRP$ her) (NN name))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC but)
+     (WHNP (WP what))
+     (SQ (VP (COP 's)
+	  (NP (NP (DT that) (JJ little) (NN girl) (POS 's)) (NN name))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is)
+      (NP (DT this) (JJ little) (NN girl))
+      (VP (VBG doing) (ADVP (RB over) (RB here)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT the) (NN mommy))
+      (VP (VBG goING)
+       (S (VP (TO To)
+	   (VP (VB say)
+	    (SBAR (IN if)
+	     (S (NP (PRP she))
+	      (VP (VBZ rides) (PP (IN like) (NP (NN that))))))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (MD will) (NP (NNP Mommy)) (VP (VB say)))) (, ,) (INTJ (UH huh))
+     (. ?)))
+
+
+(ROOT (NP (NNP Kevin)) (, ,)
+     (SBARQ (WHNP (WP what))
+     (SQ (VP (MD will) (NP (NNP Mommy)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH oops)) (, ,) (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX 'd) (NP (PRP$ her) (NN hat)) (VP (VB go))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB why))
+     (SQ (VP (AUX does)
+      (NP (PRP she))
+      (VP (AUX need)
+       (S (VP (TO to) (VP (VB wear) (NP (PRP$ her) (NN hat))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB why))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB need) (NP (PRP it)))))
+     (. .)))
+
+
+(ROOT (FRAG (VP (VB cause) (WHNP (WP what))) (. ?)))
+
+
+(ROOT (FRAG (VP (VB cause) (WHNP (WP what))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (AUX 's)
+	  (VP (VBG goING)
+	   (S (VP (TO To)
+	       (VP (VB go) (PP (IN on)) (PP (DT this) (NN time))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (NNP Chrissy) (CC and) (NNP Eddie))
+      (VP (VB like)
+       (S (VP (TO to)
+	   (VP (VB do) (PP (IN at) (NP (DT the) (NN park)))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX did) (NP (PRP you)) (VP (VB do) (ADVP (RB there)))))
+     (. ?)))
+
+
+(ROOT (SQ (ADVP (RB now))
+     (VP (MD can)
+     (NP (PRP you))
+     (VP (VB teach)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (PRP it))))))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (NNP Mommy))
+	(SBAR (WHNP (WP what)) (S (VP (TO to) (VP (VB do))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and) (ADVP (RB then)) (WHNP(WP what)) (. ?)))
+
+
+(ROOT (FRAG (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB then))
+     (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX did) (NP (PRP I)) (VP (VB tell) (NP (PRP you)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (PRP you))
+      (VP (VBG teaching) (NP (NNP Mommy)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (PRP you))
+      (VP (VBG teaching)
+       (S (NP (NNP Mommy))
+	(VP (TO to)
+	 (VP (VB do)
+	  (PP (IN with) (NP (DT this) (JJ little) (NN girl)))))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,)
+     (S (VP (VB tell)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to)
+	   (VP (VB do)
+	    (NP (PRP it))))))
+	    (SBAR (IN cause)
+	     (S (NP (NNP Mommy))
+		    (VP (AUX does)
+		     (NOT n't)
+		     (VP (VB know)
+		      (WHADVP (WRB how))))))))
+		       (FRAG (CC and) (NP (PRP she))))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (NNP Mommy))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (SQ (VP (COP is)
+	 (NP (NN that))
+	 (SBAR (WHNP (WP what))
+	  (S (NP (DT the) (JJ little) (NN girl))
+	   (VP (COP 's)
+	    (ADJP (JJ supposed) (S (VP (TO to) (VP (VB do)))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and) (ADVP (RB then))
+     (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (S (VP (VB teach)
+      (NP (NNP Mommy))
+      (WHADVP (WRB how))
+       (SBAR (IN cause)
+	   (S (NP (PRP she))
+		     (VP (AUX was) (NOT n't) (VP (VBG listening))))
+		  (CC and)
+		  (S (NP (PRP she))
+		   (VP (AUX did) (NOT n't) (VP (VB know))))))))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (NNP Mommy))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (NNP Mommy))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to)
+	     (VP (VB do)
+	      (NP (PRP it))
+	      (PP (IN with) (NP (DT the) (NN bench))))))))
+     (. .)))
+
+
+(ROOT (INTJ (VP (VB come) (IN on))) (, ,) (NP (NNP Kevin)) (, ,)
+     (S (VP (VB show)
+      (NP (PRP me))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to)
+	   (VP (VB put)
+	    (NP (DT the) (NN girl))
+	    (PP (IN on) (NP (DT the) (NN chair))))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (NNP Mommy))
+	(SBAR (WHNP (WP what)) (S (VP (TO to) (VP (VB do))))))
+     (. .)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VB teach)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (NN that))))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (S (ADVP (RB now))
+     (VP (VB show)
+      (NP (PRP her))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB show)
+	(NP (PRP her))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB teach)
+	(NP (NNP Mommy))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and) (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (FRAG (CC and) (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (S (ADVP (RB then)
+	    (NP (PRP she)) (VP (VBZ gets) (ADJP (JJ tired)))))
+     (CC so)
+     (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (AUX did)
+     (NP (PRP you))
+     (VP (VB teach)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (NN that))))))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (AUX did)
+     (NP (PRP you))
+     (VP (VB teach)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (NN that))))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH no)) (, ,)
+     (S (VP (VB teach)
+      (NP (PRP me))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (NN that)))))))
+     (. .)))
+
+
+(ROOT (S (NP (DT the) (NN person))
+     (VP (AUX 's)
+      (NOT not)
+      (VP (VBG goING)
+       (S (VP (TO To)
+	   (VP (VB let)
+	    (S (NP (PRP you))
+	    (VP (VB show)
+	     (NP (PRP me))
+	     (SBAR (WHNP (WP what)) (S (VP (TO to) (VP (VB do))))))))))))
+     (. .)))
+
+
+(ROOT (S (NP (PRP you))
+     (VP (AUX have)
+      (S (VP (TO to)
+	  (VP (VB show)
+	   (NP (NNP Mommy))
+	   (SBAR (WHNP (WP what)) (S (VP (TO to) (VP (VB do)))))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX did) (NP (PRP I)) (VP (VB show) (NP (PRP you)))))
+     (. ?)))
+
+
+(ROOT (FRAG (VP (VB remember)
+	(SBAR (WHNP (WP what))
+	 (S (NP (PRP I)) (VP (VBD showed) (NP (PRP you))))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB watch)
+	(SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VB do)))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (CC and) (FRAG (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (CC and) (FRAG (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (FRAG (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VB teach)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (NN that))))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (S (NP (NNP Mommy))
+     (VP (VBZ wants)
+      (S (VP (TO to)
+	  (VP (VB know)
+	   (SBAR (WHADVP (WRB how))
+	    (S (VP (TO to)
+		(VP (VB do)
+		 (NP (PRP it)))))))))))
+		 (CC so)
+		  (S (NP (PRP we))
+		   (VP (AUX 're)
+		    (VP (VBG goING)
+		     (S (VP (TO To)
+			 (VP (VB turn) (NP (NN everything)))))))))
+
+
+(ROOT (S (ADVP (RB now))
+     (VP (VB teach)
+      (NP (NNP Mommy))
+      (SBAR (WHNP (WP what))
+       (S (VP (TO to)
+	   (VP (VB do)))))))
+	    (CC cause)
+	     (S (NP (NNP Mommy))
+		    (VP (VBZ wants)
+		     (S (VP (TO to)
+			 (VP (VB know)
+			  (SBAR (WHNP (WP what))
+			   (S (VP (TO to) (VP (VB do)))))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB teach)
+	(NP (PRP her))
+	(SBAR (WHNP (WP what)) (S (VP (TO to) (VP (VB do))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (NNP Mommy))
+	(FRAG (WHADVP (WRB how)) (S (VP (TO to) (NP (PRP it))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB jump) (PP (IN over)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB jump) (PP (IN over)))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WDT which) (NN one)) (. ?)))
+
+
+(ROOT (S (SBAR (IN if)
+	(S (NP (PRP you)) (VP (VB teach) (NP (NNP Mommy)))))
+     (ADVP (RB then))
+     (NP (PRP she))
+     (VP (MD 'll)
+      (VP (VB know)
+       (SBAR (WHNP (WP what)) (S (VP (TO to) (VP (VB do)))))))
+     (. .)))
+
+
+(ROOT (SQ (ADVP (RB now))
+     (VP (MD can)
+     (NP (PRP you))
+     (VP (VB show)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB make) (NP (DT that) (NN necklace))))))))
+     (. .)))
+
+
+(ROOT (INTJ (UH well)) (, ,) (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB do) (NP (PRP it)))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (S (ADVP (RB now))
+     (VP (VB show)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB make) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (CC and) (ADVP (RB then)) 
+	(WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and) (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (INTJ (UH well)) (, ,) (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are) (NP (PRP you)) (VP (VBG doing) (ADVP (RB now)))))
+     (. ?)))
+
+
+(ROOT (S (NP (PRP you))
+     (VP (ADVP (RB just))
+     (VP (VBD taught) (NP (NNP Mommy)) (WHADVP (WRB how))))
+     (. .)))
+
+
+(ROOT (FRAG (WHNP (WP what))
+	   (NP (DT a) (JJ good) (NN boy))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP are)
+	  (NP (NP (DT all) (DT those) (NNS pieces))
+	   (SBAR (S (NP (PRP you)) (VP (VB have)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP is) (NP (DT this) (NN thing))))
+     (. ?)))
+
+
+(ROOT (SQ (NP (PRP you))
+     (VP (VB know)
+      (SBAR (WHNP (WP who)) (S (NP (NN that)) (VP (COP is)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB think)
+       (SBAR (S (NP (PRP it))
+	      (VP (COP is)
+	       (ADJP (JJ next)
+		(PP (IN to) (NP (DT all) (DT the) (NNS kids))))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and) (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (COP is)
+     (NP (NN this))
+     (SBAR (WHADVP (WRB how))
+      (S (NP (PRP you)) (VP (VB go) (PP (IN on))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB go))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (MD should) (NP (PRP I)) (VP (VB go))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what))
+     (PP (IN about)
+     (NP (DT this) (JJ little) (NN girl)))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB go))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (MD can)
+      (NP (PRP I))
+      (VP (VB do)
+       (SBAR (IN while)
+	(S (NP (PRP they))
+	 (VP (COP 're) (PP (IN on) (NP (DT the) (NN merrygoround)))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX am)
+      (NP (PRP I))
+      (VP (VBG going)
+       (S (VP (TO to)
+	   (VP (VB do)
+	    (SBAR (IN while)
+	     (S (NP (PRP they))
+	      (VP (COP 're)
+	       (PP (IN on) (NP (DT the) (NN merrygoround))))))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX am)
+      (NP (PRP I))
+      (VP (VBG going) (S (VP (TO to) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (NN that)) (VP (VB look) (PP (IN like)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (PRP it)))) (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB why))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB wear) (NP (DT a) (NN hat)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (PP (IN with) (NP (DT this) (JJ little) (NN boy)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (PRP he)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (COP 's) (PP (IN in) (NP (DT the) (NN carriage)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (DT the) (NN mommy)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (VBD happened))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT this) (JJ little) (NN girl))
+      (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB why)) (NOT not) (. ?)))
+
+
+(ROOT (INTJ (UH oh)) (, ,)  (SBARQ (WHNP (WP what))
+      (SQ (VP (AUX 's)
+       (NP (DT this) (NN lady))
+       (VP (VBG goING) (S (VP (TO To) (VP (COP be)))))))
+     (. ?)))
+
+
+(ROOT (S (NP (NP (DT all)) (SBAR (S (NP (PRP we))
+     (VP (VB want)
+      (S (NP (PRP you))
+       (VP (TO to)
+	(VP (VB do))))))))
+	 (VP (COP is)
+		   (S (VP (VB show) (NP (NNP Mommy))
+		   (SBAR (WHNP (WP what))
+		    (S (VP (TO to) (VP (VB do))))))))
+     (. .)))
+
+
+(ROOT (SBARQ (INTJ (UH alright)) (ADVP (RB now))
+     (WHNP (WP what))
+     (SQ (VP (AUX am)
+      (NP (PRP I))
+      (VP (VBN supposed) (S (VP (TO to) (VP (VB do)))))))
+     (. .)))
+
+
+(ROOT (FRAG (VP (VB show) (NP(NNP Mommy)) (WHNP (WP what)))))
+
+
+(ROOT (S (NP (PRP you))
+     (VP (VBD showed)
+      (NP (PRP her))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB see)
+	(SBAR (IN if)
+	 (S (NP (NNP Mommy))
+	  (VP (MD can)
+	   (VP (VB do)
+	    (SBAR (WHNP (WP what))
+	     (S (NP (PRP you)) (VP (VBD taught) (NP (PRP her))))))))))
+     (. .)))
+
+
+(ROOT (INTJ (UH alright)) (, ,)
+     (SQ (NP (PRP you))
+     (VP (VB want)
+      (S (NP (PRP me))
+       (VP (TO to)
+	(VP (VB do)
+	 (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBD did))))))))
+     (. ?)))
+
+
+(ROOT (S (NP (PRP you))
+     (VP (VB cover)
+      (NP (PRP$ your) (NNS eyes))
+      (SBAR (WHADVP (WRB when))
+       (S (NP (PRP we))
+	(VP (AUX 're)
+	 (VP (VBG explaining)
+	  (PP (IN to) (NP (PRP him)))
+	  (SBAR (WHADVP (WRB how))
+	   (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))))))) (, ,) (FRAG (CC and)))
+
+
+(ROOT (INTJ (UH alright)) (, ,) (S (ADVP (RB now))
+     (NP (PRP you))
+     (VP (VB show) (NP (NNP Mommy)) (WHADVP (WRB how)))
+     (. .)))
+
+
+(ROOT (S (VP (VB show) (NP (PRP her)) (WHADVP (WRB how))) (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's)
+	  (NP (NP (DT the) (NN one))
+	   (SBAR (S (NP (PRP I))
+		  (VP (ADVP (RB just))
+		  (VP (VBD showed) (NP (PRP you)))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what) (NN one))
+     (SQ (VP (AUX did)
+      (NP (PRP I))
+      (ADVP (RB just)) (VP (VB show) (NP (PRP you)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (VBD happened))) (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (. ?)))
+
+
+(ROOT (S (VP (VB let)
+	(S (NP (PRP 's))
+	 (VP (VB see)
+	  (SBAR (IN if)
+	   (S (NP (NNP Mommy))
+	    (VP (MD can) (VP (VB do) (WHNP (WP what)))))))))
+     (. .)))
+
+
+(ROOT (S (CC and) (ADVP (RB then)
+	(NP (PRP we))
+	(VP (MD 'll)
+	 (VP (VB take)
+	  (NP (DT the) (NN bench))
+	  (ADVP (RB over) (RB here))
+      (SBAR (IN cause)
+      (S (NP (NN that))
+	     (VP (COP 's)
+	      (SBAR (WHNP (WP what))
+	       (S (NP (PRP you)) (VP (VBD did))))))))))))
+
+
+(ROOT (SQ (VP (COP is)
+     (NP (NN that))
+     (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBD did)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (PRP we))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and) (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (SBARQ (ADVP (RB now))
+     (WHNP (WP$ whose) (NN turn))
+     (SQ (VP (COP is) (NP (PRP it))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (AUX do)
+     (NP (PRP you))
+     (VP (VB know)
+      (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (COP is))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (COP it)))) (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB go)
+       (S (VP (TO to)
+	   (VP (VB get)
+	    (PP (IN on)
+	     (NP (NP (NNS things)) (PP (IN like) (NP (NN this)))))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX was) (NP (PRP it)) (VP (VBN called))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB see))) (, ,)
+	(S (NP (PRP you))
+	 (VP (VB know)
+	  (SBAR (WHNP (WP what)) (S (NP (PRP it)) (VP (COP is)))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (NN this)) (VP (VBN called))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (NN this)) (VP (VBN called))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (DT this) (NN ride)) (VP (VBN called))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (AUX do)
+     (NP (PRP you))
+     (VP (VB know)
+      (SBAR (WHNP (WP what))
+       (S (NP (DT that) (NN ride)) (VP (AUX is) (VP (VBN called)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's)
+	  (NP (NP (PRP$ your) (JJ favorite) (NN ride))
+	   (PP (IN at) (NP (DT the) (NN park))))))
+     (. ?)))
+
+
+(ROOT (NP (NNP Aaron)) (, ,) (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's)
+	  (NP (PRP$ your) (JJ favorite) (NN ride))
+	   (SBAR (WHADVP (WRB when))
+	    (S (NP (PRP you))
+	     (VP (VB go) (PP (IN to) (NP (DT the) (NN park))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who)) (SQ (VP (COP 's) (NP (NN this)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (AUX does) (NP (PRP it)) (VP (VB look) (PP (IN like)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (COP is) (NP (NN this))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (PRP it)))) (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB sit) (NP (PRP her)) (PRT (RP down)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (AUX have) (S (VP (TO to) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (PRP he))
+      (VP (VB say) (PP (IN to) (NP (PRP$ his) (NN mom))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (DT the) (NN mommy)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and) (ADVP (RB then))
+     (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB why))
+     (SQ (VP (MD can)
+      (NOT n't)
+      (NP (PRP I))
+      (VP (VB go)
+       (PP (IN on) (NP (DT the) (NN merrygoround)))))) (, ,) (NP (NNP Mom))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB why)) (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB why) (NOT not)) (. ?)))
+
+
+(ROOT (INTJ (UH whoops)) (, ,) (SBARQ (WHNP (WP what))
+	 (SQ (VP (VBD happened)
+	     (PP (IN to)
+	      (NP (NP (DT that) (NN one))
+	       (ADVP (RB over) (RB there))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (VBD happened) (PP (IN to) (NP (DT that) (NN one)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (DT that) (NN mom)) (VP (VBG saying))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH uhoh)) (, ,) (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is)
+      (NP (DT this) (NN girl))
+      (VP (VBG doing)))) (, ,) (NP (NNP Aaron))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (PRP she)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB then))
+     (WHADVP (WRB how))
+     (SQ (VP (MD can) (NP (PRP she)) (VP (AUX be) (VP (VBG swimming)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (MD should) (NP (PRP I)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (MD should) (NP (PRP I)) (VP (VB do)))) (, ,) (NP (NNP Mommy))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (NN this)))) (, ,) (NP (NNP Aaron))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (PRP it)) (VP (VBN called))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (PRP it)) (VP (VBN called))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (PRP it)) (VP (VBN called))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (PRP she)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (PRP she)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB now))
+     (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (PRP she)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SQ (NP (NN this))
+     (VP (COP is)
+      (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VB do)))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (VBZ hurts))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what) (SQ (VP (AUX did) (NP (PRP ja)) (VP (VB hurt))))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what) (SQ (VP (AUX did) (NP (PRP ja)) (VP (VB hurt))))) (. ?)))
+
+
+(ROOT (SQ (NP (PRP you))
+     (VP (VB want)
+      (S (VP (TO to) (VP (VB go) (PP (IN to) (WHADVP (WRB where)))))))
+     (. ?)))
+
+
+(ROOT (FRAG (NP (DT the) (NN knee)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT the) (NN doctor))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB say)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (DT the) (NN matter)))) (, ,) (NP (NN son))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX did) (NP (PRP you)) (VP (VB do) (ADVP (RB wrong)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (VBD happened))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (VBD happened))) (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX 's) (NP (NN that)) (VP (VB feel))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX 's) (NP (PRP it)) (VP (VB feel))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB hold) (PRT (RP on))
+	(SBAR (WHADVP (WRB when))
+	 (S (NP (PRP you)) (VP (AUX 're) (VP (VBG playing)))))))
+	  (CC and)
+	  (S (NP (PRP we))
+	   (VP (MD 'll)
+	    (VP (VB see)
+	     (NP (PRP you))
+	     (PP (IN in) (NP (DT a) (JJ couple) (NNS weeks)))))
+     (. .)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (S (VP (VB show) (NP (NNP Mommy)) (WHADVP (WRB how)))
+     (. .)))
+
+
+(ROOT (S (VP (VB teach)
+	(NP (NNP Mommy))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VB teach)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to)
+	   (VP (VB do)
+	    (SBAR (WHNP (WP what))
+	     (S (NP (PRP I))
+	      (VP (ADVP (RB just))
+	      (VP (VBD showed) (NP (PRP you))))))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB do) (NP (NN that)))))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and) (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (FRAG (WHNP (WHADJP (WRB how) (JJ many)) (NNS times)) (. ?)))
+
+
+(ROOT (FRAG (WHADJP (WRB how) (JJ many)) (. ?)))
+
+
+(ROOT (S (ADVP (RB now))
+     (NP (PRP you))
+     (VP (AUX have)
+      (S (VP (TO to)
+	  (VP (VB teach)
+	   (NP (NNP Mommy))
+	   (SBAR (WHADVP (WRB how))
+	    (S (VP (TO to)
+		(VP (VB do)
+		 (NP (NN that))
+		  (SBAR (IN cause)
+		      (S (NP (PRP she))
+			     (VP (AUX does) (NOT n't) (VP (VB know)))))))))))))))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB do) (NP (PRP it)))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (S (VP (VB teach)
+      (NP (NNP Mommy))
+      (WHADVP (WRB how))
+       (SBAR (IN cause)
+	   (S (NP (PRP she))
+		  (VP (AUX does)
+		   (NOT n't)
+		   (VP (VB know) (WHADVP (WRB how)))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB show)
+	(NP (PRP her))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (S (NP (NN that))
+     (VP (COP 's)
+      (NOT not)
+      (SBAR (WHADVP (WRB how))
+       (S (NP (PRP you)) (VP (VB do) (NP (PRP it))))))
+     (. .)))
+
+
+(ROOT (S (NP (PRP you))
+	(VP (AUX 're)
+	 (VP (VBG goING)
+	  (S (VP (TO To)
+	      (VP (VB teach)
+	       (NP (PRP her))
+	       (NP (DT the) (JJ wrong) (NN way))))))))
+     (CC and)
+     (S (NP (PRP she))
+      (VP (AUX 's)
+       (NOT not)
+       (VP (VBG goING)
+	(S (VP (TO To) (VP (VB know) (WHADVP (WRB how)))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB teach) (NP (PRP her)) (WHADVP (WRB how))) (. .)))
+
+
+(ROOT (S (NP (PRP she)) (VP (VBD did) (NP (PRP it))))
+     (CC and)
+     (S (NP (PRP you))
+      (VP (VBD taught) (NP (PRP her)) (WHADVP (WRB how)))
+     (. .)))
+
+
+(ROOT (S (ADVP (RB now))
+     (NP (PRP you))
+     (VP (MD can)
+      (VP (VB show)
+       (NP (NNP Mommy))
+       (SBAR (WHADVP (WRB how))
+	(S (VP (TO to) (VP (VB do) (NP (PRP it))))))))
+     (. .)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (S (VP (VB teach) (NP (PRP her)) (WHADVP (WRB how)))
+     (. .)))
+
+
+(ROOT (S (VP (VB let)
+	 (S (NP (PRP 's))
+	    (VP (VB take)
+	     (NP (NN these))
+	     (PRT (RP off))
+	     (SBAR (IN so)
+	      (S (NP (PRP you))
+	       (VP (MD can) (VP (VB teach) (NP (NNP Mommy)) (WHADVP (WRB how)))))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB do) (NP (PRP it)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (COP 's) (NP (NN that))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH oh)) (, ,) (SQ (NP (PRP you))
+     (VP (VB get)
+      (ADJP (JJ scared))
+       (SBAR (WHADVP (WRB when))
+	(S (NP (DT the) (NN door)) (VP (COP is) (ADJP (JJ closed))))))
+     (. ?)))
+
+
+(ROOT (SQ (NP (PRP they)) (VP (COP 're) (WHNP (WP what))) (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (VP (COP are))))
+
+
+(ROOT (SQ (NP (PRP they)) (VP (COP 're)
+      (WHNP (WHNP (WP what) (NN kind)) (PP (IN of) (NP (NNS people)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (COP is) (NP (PRP$ his) (NN mother))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WHNP (WP what) (NN kind))
+	    (PP (IN of) (NP (NN place))))
+     (SQ (VP (COP is) (NP (NN this)))) (, ,) (NP (NNP Anthony))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (NN this)) (VP (VBN called))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (NN that)) (VP (VBN called))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (NN this)) (VP (VBN called))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (DT that) (JJ little) (NN boy))
+      (VP (VB say)
+       (SBAR (WHADVP (WRB when))
+	(S (NP (PRP he))
+	 (VP (VBZ goes) (PP (IN down) (NP (DT the) (NN slide)))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB how)) (PP (IN about)
+     (SBAR (IN if)
+      (S (NP (DT this) (JJ little) (NN girl))
+       (VP (VBZ goes) (PRT (RP on))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (NP (PRP you))
+     (VP (VB know)
+      (WHNP (WP what))
+       (SBAR (WHADVP (WRB when))
+       (S (NP (PRP you))
+	(VP (VB go) (PP (IN to) (NP (DT the) (NN park)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WDT what) (NNS rides))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB like) (S (VP (TO to) (VP (VB play) (PP (IN on))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB why)) (NOT not) (. ?)))
+
+
+(ROOT (INTJ (UH well)) (, ,) (SBARQ (WHNP (WP who))
+     (SQ (VP (COP 's)
+	  (NP (NP (DT this) (NN person)) (ADVP (RB over) (RB here))))) (, ,) (NP (NNP Anthony))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and) (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT that) (JJ little) (NN girl))
+      (VP (VBG doing)
+       (ADVP (RB over) (RB there))
+       (PP (IN by) (NP (PRP herself))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB call) (NP (NN that)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX does) (NP (DT this) (NN hat)) (VP (VB go))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and) (WHNP (WP who))
+     (SQ (VP (COP 's)
+	 (NP (NN that)) (ADVP (RB over) (RB there))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (MD should) (NP (PRP I)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (MD should) (NP (PRP I)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's)
+	  (NP (NP (DT that) (JJ little) (NN girl) (POS 's)) (NN name))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (VBD happened)
+	  (PP (IN to) (NP (DT that) (JJ little) (NN boy)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (VBD happened) (PP (IN to) (NP (PRP him)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (DT the) (NN daddy)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WDT which) (NN way))
+     (SQ (VP (AUX does) (NP (PRP he)) (VP (VB go))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's)
+	  (NP (NP (DT the) (NN brother) (POS 's)) (NN name))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WDT which) (NN one))
+     (SQ (VP (VBZ wants)
+	  (S (VP (TO to) (VP (VB get) (PRT (RP off)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB why))
+     (SQ (VP (AUX do)
+      (NP (PRP they))
+      (VP (VB want) (S (VP (TO to) (VP (VB get) (PRT (RP off))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (MD will)
+      (NP (PRP they))
+      (VP (AUX have) (S (VP (TO to) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (PP (IN about))))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (DT the) (NN dad)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (COP is)
+	 (NP (NN that))
+	 (SBAR (WHNP (WP what))
+	  (S (NP (DT the) (NN dad)) (VP (AUX 's) (VP (VBG saying))))))
+     (. ?)))
+
+
+(ROOT (SQ (ADVP (RB now))
+     (VP (MD can)
+     (NP (PRP you))
+     (VP (VB teach)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (NN that))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB now))
+     (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (AUX haf) (S (VP (TO ta) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (COP is)
+     (NP (NN that))
+     (SBAR (WHADVP (WRB how))
+      (S (NP (PRP she)) (VP (VBZ does) (NP (PRP it))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP I))
+      (VP (VB got)
+      (S (VP (TO ta)
+	  (VP (VB do) (PP (IN with) (NP (DT this) (NN guy)))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WHADJP (WRB how) (JJ many)) (NNS times)) (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB now))
+     (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB then))
+     (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP I))
+      (VP (VB do)
+       (SBAR (IN once) (S (NP (PRP he)) (VP (VBZ bounces)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (PRP she))
+      (VP (VB do)
+       (SBAR (PP (IN after)
+	(S (NP (PRP she))
+	 (VP (VBZ makes) (S (NP (PRP him)) (VP (VB jump))))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (ADVP (RB then)) (WHNP (WP what))
+     (VP (AUX do) (NP (PRP I)))))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VB teach)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (NN that))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX am)
+      (NP (PRP I))
+      (VP (VBG doing)
+       (PP (PP (IN to) (NP (DT the) (JJ little) (NN person)))
+	(CC and)
+	(PP (IN to) (NP (DT the) (JJ big) (NN person)))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH alright)) (, ,) (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX am)
+      (NP (PRP I))
+      (VP (VBG doing) (PP (IN to) (NP (DT the) (JJ big) (NN person))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP I))
+      (VP (VB do) (PP (IN to) (NP (DT the) (JJ big) (NN person))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH alright)) (, ,) (SQ (ADVP (RB then))
+     (NP (PRP you))
+       (VP (VB do) (WHNP (WP what)) (PP (IN like) (NP (NN this))))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and) (ADVP (RB then))
+     (VP (VB go) (WHADVP (WRB where)))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (SBARQ (ADVP (RB now))
+     (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH alright)) (, ,) (FRAG (ADVP (RB now)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (FRAG (CC and) (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (FRAG (CC and) (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB then))
+     (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (DT the) (JJ last) (NN thing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's)
+	  (NP (NP (DT the) (JJ last) (NN thing))
+	   (SBAR (S (NP (PRP you)) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VB teach)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (NN that))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (VBZ goes) (ADVP (RB first))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WDT which) (NN one)) 
+	(VP (VBZ goes) (ADVP (RB first)))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WDT which) (NN one))
+     (SQ (VP (AUX do)
+      (NP (PRP I))
+      (VP (VB put) (PRT (RP on)) (ADVP (RP first)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB do) (NP (PRP it)))))
+     (. ?)))
+
+
+(ROOT (FRAG (ADVP (RB now)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (INTJ (UH oh)) (, ,) (SQ (VP (VB put) (NP (DT that) (NN one)) (PRT (RP on)))
+     (. ?)))
+
+
+(ROOT (FRAG (ADVP (RB once))
+     (NP (PRP I))
+     (VP (VBD got)
+      (NP (DT the) (NN string)) (PRT (RP through)))) (, ,)
+  (SBARQ (ADVP (RB now))
+     (WHNP (WP what)) (SQ (NP (PRP I)) (VP (VB do)))
+     (. ?)))
+
+
+(ROOT (S (VP (VB look)
+	(SBAR (WHNP (WP what))
+	 (S (VP (COP 's) (PP (IN in) (NP (NN there)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB like)
+       (S (VP (TO to)
+	   (VP (VB do) (PP (IN at) (NP (DT the) (NN playground)))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP is) (NP (DT that) (NN one))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT the) (NN mom))
+      (VP (VB say) (PP (IN to) (NP (DT the) (JJ little) (NN girl))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (COP 's) (NP (DT the) (NN swingset))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's)
+	  (NP (NP (PRP$ your) (JJ favorite) (NN ride))
+	   (PP (IN at) (NP (DT the) (NN park))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (PRP he)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (DT the) (NN mommy)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB think)
+       (SBAR (S (NP (PRP she))
+	      (VP (AUX 's)
+	       (VP (VBG goING) (S (VP (TO To) (VP (VB say)))))))))))
+     (. ?)))
+
+
+(ROOT (NP (NNP Mommy)) (, ,) (SQ (VP (MD can) (NP (PRP I)) (VP (VB have) (NP (DT a) (NN turn))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,)
+     (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX do)
+      (NP (PRP I))
+      (VP (VB go)
+       (PP (IN on) (NP (DT the) (NN merrygoround)))))) (, ,) (NP (NNP Mom))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (DT the) (NN matter))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB why)) (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (MD would)
+      (NP (DT the) (NN mommy))
+      (VP (VB say) (SBAR (IN if) (S (NP (PRP he)) (VP (VBD fell)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what) (RB else))
+     (SQ (VP (AUX do)
+      (NP (PRP we))
+      (VP (VB have) (PP (IN in) (NP (NN there))))))
+     (. ?)))
+
+
+(ROOT (S (NP (PRP I))
+     (VP (AUX do)
+      (NOT n't)
+      (VP (VB know)
+       (SBAR (WHADVP (WRB where))
+	(S (NP (DT the) (NN daddy)) (VP (COP is))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX does) (NP (DT that) (NN one)) (VP (VB belong))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB think))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB why))
+     (SQ (VP (MD can)
+      (NOT n't)
+      (NP (PRP he))
+      (VP (VB go) (PP (IN on) (NP (DT the) (NN merrygoround))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (PRP he))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (MD can)
+      (NP (PRP he))
+      (VP (VB do)
+       (SBAR (IN while)
+	(S (NP (PRP he)) (VP (AUX 's) (VP (VBG waiting))))))))
+     (. ?)))
+
+
+(ROOT (S (NP (PRP they))
+     (VP (COP were)
+      (NOT n't)
+      (ADJP (ADVP (RB all) (RB that))
+	(JJ careful)))) (, ,)
+	(SQ (VP (COP were) (NP (PRP they)))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB where))
+     (VP (AUX does) (NP (DT this) (JJ little) (NN boy)))))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (AUX 's)
+	  (VP (VBG telling)
+	   (NP (PRP him))
+	   (S (VP (TO to) (VP (VB sit) (PRT (RP down))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB think) (SBAR (S (NP (NN this)) (VP (COP is)))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (S
+     (VP (VB tell)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (PRP you))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB show) (NP (PRP me))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (RB then) (WP what) (. ?)))
+
+
+(ROOT (S (VP (VB tell) (NP (NNP Mommy)) (WHADVP(WRB how))) (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (PRP we))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (FRAG (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (S (ADVP (RB now))
+     (NP (PRP you))
+     (VP (AUX have)
+      (S (VP (TO to) (VP (VB show) (NP (NNP Mommy)) (WHADVP (WRB how))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB tell) (NP (NNP Mommy)) (WHADVP (WRB how))) (. .)))
+
+
+(ROOT (SBARQ (WHNP (WDT which) (NN one)) 
+	(SQ (VP (VBZ goes) (ADVP (RB first))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (COP 's) (NP (NN that))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (PP (IN in) (NP (NN here)))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB let)
+	(NP (PRP 's))
+	 (VP (VB see)
+	  (SBAR (WHNP (WP what))
+	   (S (NP (PRP it)) (VP (COP 's) (PP (IN for)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP 's) (NP (NN this)))) (. ?)))
+
+
+(ROOT (FRAG (CC and)
+     (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (NN that)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN this)))) (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB find) (NP (DT all) (DT these) (NNS things)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB go)
+       (S (VP (TO to)
+	   (VP (VB play)
+	    (PP (IN on) (NP (DT all) (DT these) (NNS things)))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB now))
+     (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (PRP they))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are) (NP (PRP they)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (PRP she)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (COP are) (NP (DT all) (DT these) (NNS people))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB do) (PP (IN at) (NP (DT the) (NN park))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and) (WHNP (WP what) (RB else))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and)
+     (WHNP (WP what) (RB else))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (VBD happened) (ADVP (RB there))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (VBD happened)
+	  (PP (IN to) (NP (DT this) (JJ little) (NN girl)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (DT the) (JJ little) (NN girl)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB want) (S (VP (TO to) (VP (VB go)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX do) (NP (PRP they)) (VP (VB work))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH yeah)) (CC and) (FRAG (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (FRAG (CC and) (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP 's) (NP (NN this)))) (. ?)))
+
+
+(ROOT (SQ (VP (AUX do)
+     (NP (PRP you))
+     (VP (VB know)
+      (SBAR (WHNP (WP what))
+       (S (NP (NN this)) (VP (COP is) (PP (IN for)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (AUX 's)
+	  (VP (VBG goING)
+	   (S (VP (TO To) (VP (VB go) (PP (IN in) (NP (PRP it)))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (PRP$ her) (NN name))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (DT that) (JJ little) (NN boy)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (PRP he))
+      (VP (VB say)
+       (SBAR (WHADVP (WRB when))
+	(S (NP (PRP he))
+	 (VP (VBZ gets) (PP (IN to) (NP (DT the) (NN bottom)))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP he)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (FRAG (ADVP (RB now))
+     (WHNP (WP what))
+     (NP (PRP you)) (VP (VBG doing))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (DT the) (NN mommy)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (S (NP (PRP you))
+     (VP (VB tell)
+      (NP (PRP me))
+      (SBAR (WHNP (WP what))
+       (S (VP (AUX 's)
+	   (VP (VBG happening) (PP (IN at) (NP (DT the) (NN park))))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT that) (JJ little) (NN girl))
+      (VP (VBG doing) (ADVP (RB over) (RB there)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (NP (PRP they))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB go))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (NNP Mommy)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (VBD happened))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (VBD happened))) (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB now))
+     (WHNP (WP what))
+     (SQ (VP (AUX 's)
+	  (VP (VBG goING) (S (VP (TO To) (VP (VB happen)))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH huh)) (, ,) (SBARQ (ADVP (RB now))
+     (WHNP (WP what))
+     (SQ (VP (VBD happened)))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (VBD happened))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (VBD happened))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (DT the) (NN mommy))
+      (VP (VB say)
+       (SBAR (WHADVP (WRB when))
+	(S (NP (DT the) (JJ little) (NN girl)) (VP (VBZ says)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VB tell)
+      (NP (PRP me))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB put) (NP (PRP her)) (PRT (RP in))))))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VB tell)
+      (NP (PRP me))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB put) (NP (PRP her)) (PRT (RP in))))))))
+     (. ?)))
+
+
+(ROOT (S (NP (PRP you))
+     (VP (VB tell) (NP (PRP me)) (WHADVP (WRB how)))
+     (. .)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (. ?)))
+
+
+(ROOT (FRAG (VP (VBD did) (WHNP (WP what))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (AUX did)(NP (PRP ja)) (VP (VB say)))) (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB then)) (WHNP (WP what)) (SQ (VP (VBZ happens))) (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB why))))
+
+(ROOT (FRAG (SBAR (CC cause)
+	  (S (NP (DT the) (NN merrygoround))
+		 (VP (VBZ goes) (ADVP (RB fast))))) (, ,) (INTJ (ADJP (JJ right)))
+     (. .)))
+
+
+(ROOT (SBARQ (ADVP (RB then))
+     (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (DT the) (NN mommy))
+      (VP (VB do)
+       (SBAR (WHADVP (WRB when))
+	(S (NP (PRP they)) (VP (VB fall) (PRT (RP off))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (PRP they))
+      (VP (VBG doing) (ADVP (RB over) (RB there)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+	  (VP (VBG happening)
+	   (PP (IN with) (NP (DT the) (NN carriage))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (PRP$ his) (NN name))))
+     (. ?)))
+
+
+(ROOT (S (ADVP (RB now))
+     (NP (PRP you))
+     (VP (VB tell)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (. ?)))
+
+
+(ROOT (FRAG (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (INTJ (UH huh)) (, ,) (FRAG (WHNP (WP what) (DT a) (JJ good) (NN teacher))
+      (SBAR (S (NP (PRP you)) (VP (COP are))))
+     (. !)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB say)
+       (PP (IN to) (NP (NNP Mommy)))
+       (SBAR (WHADVP (WRB when))
+	(S (NP (PRP she))
+	 (VP (VBZ does) (NP (PRP it)) (ADVP (RB right))))))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB show)
+	(NP (NNP Mom))
+	(SBAR (WHNP (WP what))
+	 (S (NP (PRP you)) (VP (MD can) (VP (VB do))))))
+     (. .)))
+
+
+(ROOT (S (NP (NNP Mommy))
+     (VP (AUX does)
+      (NOT n't)
+      (VP (VB know)
+       (SBAR (WHADVP (WRB how))
+	(S (VP (TO to) (VP (VB do) (NP (NN that))))))))
+     (. .)))
+
+
+(ROOT (SQ (VP (COP is)
+     (NP (NN that))
+     (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBD did)))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (S (ADVP (RB now))
+     (NP (PRP you))
+     (VP (AUX have)
+      (S (VP (TO to)
+	  (VP (VB teach)
+	   (NP (NNP Mommy))
+	   (SBAR (WHADVP (WRB how))
+	    (S (VP (TO to) (VP (VB do) (NP (PRP it))))))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB teach)
+	    (NP (NNP Mommy))
+	    (SBAR (WHADVP (WRB how))
+	     (S (VP (TO to) (VP (VB do) (NP (PRP it))))))))
+	(CC and)
+	(S (VP (VB tell) (NP (PRP her)) (WHADVP (WRB how)))
+     (. .)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are) (NP (PRP you)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are) (NP (PRP you)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (NNP Mom))
+	(SBAR (WHNP (WP what))
+	 (S (NP (PRP you)) (VP (AUX 're) (VP (VBG doing))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (PRP me))
+	(SBAR (WHNP (WP what))
+	 (S (NP (PRP you)) (VP (AUX 're) (VP (VBG doing))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are) (NP (PRP you)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH oh)) (, ,) (SBARQ (WHNP (WP what)) (SQ (VP (AUX do)
+     (NP (PRP you))
+     (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB look)
+	(PP (IN at)
+	 (SBAR (WHNP (WP what))
+	  (S (VP (COP 's) (PP (IN in) (NP (NN here))))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP is) (NP (DT this) (NN stuff))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP 's) (NN that))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB call) (NP (NN that)))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (AUX do)
+     (NP (PRP you))
+     (VP (VB know)
+      (SBAR (WHNP (WP what))
+       (S (NP (PRP you)) (VP (VB call) (NP (NN this)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB find) (NP (DT all) (DT this) (NN stuff)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (MD can)
+      (NP (PRP you))
+      (VP (VP (VB go))
+       (CC and)
+       (VP (VB play)
+       (PP (IN on) (NP (DT all) (DT this) (NN stuff)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's)
+	  (NP (NP (DT the) (NN name))
+	   (PP (IN of) (NP (DT this) (NN place))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (SBAR (WHADVP (WRB when))
+	    (S (NP (PRP you))
+	     (VP (VB go) (PP (IN to) (NP (DT the) (NN playground))))))
+     (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB play) (PP (IN on)))))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and)
+     (WHNP (WP what) (RB else))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's)
+	  (NP (NP (PRP$ your) (JJ favorite) (NN ride))
+	   (PP (IN at) (NP (DT the) (NN park))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB think)
+       (SBAR (S (NP (DT this) (NN lady)) (VP (COP is)))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (VP (AUX do) (NP (PRP you)))))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (NN this))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH yeah)) (, ,) (SBARQ (WHNP (WP what)) (SQ (VP (AUX do)
+     (NP (PRP you))
+     (VP (VB call) (NP (NN that)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (DT this) (JJ little) (NN boy)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (ADVP (RB then))
+     (WHNP (WP what))
+     (SQ (VP (MD will) (VP (VB happen))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (MD would)
+      (NP (PRP she))
+      (VP (VB take) (NP (PRP her)) (NP (NN home)) (PP (IN in)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN this)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (DT this) (JJ little) (NN girl))
+      (VP (VB want) (S (VP (TO to) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT the) (NN mommy))
+      (VP (VB say)
+       (PP (IN to)
+	(NP (NP (DT these) (NNS kids))
+	 (PP (IN on) (NP (DT the) (NN ground))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (PRP she))
+      (VP (VB say) (PP (IN to) (NP (PRP them))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH hmm)) (, ,)
+     (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (VP (VBG going) (PRT (RP on)) (ADVP (RB over) (RB here)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP I))
+      (VP (AUX have) (S (VP (TO to) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (DT the) (NN mommy)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT this) (JJ little) (NN girl))
+      (VP (VBG doing)
+       (ADVP (RB here))
+       (PP (IN by) (NP (PRP herself))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (PP (IN about) (NP (PRP him))) (. ?)))
+
+
+(ROOT (SQ (NP (PRP he))
+     (ADVP (RB better))
+     (VP (VB sit) (WHADVP (WRB where)))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SQ (NP (PRP he))
+     (ADVP (RB better))
+     (VP (VB sit) (WHADVP (WRB where)))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP is)
+	  (NP (NP (DT that) (NN thing))
+	   (SBAR (S (NP (PRP he))
+		  (VP (AUX 's) (VP (VBG sitting) (PP (IN in)))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (VP (VBG happening))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are) (NP (DT those) (NNS kids)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (VBZ happens)
+	  (SBAR (WHADVP (WRB when))
+	   (S (NP (PRP they))
+	    (VP (VB go) (ADVP (RB around) (CC and) (RB around)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB go) (PP (IN to) (NP (DT the) (NN playground))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what) (RB else))
+     (SQ (VP (AUX are) (NP (DT these) (NNS kids)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and)
+     (WHNP (WP what))
+     (PP (IN about)
+     (NP (NP (DT this) (JJ little) (NN girl))
+      (ADVP (RB over) (RB here))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (AUX did) (NP (PRP ja)) (VP (VB say)))) (. ?)))
+
+
+(ROOT (S (VP (VB push) (NP (DT that) (NN one))) (. .)))
+
+
+(ROOT (FRAG (WHNP (WP what))
+     (SQ (VP (MD would)
+	 (NP (DT the) (NN mommy))
+	  (VP (VB say)
+	   (SBAR (IN if)
+	    (S (NP (DT the) (JJ little) (NN girl))
+	     (VP (VBD wanted)
+	      (S (VP (TO to)
+		  (VP (VB go) (PP (IN down) (NP (DT the))))))))))))))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (PRP she)) (VP (VBG saying))))
+     (. ?)))
+
+
+(ROOT (SQ (NP (PRP you))
+     (VP (AUX have) (S (VP (TO to) (VP (VB do) (WHNP (WP what))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHPP (IN on) (WHNP (WP what))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (PRP she))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (S (NP (PRP she))
+     (VP (VBZ goes)
+      (PP (IN on) (NP (DT the) (NN slide))))))
+ 
+(ROOT (FRAG (WHNP (WP what))
+     (. ?)))
+
+
+(ROOT (SBARQ (NP (DT those) (NNS kids))
+     (VP (VB go) (WHPP (IN on) (WHNP (DT the) (WP what))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is)
+	  (NP (NP (NN that)) (ADVP (RB over) (RB there)))
+	  (VP (VBN called))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (S (VP (VB teach)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (FRAG (VP (VB do) (WHNP (WP what))) (. ?)))
+
+
+(ROOT (FRAG (NP (CD one) (CD two)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (INTJ (UH well)) (, ,) (S (VP (VB show)
+	(NP (PRP her))
+	(WHADVP (WRB how)))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WHADJP (WRB how) (JJ many)) (NNS times))
+     (SQ (NP (PRP she)) (VP (AUX got) (S (VP (TO ta) (VP (VB jump))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP 's) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VB teach)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (DT that) (NN one))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what) (NN one)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (PRP it)))) (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN this)))) (. ?)))
+
+
+(ROOT (FRAG (CC and) (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (COP 's) (NP (NN that))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (PP (IN in) (NP (NN there)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what) (NN game))
+     (SQ (VP (MD can) (NP (PRP we)) (VP (VB play) (PP (IN with)))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (PRP she)) (VP (VBG saying))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (DT that) (JJ little) (NN girl)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN this)))) (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+      (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB play) (PP (IN on)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WHNP (WP what) (NN kind))
+	    (PP (IN of) (NP (NNS things))))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB play) (PP (IN on)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (DT the) (NN mommy))
+      (VP (VB say)
+       (SBAR (WHADVP (WRB when))
+	(S (NP (PRP you))
+	 (VP (VB knock)
+	  (NP (DT all) (DT the) (NNS kids))
+	  (PRT (RP off))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (PRP she))
+      (VP (VB say)
+       (SBAR (WHADVP (WRB when))
+	(S (NP (PRP you))
+	 (VP (VB knock)
+	  (NP (DT all) (DT the) (NNS kids))
+	  (PRT (RP off))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is)
+      (NP (PRP she))
+      (VP (VBG goING)
+       (S (VP (TO To) (VP (VB say) (PP (IN to) (NP (PRP you)))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is)
+      (NP (PRP she))
+      (VP (VBG goING)
+       (S (VP (TO To) (VP (VB say) (PP (IN to) (NP (PRP you)))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB when))
+     (SQ (VP (AUX did)
+      (NP (PRP you))
+      (VP (VB go) (PP (IN on) (NP (DT a) (NN slide))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP 's) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB call) (NP (DT this) (NN thing)))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (VB put)
+	 (NP (PRP it))
+	 (PRT (RP up))
+	 (WHPP (IN on) (WHNP (DT the) (WP what))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB call) (NP (NN this)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB now))
+     (WHNP (WP what))
+     (SQ (VP (AUX are) (NP (PRP you)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (DT the) (NNS people))
+      (VP (VBG goING)
+       (S (VP (TO To)
+	   (VP (VB do)
+	    (SBAR (WHADVP (WRB when))
+	     (S (NP (DT the) (NN car)) (VP (VBZ comes))))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (DT the) (NNS people))
+      (VP (VBG goING)
+       (S (VP (TO To)
+	   (VP (VB do)
+	    (SBAR (WHADVP (WRB when))
+	     (S (NP (DT the) (NN car)) (VP (VBZ comes))))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT this) (JJ little) (NN boy))
+      (VP (VBG goING)
+       (S (VP (TO To)
+	   (VP (VB say) (PP (IN to) (NP (DT the) (NN car)))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is)
+      (NP (PRP he))
+      (VP (VBG saying)
+       (PP (IN with) (NP (NP (PRP$ his) (NN hand)) (ADVP (RB up)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (PRP he)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SQ (NP (PRP he))
+     (VP (AUX 's)
+      (VP (VBG goING)
+       (S (VP (TO To)
+	   (VP (VB stay) (WHADVP (RB over) (WRB where)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WHADJP (WRB how) (JJ many))
+	   (NNS children))
+	    (SQ (VP (COP are) (PP (IN on) (NP (DT the) (NN merrygoround)))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADJP (WRB how) (JJ many)) (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX 's) (NP (NN that)) (VP (VB work))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH uhoh)) (, ,) (SBARQ (WHNP (WP what)) (SQ (VP (VBD happened))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (VBD happened))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB think) (SBAR (S (NP (PRP it)) (VP (COP is)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX does) (NP (PRP it)) (VP (VB go))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (VBD happened))) (. ?)))
+
+
+(ROOT (INTJ (UH whoop)) (, ,)
+     (SBARQ (WHADVP (WRB where))
+      (SQ (VP (AUX 's) (NP (PRP she)) (VP (VBG going) (ADVP (RB now)))))
+      (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are) (NP (PRP they)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB where)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP 's) (NP (WP what)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP$ whose) (NN park))
+     (SQ (VP (COP is) (NP (NN this))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (VBD brought) (NP (PRP it)) (ADVP (RB here))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP 's) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (DT that) (NN noise))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VP (VB take) (NP (PRP them)) (PRT (RP out)))
+      (CC and)
+      (VP (VB see)
+       (SBAR (WHNP (WP what)) (S (NP (PRP they)) (VP (COP are)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN this)))) (. ?)))
+
+
+(ROOT (FRAG (NP (DT a) (NN ladder))
+     (CC and)
+   (WHNP (WP what) (RB else))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN this)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP is) (NP (NN this))))) (, ,) (FRAG (NP (DT a) (NN merrygoround)) (. ?)))
+   
+
+
+(ROOT (INTJ (UH okay)) (, ,) (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (PRP you))
+      (VP (VBG goING)
+       (S (VP (TO To)
+	   (VP (VB do) (PP (IN with) (NP (DT that) (NN ladder)))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (COP 's) (NP (DT this) (JJ white) (NN lady))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (AUX does) (NP (NN this)) (VP (VB look) (PP (IN like)))))
+     (. ?)))
+
+
+(ROOT (FRAG (PP (IN in) (WHNP (DT the) (WP what))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN this)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB do) (PP (IN at) (NP (DT the) (NN park))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (NN this)) (VP (VBN called)))) (ADVP (RB again))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB put) (NP (NNS people)) (PP (IN on) (NP (NN there))))))
+     (. ?)))
+
+
+(ROOT (S (NP (PRP you))
+     (VP (VBD went)
+      (PP (IN on) (NP (NP (NN one)) (PP (IN like) (NP (NN that)))))
+      (PP (NP (DT this) (NN summer)))
+      (SBAR (WHADVP (WRB when))
+       (S (NP (PRP we))
+	(VP (VBD went) (PP (IN to) (NP (NNP Warren) (NNP beach)))))))))
+
+
+(ROOT (INTJ (UH uhoh)) (, ,) (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT this) (NN guy))
+      (VP (VBG doing) (ADVP (RB over) (RB here)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN this)))) (. ?)))
+
+
+(ROOT (SQ (VP (AUX do)
+     (NP (PRP you))
+     (VP (VB know)
+      (SBAR (WHNP (WP what)) (S (NP (NN this)) (VP (COP is))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX are) (NP (PRP they)) (VP (VBG going))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX 's) (NP (PRP he)) (VP (VBG going))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (PRP he))
+      (VP (VB want) (S (VP (TO to) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (PRP$ their) (NN mommy))
+      (VP (VB say)
+       (SBAR (IN while)
+	(S (NP (PRP they))
+	 (VP (AUX 're) (VP (VBG doing) (NP (DT all) (NN this)))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB then))
+     (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (PRP she))
+      (VP (VB say)
+       (SBAR (WHADVP (WRB when))
+	(S (NP (PRP they))
+	 (VP (VB say)
+	  (SBAR (S (NP (PRP they))
+		 (VP (VB want)
+		  (S (VP (TO to)
+		      (VP (VB go)
+		       (PP (IN on)
+		       (NP (DT the) (NN swing)))))))))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (FRAG (ADVP (RB now))
+	(NP (PRP you))
+	(VP (VB say)))
+     (CC and)
+     (S (NP (PRP you))
+      (VP (MD can) (VP (VB teach) (NP (PRP her)) (WHADVP (WRB how))))
+     (. .)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (SQ (NP (PRP you)) (VP (VB teach) (NP (PRP me))
+     (WHADVP (WRB how)))
+     (. ?)))
+
+
+(ROOT (S (VP (VB teach)
+	(NP (NNP Mommy))
+	(SBAR (WHNP (WP what)) (S (VP (TO to) (VP (VB do))))))
+     (. .)))
+
+
+(ROOT (FRAG (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (S (VP (VB let)
+	 (S (NP (PRP 's))
+	 (VP (VB see)
+	  (SBAR (IN if)
+	   (S (NP (PRP you))
+	    (VP (MD can)
+	     (VP (VB teach)
+	      (NP (NNP Mommy))
+	      (SBAR (WHADVP (WRB how))
+	       (S (VP (TO to) (VP (VB do) (NP (NN that)))))))))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB show) (NP (NNP Mommy))
+	(SBAR (WHNP (WP what))
+	 (S (NP (PRP she)) (VP (AUX 's) (VP (AUX got) 
+	 (S (VP (TO ta)
+     (VP (VB do)))))))))
+     (. .)))
+
+
+(ROOT (INTJ (UH oh)) (, ,) (SQ (NP (NN that))
+     (VP (COP 's)
+      (SBAR (WHNP (WP what))
+       (S (NP (PRP I)) (VP (AUX got) 
+	   (S (VP (TO ta) (VP (VB do))))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (SQ (VP (MD can)
+      (NP (PRP you))
+      (VP (VB teach) (NP (NNP Mommy)) (WHADVP (WRB how))))
+     (. .)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (FRAG (NP (PRP you))
+      (VP (VBG goING)
+       (S (VP (TO To)
+	   (VP (VB teach)
+	    (NP (PRP me))
+	    (SBAR (WHADVP (WRB how))
+	     (S (VP (TO to) (VP (VB do) (NP (NN this))))))))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB watch)
+	(SBAR (WHNP (WP what))
+	 (S (NP (NNP Mommy)) (VP (AUX 's) (VP (VBG doing))))))
+     (. .)))
+
+
+(ROOT (SBARQ (ADVP (RB now))
+     (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (PP (IN in) (NP (NN here)))))
+     (. ?)))
+
+
+(ROOT (SQ (NP (PRP you))
+     (VP (VB know)
+      (SBAR (WHNP (WP what)) (S (NP (NN this)) (VP (COP is)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (DT that) (NN thing))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (NP (DT this) (JJ little) (NN girl))
+      (ADVP (RB over) (RB here))) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (PRP she)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP 's) (NP (NN this)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (VBZ goes) (PP (IN in) (NP (NN there)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's)
+	  (NP (NP (PRP$ your) (JJ little) (NN baby) (POS 's)) (NN name))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB find) (NP (DT all) (DT these) (NNS things)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB go) (PP (IN on)) (PP (IN at) (NP (DT the) (NN park))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB why) (NOT not)) (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB why) (NOT not)) (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB why) (NOT not)) (NP (NNP Mommy)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX am)
+      (NP (PRP I))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (FRAG (SBAR (WHNP (WP what)) (S (VP (TO to) (VP (VB do))))) (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (PRP we))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (FRAG (ADVP (RB now))
+     (NP (PRP you))
+     (VP (VBG goING)
+      (S (VP (TO To)
+	  (VP (VB teach)
+	   (NP (NNP Mommy))
+	   (SBAR (WHADVP (WRB how))
+	    (S (VP (TO to) (VP (VB do) (NP (NN that))))))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH no)) (, ,) (S (NP (PRP you)) (VP (AUX got) (S (VP (TO ta)
+     (VP (VB show)
+      (NP (PRP me))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (PRP it))))))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB show)
+	(NP (PRP me))
+	(SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VB do)))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WHADJP (WRB how) (JJ many)) (NNS times))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB jump))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WHADJP (WRB how) (JJ many)) (NNS times))
+     (SQ (VP (AUX do)
+      (NP (PRP I))
+      (VP (AUX have)
+       (S (VP (TO to) (VP (VB make) (S (NP (PRP her)) (VP (VB jump)))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WHADVP (WRB how) (JJ many)) (NNS times)) (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB how) (JJ many)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB show)
+	(NP (PRP me))
+	(SBAR (WHNP (WP what))
+	 (S (VP (TO to) (VP (VB do) (PP (IN with) (NP (PRP him))))))))
+     (. .)))
+
+
+(ROOT (FRAG (CC and) (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (FRAG (CC and) (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (S (SBAR (WHADVP (WRB when))
+	(S (NP (PRP you)) (VP (COP 're) (ADJP (JJ done)))))
+     (NP (PRP she))
+     (VP (AUX 's)
+      (VP (VBG goING)
+       (S (VP (TO To) (VP (VB do) (NP (PRP it))))))) (, ,) (INTJ (UH okay))
+     (. ?)))
+
+
+(ROOT (S (NP (PRP you))
+     (VP (VP (VB show)
+	  (NP (PRP me))
+	  (SBAR (WHADVP (WRB how))
+	   (S (NP (PRP you)) (VP (VB do) (NP (PRP it))))))
+      (CC and)
+      (VP (VB see) (SBAR (IN if) (S (NP (PRP I)) (VP (MD can))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB show) (NP (PRP me)) (WHADVP (WRB how))) (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (DT all) (DT this) (NN stuff))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WHNP (WP what) (NN kind))
+	    (PP (IN of) (NP (NNS toys))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP 's) (NP (NN this)))) (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB why))
+     (SQ (VP (AUX do)
+      (NOT n't)
+      (NP (PRP you))
+      (VP (VB put)
+       (NP (PRP it))
+       (ADVP (RB there))
+       (SBAR (IN so)
+	(S (NP (PRP you))
+	 (VP (MD can) (VP (VB play) (PP (IN with) (NP (PRP it))))))))))
+     (. .)))
+
+
+(ROOT (SBARQ (CC and) (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (NN that))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (PRP it)))) (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (. ?)))
+
+
+(ROOT (FRAG (NP (DT this) (NN one)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB call) (NP (DT this) (NN place))))) (, ,) (NP (NNP Jeffrey))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what))
+     (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB call)
+       (NP (NP (PDT all) (DT this) (NN place))
+       (PP (IN like) (NP (NN this)))
+     (PP (IN with) (NP (DT the) (NN swing) (CC and) (DT a))))))))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB do) (ADVP (RB there)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB do)
+       (PP (IN at) (NP (DT a) (NN park)))))) (, ,) (NP (NNP Jeffrey))
+     (. ?)))
+
+
+(ROOT (INTJ (UH yeah)) (, ,) (SBARQ (WHNP (WP what)) (SQ (VP (AUX do)
+     (NP (PRP you))
+     (VP (VB play) (PP (IN on)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX does) (NP (NN that)) (VP (VB work))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX does) (NP (NN that)) (VP (VB work))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB think) (SBAR (S (NP (NN this)) (VP (COP is)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB think) (SBAR (S (NP (PRP it)) (VP (COP is)))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH whoops)) (, ,) (SBARQ (WHNP (WP what)) (SQ (VP (VBD happened)))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (VBD happened) (PP (IN to) (NP (PRP him)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB think)
+       (SBAR (S (NP (DT this) (NN guy))
+	      (VP (AUX 's)
+	       (VP (VBG doing)
+		(ADVP (RB over) (RB here))
+		 (PP (IN by) (NP (PRP himself)))))))))) (, ,) (INTJ (UH huh))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is)
+      (NP (PRP he))
+      (VP (VBG doing) (PP (IN by) (NP (PRP himself))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB think)
+       (SBAR (S (NP (PRP he))
+	      (VP (VBZ wants) (S (VP (TO to) (VP (VB do))))))))))
+     (. ?)))
+
+
+(ROOT (NP (NNP Jeffrey)) (, ,) (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (NN this))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP is) (NP (DT this) (NN thing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP it)) (VP (VB look) (PP (IN like)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (VP (VBG going) (PRT (RP on)) (ADVP (RB over) (RB here)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP is) (NP (DT this) (NN thing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is)
+      (NP (PRP she))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT the) (NN mommy))
+      (VP (VBG doing) (PP (IN in) (NP (DT the) (NN park))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT this) (NN girl))
+      (VP (VBG doing) (ADVP (RB over) (RB here)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (PRP she))
+      (VP (VB want) (S (VP (TO to) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (INTJ (UH wow)) (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (PRP she)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX did) (NP (PRP she)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (PRP it)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WHNP (WP what) (NN kind))
+	    (PP (IN of) (NP (NN slide))))
+     (SQ (VP (COP is) (NP (NN that))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VB teach)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to)
+	   (VP (VB do)
+	    (NP (NN that))
+	    (SBAR (ADVP (RB exactly))
+	     (IN like)
+	     (S (NP (PRP I)) (VP (VBD showed) (NP (PRP you)))))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WHADJP (WRB how) (JJ many)) (NNS jumps)) (. ?)))
+
+
+(ROOT (S (ADVP (RB now))
+     (NP (PRP you))
+     (VP (VB show)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to)
+	   (VP (VB do)
+	    (NP (PRP it))
+	    (SBAR (ADVP (RB just))
+	     (IN like)
+	     (S (NP (PRP I)) (VP (VBD showed) (NP (PRP you))))))))))
+     (. .)))
+
+
+(ROOT (SQ (VP (COP is)
+     (NP (NN that))
+     (SBAR (WHNP (WP what))
+      (S (NP (PRP I))
+       (VP (AUX have) (S (VP (TO to) (VP (VB do))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP I))
+      (VP (AUX have) (S (VP (TO to) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SQ (ADVP (RB now))
+     (VP (MD can)
+     (NP (PRP you))
+     (VP (VB show)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (NN that))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP I))
+      (VP (AUX have) (S (VP (TO to) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (COP is)
+     (NP (NN that))
+     (SBAR (WHNP (WP what))
+      (S (NP (PRP I))
+       (VP (AUX have) (S (VP (TO to) (VP (VB do))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (PRP she))
+      (VP (AUX have) (S (VP (TO to) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SQ (NP (NN that))
+     (VP (COP 's)
+      (SBAR (WHNP (WP what))
+       (S (NP (PRP I))
+	(VP (AUX have) (S (VP (TO to) (VP (VB do))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB now))
+     (WHADVP (WRB how))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB do) (NP (NN this)))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what) (DT a) (JJ good) (NN teacher))
+     (SBAR (S (NP (PRP you)) (VP (COP are)))) (NP (NNP Jeffrey))
+     (. .)))
+
+
+(ROOT (INTJ (UH whoops)) (, ,) (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX do)
+      (NP (PRP I))
+      (VP (VB get) (NP (NN this)) (ADJP (JJ open)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (CC and) (WHNP (WP what))
+     (SQ (VP (COP is) (NP (DT all) (DT this) (NN stuff))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WHNP (WP what) (NN kind))
+	    (PP (IN of) (NP (NN ride))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB call) (NP (NN that)))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB where)) (VP (COP is))))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's)
+	  (NP (NP (DT a) (NN place)) (PP (IN like) (NP (NN this))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB call) (NP (DT this) (NN place)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHADVP (WRB where))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB go)
+       (S (VP (TO to)
+	   (VP (VB get)
+	    (PP (IN on)
+	     (NP (NP (DT all) (DT these) (NNS rides))
+	      (PP (IN like) (NP (NN this)))))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (PRP$ your) (JJ favorite) (NN ride))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's)
+	  (NP (PRP$ your) (JJ favorite) (NN ride))))
+	   (, ,)(NP (NNP Nicky))
+     (. ?)))
+
+
+(ROOT (NP (NNP Nicky)) (, ,) (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (PRP$ your) (JJ favorite) (NN ride))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT this) (JJ little) (NN girl))
+      (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (PRP she))
+      (VP (VB look)
+       (SBAR (IN like)
+	(S (NP (PRP she)) (VP (AUX 's) (VP (VBG doing))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (COP 's) (NP (DT the) (NN mommy))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and) (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (DT the) (NN mommy)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX did)
+      (NP (DT the) (NN mommy))
+      (VP (VB say) (PP (IN to) (NP (DT the) (JJ little) (NN girl))))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (MD should)
+     (NP (PRP we))
+     (VP (VB get) (NP (DT that) (NN one))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX does) (NP (NN that)) (VP (VB work))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB put) (NP (DT these) (NNS people)) (PRT (RP on)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (DT the) (NN mommy)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (PRP she))
+      (VP (VB say)
+       (SBAR (WHADVP (WRB when))
+	(S (NP (DT this) (JJ little) (NN boy)) (VP (VBZ says)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (DT this) (NN mommy)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB then))
+     (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and) (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN this)))) (. ?)))
+
+
+(ROOT (FRAG (WHPP (IN for) (WHNP (WP who))) (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB why))
+     (SQ (VP (AUX does)
+      (NP (PRP he))
+      (VP (VB need) (NP (DT a) (NN hat)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB why))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB need) (NP (PRP it)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (NNP Peter)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (PRP he)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (PRP he)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and) (WHNP (WP what))
+     (SQ (VP (VBZ happens)
+	  (SBAR (WHADVP (WRB when))
+	   (S (NP (PRP he)) (VP (VBZ gets) (ADJP (JJ hurt)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (PRP he)) (VP (VBG sitting) (PP (IN in)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (PRP he)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (VBD happened))) (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB why))
+     (SQ (VP (COP is) (NP (PRP he)) (ADJP (JJ sad))))
+     (. ?)))
+
+
+(ROOT (S (NP (NNP Mommy))
+	(VP (AUX does)
+	 (NOT n't)
+	 (VP (VB know)
+	  (SBAR (WHADVP (WRB how))
+	   (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))))
+     (CC and)
+     (S (NP (PRP you))
+      (VP (AUX have)
+       (S (VP (TO to) (VP (VB teach) (NP (NNP Mommy)) (WHADVP (WRB how))))))
+     (. .)))
+
+
+(ROOT (FRAG (SBAR (IN cause)
+	(S (NP (PRP she))
+	       (VP (MD can)
+		(NOT n't)
+		(VP (VB see)
+		 (SBAR (WHNP (WP what))
+		  (S (NP (PRP you)) (VP (AUX 're) (VP (VBG doing)))))))))
+     (. .)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VB tell)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (NN that))))))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VB show)
+      (NP (PRP me))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (PRP it))))))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (NNP Mommy))
+     (VP (VB try)
+      (S (VP (TO to)
+	  (VP (VB do)
+	   (SBAR (WHNP (WP what))
+	    (S (NP (PRP you))
+	     (VP (ADVP (RB just))
+	     (VP (VBD taught)
+	      (NP (PRP her))
+	      (WHADVP (WRB how)))))))))))
+     (. .)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VB show)
+      (NP (PRP me))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (PRP it))))))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB teach) (NP (PRP her)) (WHADVP (WRB how))) (. .)))
+
+
+(ROOT (SBARQ (ADVP (RB now))
+     (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (PRP she))
+      (VP (AUX have) (S (VP (TO to) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB now))
+     (WHNP (WP what))
+     (SQ (VP (AUX did) (NP (PRP you)) (VP (VB teach) (NP (NNP Mommy)))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (PRP me))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (FRAG (CC and) (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VB see)
+      (SBAR (IN if)
+       (S (NP (NNP Mommy))
+	(VP (VBZ knows)
+	 (SBAR (WHADVP (WRB how))
+	  (S (VP (TO to)
+	      (VP (VB do)
+	       (SBAR (WHNP (WP what))
+		(S (NP (PRP you))
+		 (VP (COP were)
+		  (ADJP (JJ supposed) (S (VP (TO to) (VP (VB teach)))))))))))))))))))
+
+
+(ROOT (SQ (VP (COP is)
+     (NP (NN that))
+     (SBAR (WHNP (WP what))
+      (S (NP (PRP she))
+       (VP (COP 's)
+	(ADJP (JJ supposed) (S (VP (TO to) (VP (VB do)))))))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VB show)
+      (NP (PRP me))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to)
+	   (VP (VB do)
+	    (NP (PRP it))
+	    (ADVP (RB now)))))))) (, ,)
+	    (NP (NNP Nicky))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (NNP Mommy))
+      (VP (AUX have)
+       (S (VP (TO to) (VP (VB do))))))) (, ,) (NP (NN Nicky))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX am)
+      (NP (PRP I))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and) (ADVP (RB then))
+	(WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (FRAG (CC but) (WHADVP (WRB how)) (. ?)))
+
+
+(ROOT (FRAG (CC and) (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (NN this)) (ADVP (RB though))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and) (ADVP (RB then) )
+	 (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB how)) (. ?)))
+
+
+(ROOT (FRAG (CC and) (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (DT this) (NN one))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and) (ADVP (RB then))
+	(WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what))))
+
+
+(ROOT (CC but) (NP (NNP Nicky)) (, ,)
+     (SBARQ (WHNP (WP what)) (SQ (VP (COP 's) (NP (NN this))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and) (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (NN this))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC but) (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (NN that))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (NNP Mommy))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (S (NP (PRP I))
+     (VP (AUX do) (NOT n't) (VP (VB know) (WHADVP (WRB how))))
+     (. .)))
+
+
+(ROOT (S (VP (VB teach) (NP (NNP Mommy)) (WHADVP (WRB how))) (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (NN that)) (VP (VB mean))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (S (VP (VB show)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (NN that)))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (NNP Mommy))
+	(SBAR (WHNP (WP what))
+	 (S (NP (PRP I))
+	  (VP (VBD showed)
+	   (NP (PRP you))
+	   (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB do)))))))))
+     (. .)))
+
+
+(ROOT (S (NP (PRP I))
+     (VP (AUX do)
+      (NOT n't)
+      (VP (VB know)
+       (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBD did))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (PRP she))
+      (VP (AUX have) (S (VP (TO to) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (NNP Mommy))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (S (NP (PRP I))
+     (VP (AUX do)
+      (NOT n't)
+      (VP (VB know) (WHADVP (WRB how)))) (, ,) (NP (NNP Jill))
+     (. .)))
+
+
+(ROOT (FRAG (CC and) (ADVP (RB now)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB then))
+     (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VB teach)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (NN that))))))))
+     (. ?)))
+
+
+(ROOT (S (NP (PRP you))
+     (VP (VB tell) (NP (PRP her)) (WHADVP (WRB how)))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (VBZ comes) (ADVP (RB first))))
+     (. ?)))
+
+
+(ROOT (FRAG (ADVP (RB now)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (NNP Mommy))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (NP (NNP Jill)) (, ,) (SBARQ (WHNP (WP what)) (SQ (VP (VBZ goes) (ADVP (RB first))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP 's) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SQ (NP (NN that)) (VP (COP 's) (WHNP (DT the) (WP what))) (. ?)))
+
+
+(ROOT (S (VP (VB show)
+	(NP (NNP Mommy))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (VBZ goes) (ADVP (RB first))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and) (ADVP (RB then))
+     (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and) (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (COP 's) (NP (DT the) (NN circle))))
+     (. .)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (PP (IN about) (NP (DT this) (NN one)))
+     (. ?)))
+
+
+(ROOT (S (NP (PRP she)) (VP (VBD did) (NP (PRP it))))
+     (CC and)
+     (S (NP (PRP you))
+      (VP (VBD taught) (NP (PRP her)) (WHADVP (WRB how)))
+     (. .)))
+
+
+(ROOT (FRAG (WHADVP (WRB how)) (PP (IN about) (NP (NN that))) (. !)))
+
+
+(ROOT (S (VP (VB let)
+	 (S (NP (PRP 's))
+	 (VP (VB see)
+	  (SBAR (WHNP (WP what))
+	   (S (NP (PRP we))
+	    (VP (VB have) (PP (IN in) (NP (NN here)))))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHADVP (WRB why))
+     (SQ (VP (AUX do)
+      (NOT n't)
+      (NP (PRP you))
+      (VP (VB open) (NP (NN that)) (PRT (RP up)))))
+     (. .)))
+
+
+(ROOT (INTJ (UH huh)) (, ,) (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (PP (IN in) (NP (NN there)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP is) (NP (DT that) (JJ good) (NN thing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB call) (NP (NN those)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP 's) (NP (NN this)))) (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB find) (NP (DT all) (DT these) (NNS things)))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB let)
+	 (S (NP (PRP 's))
+	 (VP (VB see)
+	  (SBAR (WHADVP (WRB how))
+	   (S (NP (PRP you))
+	    (VP (VB get) (NP (PRP them)) (PP (IN on) (NP (NN here)))))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP who)) (SQ (VP (COP 's) (NP (NN this)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB think)
+       (SBAR (S (NP (DT this) (NN person)) (VP (COP is)))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB how)) (PP (IN about) (NP (NN that))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB do)
+       (SBAR (WHADVP (WRB when))
+	(S (NP (PRP you))
+	 (VP (COP 're) (PP (IN at) (NP (DT the) (NN park)))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and)
+     (WHNP (WP what) (RB else))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what)) (ADVP (RB else))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB see))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (AUX do)
+     (NP (PRP you))
+     (VP (VB go)
+      (PP (IN on) (NP (DT any) (NNS rides)))
+      (SBAR (WHADVP (WRB when))
+       (S (NP (PRP you))
+	(VP (VB go) (PP (IN to) (NP (DT the) (NN park))))))))
+     (. ?)))
+
+
+(ROOT (S (NP (NN that))
+     (VP (COP 's)
+      (SBAR (WHNP (WP what))
+       (S (NP (NN this))
+	(VP (COP is)))))) (, ,) (SQ (VP (COP is) (NOT n't) (NP (PRP it)))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX did) (NP (PRP you)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB say)
+       (PP (IN to) (NP (PRP$ your) (NNS children)))
+       (SBAR (WHADVP (WRB when))
+	(S (NP (PRP they))
+	 (VP (VB go) (PP (IN on) (NP (DT the) (NN ride)))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (NNP Mama)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP is) (NP (DT this) (NN thing))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (COP 's) (NP (DT the) (JJ little) (NN one))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (COP 's) (NP (DT the) (NN baby))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT this) (NN guy))
+      (VP (VBG doing)
+       (PP (ADVP (RB all)) (IN by) (NP (PRP himself))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (AUX 's)
+      (NP (PRP he))
+      (VP (VBG trying) (S (VP (TO to) (VP (VB find)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's)
+	  (NP (NP (PRP$ his) (NN friend) (POS 's)) (NN name))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's)
+	  (NP (NP (PRP$ his) (JJ big) (NN brother) (POS 's)) (NN name))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX are)
+      (NP (PRP they))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB go)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB why))
+     (SQ (VP (AUX do)
+      (NOT n't)
+      (NP (PRP they))
+      (VP (VB go)
+       (PP (IN on) (NP (DT the) (NN slide)))
+       (ADVP (RB together)))))
+     (. ?)))
+
+
+(ROOT (S (NP (PRP he))
+     (VP (COP 's)
+      (NP (DT a) (JJ big) (NN boy))
+      (SBAR (IN so)
+       (S (NP (PRP he))
+	(VP (VBZ knows)
+	 (SBAR (WHADVP (WRB how))
+	  (S (VP (TO to)
+	      (VP (VB go) (PP (IN down)))))))))) (, ,) (INTJ (ADJP (JJ right)))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and) (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (DT the) (NN mommy)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and) (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (DT the) (NN mommy)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB think))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (NP (DT that) (NN baby) (POS 's)) (NN name))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WHADJP (WRB how) (JJ many)) (NNS brothers))
+     (S (NP (PRP you)) (VP (VB have)))
+     (. ?)))
+
+
+(ROOT (FRAG (WHPP (IN to) (WHNP (WP what))) (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (COP 's) (NP (DT the) (NN girl))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (PP (IN about) (NP (DT the) (NN mommy)))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (MD should) (NP (DT the) (NN mommy)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (PRP they))
+      (VP (VBG having) (PP (IN at) (NP (PRP$ their) (NN party))))))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and)
+     (WHNP (WP what) (RB else))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WHNP (WP what) (NN kind))
+	    (PP (IN of) (NP (NN icecream))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what) (NN kind)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (ADVP (RB else))
+     (SQ (VP (AUX do) (NP (PRP they)) (VP (VB have))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH oops)) (, ,) (S (NP (NN that))
+     (VP (MD will) (NOT n't) (VP (VB work)))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+	  (VP (VBG happening) (PP (IN at) (NP (DT the) (NN party))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (S (VP (VB tell)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (PRP you))
+      (VP (VBG goING)
+       (S (VP (TO To) (VP (VB do))))))) (, ,) (NP (NNP Ben))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and) (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SQ (VP (COP is)
+     (NP (NN that))
+     (SBAR (WHNP (WP what))
+      (S (NP (PRP you))
+       (VP (VBD told) (NP (PRP me)) (S (VP (TO to) (VP (VB do))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WHADJP (WRB how) (JJ many)) (NNS times)) (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (S (VP (VB tell)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (FRAG (VP (VB do) (WHNP (WP what))) (. ?)))
+
+
+(ROOT (S (ADVP (RB just))
+     (VP (VB tell)
+      (NP (PRP me))
+      (SBAR (WHNP (WP what))
+       (S (NP (PRP I))
+	(VP (COP 'm)
+	 (ADJP (JJ supposed) (S (VP (TO to) (VP (VB do)))))))))
+     (. .)))
+
+
+(ROOT (SBARQ (CC and) (ADVP (RB then)) (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH well)) (, ,) (S (ADVP (RB now))
+     (NP (PRP you))
+     (VP (VB teach) (NP (NNP Mommy)) (WHADVP (WRB how)))
+     (. .)))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (NNP Mommy))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to)
+	     (VP (VB do) (PP (IN about) (NP (DT this) (NN one))))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB wait)
+	(SBAR (IN until)
+	 (S (NP (PRP she))
+	  (VP (VBZ tells)
+	   (NP (PRP you))
+	   (SBAR (WHNP (WP what)) (S (VP (TO to) (VP (VB do)))))))))
+     (. .)))
+
+
+(ROOT (S (NP (PRP we))
+	(VP (AUX 're)
+	 (VP (VBG goING)
+	  (S (VP (TO To)
+	      (VP (VB keep)
+	       (NP (NNS these))
+	       (ADVP (RB over) (RB there))))))))
+     (CC and)
+     (FRAG (NP (PRP you))
+      (VP (VB teach)
+       (NP (NNP Mommy))
+       (SBAR (WHADVP (WRB how)) (S (VP (TO to) (VP (VB make))))))))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (SBARQ (WHNP (WP what))
+     (SQ (VP (COP am)
+      (NP (PRP I))
+      (ADJP (JJ supposed)
+       (S (VP (TO to) (VP (VB do))))))) (, ,) (NP (NNP Ben))
+     (. ?)))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (PRP her))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (VBZ goes) (ADVP (RB first))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what) (NN kind))
+     (SQ (VP (VBZ goes) (ADVP (RB first))))
+     (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB so)) (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP I))
+      (VP (AUX have) (S (VP (TO to) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and) (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and) (ADVP (RB then))
+	(WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and) (ADVP (RB now))
+	(WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP 's) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP I))
+      (VP (VB do) (PP (IN with) (NP (DT the) (NN square))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (PP (IN in) (NP (NN there)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN this)))) (. ?)))
+
+
+(ROOT (NP (NNP Tristan)) (, ,) (SBARQ (WHNP (WP what))
+      (SQ (VP (COP is) (NP (DT this) (NN thing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (PRP it)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB call) (NP (DT this) (NN place)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP is)
+      (NP (PRP it))
+      (SBAR (S (NP (DT all) (DT these) (NNS pieces))
+       (VP (VB go) (PP (IN to)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN this)))) (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB do) (ADVP (RB there)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX are)
+      (NP (PRP you))
+      (VP (VBG putting) (NP (PRP it)) (PP (IN in)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP is) (NP (DT that) (NN thing))))
+     (. ?)))
+
+
+(ROOT (FRAG (NP (DT a) (NN baby) (POS 's)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is)
+      (NP (NN that))
+      (VP (VBN called)
+       (SBAR (WHADVP (WRB where))
+	(S (NP (PRP you))
+	    (VP (VB put) (NP (DT the) (NN baby)) (PRT (RP in))))
+	 (CC and)
+	 (S (NP (PRP you)) (VP (VB push) (NP (PRP it))))))))
+     (. ?)))
+
+
+(ROOT (SQ (NP (PRP it)) (VP (COP 's) (WHNP (DT a) (WP what))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB think))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+	  (VP (VBG happening) (ADVP (RB over) (RB there)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT this) (JJ little) (NN girl))
+      (VP (VBG doing)
+       (ADVP (RB here))
+       (PP (ADVP (RB all)) (IN by) (NP (PRP herself))))
+       (ADVP (RB over) (RB here))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (AUX do)
+     (NP (PRP you))
+     (VP (VB know)
+      (SBAR (WHNP (WP who))
+       (S (NP (DT this) (NN person)) (VP (COP is))))))
+     (. ?)))
+
+
+(ROOT (NP (NNP Tristan)) (, ,)
+     (SBARQ (WHNP (WP who))
+     (SQ (VP (COP 's) (NP (DT this) (NN person))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB look) (PP (IN like)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB look) (PP (IN like)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN this)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (AUX does) (NP (PRP it)) (VP (VB go) (PP (IN on)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (AUX does)
+      (NP (PRP it))
+      (VP (VB go) (PP (IN on)) (ADVP (RB then)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (COP 's) (ADJP (JJR bigger))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (COP is) (NP (DT this) (NN person))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (COP is) (NP (DT this) (NN person)))) (, ,)  (NP (NNP Tristan))
+     (. ?)))
+
+
+(ROOT (SQ (VP (AUX do)
+     (NP (PRP you))
+     (VP (VB remember)
+      (SBAR (WHNP (WP what)) (S (NP (NN this)) (VP (COP is))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (PRP it)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (NN that)) (VP (VBN called))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB why))
+     (SQ (VP (AUX are) (NP (PRP they)) (VP (VBG falling))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB teach)
+	(NP (NNP Mommy))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (NN that)))))))
+     (. .)))
+
+
+(ROOT (SQ (VP (COP is)
+     (NP (NN that))
+     (SBAR (WHNP (WP what))
+      (S (NP (PRP you))
+       (VP (VB want)
+	(S (NP (NNP Mommy)) (VP (TO to) (VP (VB do))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB then))
+     (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (COP is)
+     (NP (NN that))
+     (SBAR (WHNP (WP what))
+      (S (NP (PRP you))
+       (VP (AUX 're) (VP (VBG teaching) (NP (NNP Mommy)))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (S (VP (VB teach)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (S (NP (PRP you))
+     (VP (VB do)
+      (SBAR (ADVP (RB just))
+       (WHNP (WP what))
+       (S (NP (PRP I)) (VP (VBD did))))) (, ,) (INTJ (UH okay))
+     (. ?)))
+
+
+(ROOT (S (VP (VB do)
+	(NP (NP (DT the) (JJ same) (NN thing))
+	 (SBAR (WHNP (WP that)) (S (NP (PRP I)) (VP (VBD did))))))
+     (. .)))
+
+
+(ROOT (SQ (VP (COP is)
+     (NP (NN that))
+     (SBAR (WHNP (WP what))
+      (S (NP (PRP I))
+       (VP (VB want)
+	(S (NP (PRP you))
+	 (VP (TO to) (VP (VB teach) (NP (NNP Mommy)))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and) (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (S (ADVP (RB first))
+     (NP (PRP you))
+     (VP (VB show)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (NN this)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (ADVP (RB then))
+     (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (DT the) (JJ little) (NN girl)) (VP (VB do))))
+     (. ?)))
+
+
+(ROOT (SQ (ADVP (RB now))
+     (VP (MD can)
+     (NP (PRP you))
+     (VP (VB teach)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (NN that))))))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VB show)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (NN this))))))))
+     (. .)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (S (NP (PRP you))
+     (VP (VB show)
+      (NP (PRP her))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (FRAG (WHNP (WDT which) (NN end)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (VBZ goes) (ADVP (RB first))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (COP is)
+     (NP (NN that))
+     (SBAR (WHNP (WP what))
+      (S (NP (PRP she))
+       (VP (COP 's)
+	(ADJP (JJ supposed) (S (VP (TO to) (VP (VB do)))))))))
+     (. ?)))
+
+
+(ROOT (INTJ (ADJP (JJ alright))) (, ,) (S (VP (VB teach)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (PP (IN in) (NP (NN here)))))
+     (. ?)))
+
+
+(ROOT (INTJ (PRP$ my) (NN goodness)) (, ,)
+     (SBARQ (WHNP (WHNP (WP what) (NN kind))
+     (PP (IN of)
+     (NP (NNS toys)))) (SQ (VP (COP are) (NP (NNS these))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH oh)) (, ,) (FRAG (NP (PRP you))
+     (VP (VB know)
+      (SBAR (WHNP (WP what))
+       (S (NP (PRP we)) (VP (VBD lost)))))) (, ,)
+	(FRAG (NP (DT the) (NN pocketbook))))
+     
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB call) (NP (DT this) (NN place)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (PRP$ your) (JJ favorite) (NN ride))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's)
+	  (NP (NP (PRP$ your) (JJ favorite) (NN ride))
+	   (PP (IN on) (NP (DT the) (NN playground))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WDT which) (NN one)) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (PRP it)) (VP (VBN called))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP 's) (NP (NN this)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP is) (NP (DT this) (NN guy))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (NN this)) (VP (VBN called))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VB tell)
+      (NP (PRP me))
+      (SBAR (WHNP (WP what)) (S (NP (NN that)) (VP (COP is))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN this)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP is) (NP (DT this) (NN thing))))
+     (. ?)))
+
+
+(ROOT (S (NP (PRP you))
+     (VP (AUX did)
+      (NOT n't)
+      (VP (VB tell)
+       (NP (PRP me))
+       (SBAR (WHNP (WP what))
+	(S (NP (NN this)) (VP (COP is)))))))
+	 (CC and)
+	 (S (NP (PRP I))
+	  (VP (VB know) (SBAR (S (NP (PRP you)) (VP (VB know)))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN that)))) (. ?)))
+
+
+(ROOT (NP (NNP Becky)) (, ,)
+     (SBARQ (WHNP (WP what))
+     (SQ (VP (COP is) (NP (NN this))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN this)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN this)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB do) (PP (IN on) (NP (PRP it))))))
+     (. ?)))
+
+
+(ROOT (FRAG (NP (NN that))
+     (VP (COP 's)
+      (SBAR (WHADVP (WRB how)) (S (NP (PRP she)) (VP (VBZ says)))))
+     (. .)))
+
+
+(ROOT (S (NP (NN that))
+     (VP (COP 's)
+      (SBAR (WHADVP (WRB how))
+       (S (NP (PRP she)) (VP (VBZ says) (NP (NN that))))))
+     (. .)))
+
+
+(ROOT (INTJ (UH hey)) (, ,) (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (NN that))))
+     (. ?)))
+
+
+(ROOT (S (NP (PRP he))
+     (VP (AUX has)
+      (S (VP (TO to)
+	  (VP (VB hold)
+	   (PRT (RP on)))))))
+	    (CC or)
+	     (SBARQ (WHNP (WP what))
+	      (SQ (VP (MD will) (VP (VB happen))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and) (ADVP (RB then))
+     (WHNP (WP what))
+     (SQ (VP (MD will) (NP (DT the) (NN mommy)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP 's) (NP (NN this)))) (. ?)))
+
+
+(ROOT (INTJ (UH well)) (, ,)
+     (SBARQ (WHNP (WP who))
+     (SQ (VP (AUX 's)
+	  (VP (VBG goING)
+	   (S (VP (TO To)
+	       (VP (VB go) (PP (IN in) (NP (DT the) (NN carriage)))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (NP (NN that)) (VP (COP 's) (NOT not) (NP (DT a)))))
+
+
+(ROOT (FRAG (WHNP (WHNP (WDT what) (NN kind))
+	    (PP (IN of) (NP (NNS clothes))))
+     (S (NP (PRP she)) (VP (VBD got) (PRT (RP on))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC but)
+     (WHNP (WP what))
+     (SQ (VP (COP is) (NP (PRP it))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's) (NP (DT this) (JJ little) (NN guy)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB why))
+     (SQ (VP (COP is)
+      (NP (PRP he))
+      (PP (ADVP (RB all)) (IN by) (NP (PRP himself)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does)
+      (NP (PRP he))
+      (VP (VB say) (PP (IN to) (NP (PRP$ his) (NN mommy))))))
+     (. ?)))
+
+
+(ROOT (S (NP (PRP they))
+     (VP (AUX 're)
+      (VP (VBG staying)
+       (PRT (RP on)))))
+	(CC but)
+	 (FRAG (WHNP (WP what)) (PP (IN about) (NP (PRP mine)))
+     (. ?)))
+
+
+(ROOT (FRAG (WHADVP (WRB how)) (PP (IN about)
+	(NP (DT this) (JJ little) (NN girl)))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (PRP she))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (NP (NNP Mom)) (, ,) (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX am)
+      (NP (PRP I))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what))
+	(VP (AUX 's) (NP (DT the) (NN mommy))
+     (VP (VB say)
+      (PP (IN to)
+       (NP (NP (DT the) (NNS kids))
+	(PP (IN on)
+	 (NP (DT the) (NN merrygoround))))
+	  (SBAR (WHADVP (WRB when)) (S (NP (PRP they)))))))))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (COP 's) (NP (NNP Rebecca))))
+     (. ?)))
+
+
+(ROOT (SQ (NP (NN that)) (VP (COP 's) (NP (PRP you))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WDT what) (NN color) (NN shirt))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB have))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (COP is)
+     (NP (NN that)) (SBAR (WHNP (WDT what) (NN color) (NN hair))
+      (S (NP (PRP you)) (VP (VB have)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WDT which) (NN one))
+	    (SQ (VP (VBZ has)
+	     (NP (NP (DT the) (JJ same) (NN color) (NN hair))
+	      (SBAR (WHNP (WP that))
+	       (S (NP (PRP you)) (VP (VB have)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB Where))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB live)))) (, ,) (NP (NNP Bec))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (AUX did) (NP (PRP ja)) (VP (VB say)))) (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX do) (NP (PRP you)) (VP (VB live)))) (, ,) (NP (NNP Bec))
+     (. ?)))
+
+
+(ROOT (NP (NNP Bec)) (, ,)
+      (SBARQ (WHADVP (WRB where))
+      (SQ (VP (AUX do) (NP (PRP you)) (VP (VB live))))
+      (. ?)))
+
+
+(ROOT (FRAG (VP (VB guess) (WHNP (WP what))) (. ?)))
+
+
+(ROOT (SQ (NP (PRP you))
+     (VP (VB know)
+      (SBAR (WHNP (WP what))
+       (S (NP (DT the) (NN mommy))
+	(VP (VBZ likes) (S (VP (TO to) (VP (VB go) (PP (IN on)))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX did) (NP (PRP she)) (VP (VB say))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB why))
+     (SQ (VP (COP is) (NP (PRP she)) (ADJP (JJ mad))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VB show)
+      (NP (NNP Mommy))
+      (SBAR (WHADVP (WRB how))
+       (S (VP (TO to) (VP (VB do) (NP (PRP it))))))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (NNP Mommy))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (AUX got) (S (VP (TO ta) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SQ (NP (PRP I))
+     (VP (AUX have)
+      (S (VP (TO to)
+	  (VP (VB do)
+	   (NP (PRP it))
+	   (WHNP (WHADJP (WRB how) (JJ many)) (NNS times))))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (MD can)
+     (NP (PRP you))
+     (VP (VP (VB get) (NP (NNP Mommy)))
+      (CC and)
+      (VP (VB teach) (NP (NNP Mommy)) (WHADVP (WRB how)))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (AUX got) (S (VP (TO ta) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (AUX got) (S (VP (TO ta) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP she)) (VP (VB do) (ADVP (RB first)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX does) (NP (PRP it)) (VP (AUX got) (S (VP (TO ta) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (PRP she))
+      (VP (VBG goING) (S (VP (TO To) (VP (VB do) (ADVP (RB now))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (. ?)))
+
+
+(ROOT (FRAG (CC and) (ADVP (RB then)) (WHNP (WP what)) (. ?)))
+
+
+(ROOT (S (NP (PRP she)) (VP (VBD did) (NP (PRP it))))
+     (CC and)
+     (S (NP (PRP you))
+      (VP (VBD showed) (NP (PRP her)) (WHADVP (WRB how)))
+     (. .)))
+
+
+(ROOT (S (ADVP (RB now))
+     (NP (PRP you))
+     (VP (AUX 're)
+      (VP (VBG goING)
+       (S (VP (TO To)
+	   (VP (VB show)
+	    (NP (NNP Mommy))
+	    (SBAR (WHADVP (WRB how))
+	     (S (VP (TO to) (VP (VB do) (NP (NN that)))))))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB tell)
+	(NP (NNP Mommy))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX have)
+      (NP (PRP I))
+      (VP (AUX got) (S (VP (TO to) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what) (NN kind))
+     (SQ (VP (COP is) (NP (NN that))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what) (NN kind))
+     (SQ (VP (COP is) (NP (NN that))))
+     (. ?)))
+
+
+(ROOT (FRAG (ADVP (RB now))
+     (WHNP (WP what) (JJ other) (NN kind))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADJP (WRB how) (JJ many))
+     (SQ (VP (AUX do) (NP (PRP I)) (VP (AUX haf) (S (VP (TO ta) (VP (VB do)))))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (COP is)
+     (NP (NN that))
+     (SBAR (WHNP (WP what))
+      (S (NP (PRP we)) (VP (VBD did) (ADVP (RB before))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (PP (IN in) (NP (NN here)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP are) (NP (DT all) (DT those) (NNS things))))
+     (. ?)))
+
+
+(ROOT (SQ (VP (AUX do)
+     (NP (PRP you))
+     (VP (VB know)
+      (SBAR (WHNP (WP what)) (S (NP (NN that)) (VP (COP is))))))
+     (. ?)))
+
+
+(ROOT (FRAG (WHNP (WP what)) (PP (IN about) (NP (NN this))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP 's) (NP (NN that)))) (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (NN that)) (VP (VBN called))))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and) (WHADVP (WRB how)) (PP (IN about) (NP (NN this)))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP is) (NP (DT all) (DT this) (NN stuff))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP who))
+     (SQ (VP (COP 's) (NP (NN this))))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and)
+     (WHADVP (WRB how)) (PP (IN about)
+     (NP (DT this) (NN one)))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and)
+     (WHADVP (WRB how)) (PP (IN about) (NP (NN this)))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB think) (SBAR (S (NP (NN this)) (VP (COP is)))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (AUX does)
+	 (NP (NN that)) (VP (VBZ goes) (PP (IN on)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (AUX 's) (NP (DT the) (NN hat)) (VP (VB go) (PP (IN on)))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP who))
+     (SQ (VP (COP 's) (NP (NN that)))) (ADVP (RB again))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and) (WHNP (WP what)) (PP (IN about) (NP (NN this))) (. ?)))
+
+
+(ROOT (SQ (NP (DT the) (NNS kids))
+     (VP (AUX are)
+      (VP (VBG going) (WHPP (IN on) (WHNP (DT the) (WP what)))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB look)
+	(SBAR (WHADVP (WRB how))
+	 (S (NP (PRP they)) (VP (VB go) (PP (IN on))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX does) (NP (DT the) (NN merrygoround)) (VP (VB work))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB how))
+     (SQ (VP (AUX 's) (NP (PRP it)) (VP (VB work))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is)
+      (NP (PRP she))
+      (VP (VBG goING)
+       (S (VP (TO To)
+	   (VP (VB do)
+	    (SBAR (IN while)
+	     (S (NP (PRP she)) (VP (AUX 's) (VP (VBG waiting)))))))))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX do)
+      (NP (PRP you))
+      (VP (VB do)
+       (SBAR (WHADVP (WRB when))
+	(S (NP (PRP you))
+	 (VP (VB go) (PP (IN to) (NP (DT the) (NN park)))))))))
+     (. ?)))
+
+
+(ROOT (FRAG (CC and)
+     (WHNP (WP what) (RB else))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (COP 's) (NP (NN this)) (PP (IN for))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHADVP (WRB where))
+     (SQ (VP (AUX 's) (NP (DT the) (NN baby)) (VP (VBG going))))
+     (. ?)))
+
+
+(ROOT (SBARQ (WHNP (WP what))
+     (SQ (VP (AUX is)
+      (NP (DT all) (DT this) (NN place))
+      (VP (VBN called))))
+     (. ?)))
+
+
+(ROOT (SBARQ (ADVP (RB now))
+     (WHNP (WP what))
+     (SQ (VP (AUX is) (NP (PRP she)) (VP (VBG doing))))
+     (. ?)))
+
+
+(ROOT (SBARQ (CC and)
+     (WHNP (WP what))
+     (SQ (VP (AUX 's)
+      (NP (DT this) (JJ little) (NN girl))
+      (VP (VBG doing))
+       (ADVP (RB over) (RB here))
+       (PP (ADVP (RB all)) (IN by) (NP (PRP herself)))))
+     (. ?)))
+
+
+(ROOT (S (VP (VB teach)
+	(NP (NNP mommy))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (NN that)))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB show)
+	(NP (NNP mommy))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (PRP it)))))))
+     (. .)))
+
+
+(ROOT (S (VP (VB let)
+	 (S (NP (PRP me))
+	(VP (VB see)
+	 (SBAR (IN if)
+	  (S (NP (PRP I))
+	   (VP (MD can)
+	    (VP (VB remember)
+	     (SBAR (WHADVP (WRB how))
+	      (S (NP (PRP you)) (VP (VBD did) (NP (NN that))))))))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (AUX did) (NP (PRP ja)) (VP (VB do)))) (. ?)))
+
+
+(ROOT (INTJ (UH okay)) (, ,) (S (VP (VB tell) (NP (NNP Mommy)) (WHADVP (WRB how)))
+     (. .)))
+
+
+(ROOT (S (VP (VB teach)
+	(NP (NNP Mommy))
+	(SBAR (WHADVP (WRB how))
+	 (S (VP (TO to) (VP (VB do) (NP (DT that) (NN one)))))))
+     (. .)))
+
+
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VP (COP is) (NP (NN that)))) (. ?)))
+
+

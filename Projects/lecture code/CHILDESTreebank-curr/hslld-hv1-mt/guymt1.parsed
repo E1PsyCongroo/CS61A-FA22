@@ -1,0 +1,348 @@
+(ROOT
+  (S
+    (S
+      (VP
+        (VB sit)
+        (ADVP
+	  (RB down))))
+    (CC and)
+    (S
+      (VP
+        (VB eat)
+        (NP
+	  (PRP$ your)
+	  (NN food))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (JJ okay))
+  (SQ
+    (NP
+      (PRP you))
+    (VP
+      (MD 'd)
+      (VP
+        (VB like)
+        (NP
+	  (PRP$ your)
+	  (NN rice))))
+    (. ?)))
+
+(ROOT
+  (S
+    (VP
+      (VB eat)
+      (NP
+        (PRP it)
+	(DT all))
+      (PRT
+        (RP up)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP
+      (RB there))
+    (NP
+      (PRP you))
+    (VP
+      (VBP go))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1
+      (WP what))
+    (SQ
+      (VP
+        (COP 's)
+      	(NP
+	  (NN that))
+	(NP
+	  (-NONE-ABAR-WH- *T*-1))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP
+      (PRP you))
+    (VP
+      (VB like)
+      (NP
+        (PRP$ your)
+	(NN meat)))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP
+      (AUX are)
+      (NP
+        (PRP you))
+      (VP
+        (VBG eating)
+      	(NP
+	  (PRP it)
+	  (DT all))
+	(PRT
+	  (RP up))
+        (PP
+	  (IN like)
+          (NP
+	    (DT a)
+	    (JJ big)
+	    (NN boy)))))
+    (. ?)))
+
+(ROOT
+  (INTJ
+    (UH yeah))
+  (S
+    (S
+      (NP-1
+        (PRP you))
+      (VP
+        (AUX 're)
+        (VP
+          (VBG going)
+          (S
+	    (NP
+	      (-NONE-A-RAISE- *T*-1))
+            (VP
+	      (TO to)
+              (VP
+	        (COP be)
+                (ADJP
+	          (JJ strong))))))))
+    (CC so)
+    (S
+      (VP
+        (VB eat)
+      	(PRT
+	  (RP up))
+        (NP
+	  (DT all)
+	  (PRP$ your)
+	  (NN food))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (WHNP
+      (WP who))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP
+      (PRP you))
+    (VP
+      (VB like)
+      (NP
+        (NNP Popeye)))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP
+      (AUX are)
+      (NP-1
+        (PRP you))
+      (VP
+        (VBG going)
+      	(S
+	  (NP
+	    (-NONE-A-RAISE- *T*-1))
+          (VP
+	    (TO to)
+            (VP
+	      (COP be)
+              (NP
+	        (NNP Popeye)))))))
+    (. ?)))
+
+(ROOT
+  (INTJ
+    (UH huh)
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP
+      (PRP$ his)
+      (PRP$ his)
+      (NN spinach))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1
+      (WP what))
+    (SQ
+      (VP
+        (AUX did)
+      	(NP
+	  (PRP you))
+        (VP
+	  (VB do)
+          (NP
+	    (-NONE-ABAR-WH- *T*-1))
+	  (PP
+	    (IN in)
+            (NP
+	      (NN school)))
+          (ADVP
+	    (NN today)))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP
+      (AUX did)
+      (NP
+        (PRP you))
+      (VP
+        (VB eat)
+      	(NP
+	  (DT all)
+	  (PRP$ your)
+	  (NN lunch))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1
+      (WP what))
+    (SQ
+      (VP
+        (AUX did)
+      	(NP
+	  (PRP you))
+        (VP
+	  (VB have)
+          (NP
+	    (-NONE-ABAR-WH- *T*-1))
+	  (PP
+	    (IN for)
+            (NP
+	      (NN lunch))))))
+    (. ?)))
+
+(ROOT
+  (INTJ
+    (UH hello)
+    (. ?)))
+
+(ROOT
+  (INTJ
+    (UH hi)
+    (. !)))
+
+(ROOT
+  (INTJ
+    (JJ okay)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (WHNP
+      (WP what))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (ADJP
+      (JJ alright))
+    (ADVP
+      (RB then))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VB eat)
+      (NP
+        (PRP it)
+	(DT all))
+      (PRT
+        (RP up)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP
+        (AUX do)
+        (NOT n't)
+        (VP
+	  (VB play)
+          (PP
+	    (IN with)
+            (NP
+	      (PRP$ your)
+	      (NN food))))))
+    (CC and)
+    (S
+      (VP
+        (VB eat)
+        (NP
+	  (PRP it))
+        (PRT
+	  (RP up)))))
+  (NP
+    (NNP Chi)
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (ADVP
+        (RB just))
+      (VB eat)
+      (NP
+        (PRP it))
+      (PP
+        (DT that)
+	(NN way)))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH no))
+  (S
+    (NP
+      (PRP you))
+    (VP
+      (COP 're)
+      (NOT not))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP
+      (JJ finished))
+    (. ?)))
+
+(ROOT
+  (S
+    (VP
+      (VB drink)
+      (NP
+        (PRP$ your)
+	(NN juice)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VB drink)
+      (NP
+        (PRP$ your)
+	(NN juice)))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (JJ okay)
+    (. .)))

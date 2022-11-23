@@ -1,0 +1,3545 @@
+(ROOT
+  (SQ
+    (NP
+      (PRP they))
+    (VP
+      (AUX have)
+      (NOT n't)
+      (VP
+        (VBN come)
+        (ADVP
+	  (RB down))
+        (ADVP
+	  (RB yet))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP
+      (PRP they))
+    (VP
+      (MD should)
+      (VP
+        (AUX be)
+        (VP
+	  (VBG coming)
+          (ADVP
+	    (RB down))
+	  (ADVP
+	    (RB soon)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (COP was)
+      (ADJP
+        (JJ surprised)
+        (S
+          (VP
+	    (TO to)
+            (VP
+	      (VB see)
+              (NP
+	        (PRP you)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NN yesterday))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC so)
+    (S
+      (NP
+        (PRP you))
+      (VP
+        (VBD had)
+        (NP
+	  (DT no)
+	  (NN nap))
+	(ADVP
+	  (NN yesterday))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH yeah))
+  (FRAG
+    (CC but)
+    (S
+      (NP
+        (PRP she))
+      (VP
+        (VBD fell)
+        (ADVP
+	  (RB asleep))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (AUX 'm)
+      (VP
+        (VBG eating)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VB look)
+      (PP
+        (IN at)
+        (NP
+	  (NN this))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (JJ nice)
+      (NN turkey))
+    (. .)))
+
+(ROOT
+  (SQ
+    (VP
+      (AUX did)
+      (NP
+        (PRP you))
+      (VP
+        (VB have)
+        (NP
+	  (DT some)
+	  (NN meat))))
+    (. ?)))
+
+(ROOT
+  (INTJ
+    (UH no)
+    (. ?)))
+
+(ROOT
+  (INTJ
+    (UH oh)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (VP
+      (VB put)
+      (NP
+        (DT that)
+	(NN tape)
+	(NN recorder)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (VBP guess)
+      (ADVP
+        (RB so))))
+  (INTJ
+    (UH huh)
+    (. ?)))
+
+(ROOT
+  (INTJ
+    (UH yeah))
+  (S
+    (NP-1
+      (PRP we))
+    (VP
+      (VBP have)
+      (S
+        (NP
+	  (-NONE-A-RAISE- *T*-1))
+	(VP
+	  (TO to)
+	  (VP
+	    (VB give)
+            (NP
+	      (PRP it))
+            (ADVP
+	      (RB back))
+            (PP
+	      (IN to)
+              (NP
+	        (PRP her)))))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH no))
+  (FRAG
+    (NP
+      (PRP I))
+    (VP
+      (VB think)
+      (SBAR
+        (S
+          (NP-1
+	    (DT the)
+	    (NN man))
+          (VP
+	    (AUX 's)
+            (VP
+	      (VBG going)
+              (S
+	        (NP
+		  (-NONE-A-RAISE- *T*-1))
+                (VP
+		  (TO to)
+                  (VP
+		    (VB come)
+                    (ADVP
+		      (DT this)
+		      (NN week))
+                    (S
+                      (VP
+		        (TO to)
+                        (VP
+			  (VP
+			    (VB come))
+                          (CC and)
+			  (VP
+                            (VB get)
+                            (NP
+			      (PRP it))))))))))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (VP
+      (VBG going)
+      (S
+        (VP
+	  (TO to)
+          (VP
+	    (VB come)
+            (ADVP
+	      (DT this)
+	      (NN week))
+            (PP
+	      (IN for)
+              (NP
+	        (PRP it)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP-1
+      (PRP he))
+    (VP
+      (AUX 's)
+      (VP
+        (VBG going)
+        (S
+	  (NP
+	    (-NONE-A-RAISE- *T*-1))
+          (VP
+	    (TO to)
+            (VP
+              (VP
+	        (VB come))
+              (ADVP
+	        (DT this)
+		(NN week))
+              (CC and)
+              (VP
+	        (VB get)
+                (NP
+		  (PRP it))))))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH no)
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH yeah))
+  (S
+    (NP-1
+      (PRP we))
+    (VP
+      (VBP have)
+      (S
+        (NP
+	  (-NONE-A-RAISE- *T*-1))
+	(VP
+	  (TO to)
+	  (VP
+	    (VB wait)
+            (PP
+	      (IN for)
+              (NP
+	        (NN suppertime)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (PP
+      (IN to)
+      (NP
+        (DT the)
+	(NN store)))
+    (PP
+      (IN after)
+      (NP
+        (NN lunch)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VB know)
+        (SBAR
+          (WHNP-1
+	    (WP what))
+          (S
+            (NP-2
+	      (NNP Auntie)
+	      (NNP Mary)
+	      (NNP Anne))
+            (VP
+	      (AUX 's)
+              (VP
+	        (VBG going)
+                (S
+		  (NP
+		    (-NONE-A-RAISE- *T*-2))
+                  (VP
+		    (TO to)
+                    (VP
+		      (VB do)
+		      (NP
+		        (-NONE-ABAR-WH- *T*-1)))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (PP
+      (IN for)
+      (NP
+        (PRP you)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP-1
+      (NNP Auntie)
+      (NNP Mary)
+      (NNP Anne))
+    (VP
+      (VBZ has)
+      (S
+        (NP
+	  (-NONE-A-RAISE- *T*-1))
+        (VP
+	  (TO to)
+          (VP
+	    (VB get)
+            (ADJP
+	      (JJ ready)
+              (PP
+	        (IN for)
+              	(NP
+		  (NN work))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP you))
+    (VP
+      (MD should)
+      (VP
+        (VB pick)
+        (NP
+	  (PRP her))
+        (PRT
+	  (RP up))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (VP
+      (VB tell)
+      (NP
+        (NNP Uncle))
+      (S
+        (VP
+	  (TO to)
+          (VP
+	    (VB talk)
+            (PP
+	      (IN to)
+              (NP
+	        (PRP you)))
+            (SBAR
+	      (COMP because)
+              (NP
+	        (DT the)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (VP
+      (VB record)
+      (NP
+        (PRP you)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP
+      (RB right)
+      (RB there))
+    (PP
+      (IN for)))
+  (S
+    (NP
+      (PRP they))
+    (VP
+      (VBP need)
+      (NP
+        (PRP it))
+      (PP
+        (IN for)
+        (NP
+	  (NN school))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH oh))
+  (FRAG
+    (NP
+      (PRP you))
+    (VP
+      (VB need)
+      (NP
+        (PRP it))
+      (PP
+        (IN for)
+        (NP
+	  (NN school))))
+    (. ?)))
+
+(ROOT
+  (INTJ
+    (UH well))
+  (S
+    (VP
+      (VB tell)
+      (NP
+        (PRP him))
+      (S
+        (VP
+	  (TO to)
+          (VP
+	    (VB talk)
+            (PP
+	      (IN to)
+              (NP
+	        (PRP you)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (ADVP
+      (RB always))
+    (VP
+      (VBP talk)
+      (PP
+        (IN to)
+        (NP
+	  (PRP her))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP she))
+    (VP
+      (COP 's)
+      (NP
+        (PRP$ my)
+	(NN honey)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP-1
+      (PRP you))
+    (VP
+      (VBG going)
+      (S
+        (NP
+	  (-NONE-A-RAISE- *T*-1))
+        (VP
+	  (TO to)
+          (VP
+	    (VB sing)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (VP
+      (VB come)
+      (PP
+        (IN on))))
+  (FRAG
+    (ADJP
+      (JJ easy))
+    (. .)))
+
+(ROOT
+  (S
+    (NP-1
+      (PRP she))
+    (VP
+      (AUX was)
+      (NOT n't)
+      (VP
+        (VBN supposed)
+        (S
+	  (NP
+	    (-NONE-A-RAISE- *T*-1))
+          (VP
+	    (TO to)
+            (VP
+	      (VB know)
+              (SBAR
+                (S
+                  (NP
+		    (NN this))
+                  (VP
+		    (COP was)
+                    (ADJP
+		      (JJ on))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VB sit)
+      (ADVP
+        (RB down)))
+    (. !)))
+
+(ROOT
+  (INTJ
+    (UH hey)
+    (. !)))
+
+(ROOT
+  (S
+    (VP
+      (VB sit)
+      (ADVP
+        (RB down)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (WHNP
+      (WP who)))
+  (FRAG
+    (NP
+      (PRP me))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I)
+      (PRP I))
+    (VP
+      (COP 'm)
+      (NOT not)
+      (NP
+        (DT a)
+	(JJ bad)
+	(NN boy)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (PRP you))
+    (VP
+      (VB want)
+      (NP
+        (DT some)
+	(JJR more)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP-1
+      (WRB how)
+      (VB come))
+    (SQ
+      (NP
+        (PRP I))
+      (VP
+        (COP 'm)
+        (NP
+	  (DT a)
+	  (JJ bad)
+	  (NN boy))
+	(ADVP
+	  (-NONE-ABAR-WH- *T*-1))))
+    (. ?)))
+
+(ROOT
+  (INTJ
+    (JJ okay))
+  (S
+    (VP
+      (VB eat)
+      (NP
+        (DT a)
+	(JJ little)
+        (JJR more)
+	(NNS potatoes))))
+  (INTJ
+    (JJ okay)
+    (. ?)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (MD 'll)
+      (VP
+        (VB pinch)
+        (NP
+	  (PRP$ your)
+	  (NN butt))))
+    (. .)))
+
+(ROOT
+  (SQ
+    (VP
+      (AUX do)
+      (NP
+        (PRP you))
+      (VP
+        (VB want)
+        (NP
+	  (DT some)
+	  (NN gravy))
+        (PP
+	  (IN on)
+          (NP
+	    (PRP$ your)
+	    (NNS potatoes)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (MD 'll)
+      (VP
+        (VB pinch)
+        (NP
+	  (PRP$ your)
+	  (NN butt))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (VBD thought)
+      (SBAR
+        (S
+          (NP
+	    (NNP Darlene))
+          (VP
+	    (MD would)
+            (VP
+	      (COP be)
+              (ADVP
+	        (RB here)))))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH hey))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VB talk)
+        (PP
+	  (IN with)
+          (NP
+	    (PRP you)
+            (NN mouth))
+	  (ADJP
+	    (JJ full)))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NNP Darlene)
+    (. ?)))
+
+(ROOT
+  (S
+    (NP
+      (PRP she))
+    (VP
+      (AUX 's)
+      (VP
+        (VBG getting)
+        (ADJP
+	  (JJ ready))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (VP
+      (VBG getting)
+      (ADJP
+        (JJ ready)))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH no))
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (VBP mean)
+      (SBAR
+        (S
+          (NP
+	    (PRP she))
+          (VP
+	    (AUX 's)
+            (VP
+	      (VBG shopping))))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH oh)
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP she)
+      (PRP she))
+    (VP
+      (AUX 's)
+      (ADVP
+        (RB still))
+      (VP
+        (VBG shopping)))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (NP
+      (PRP she))
+    (VP
+      (AUX 's)
+      (VP
+        (VBG shopping)
+        (PP
+	  (IN for)
+          (WHNP
+	    (WP what)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VB know)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP
+      (RB just))
+    (S
+      (VP
+        (TO to)
+        (VP
+          (VP
+	    (VB go)
+            (VP
+	      (VBG shopping)))
+          (CC and)
+          (VP
+	    (VB spend)
+            (NP
+	      (NN money))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP
+      (JJ good)))
+  (FRAG
+    (NP-1
+      (PRP she))
+    (VP
+      (VBG going)
+      (S
+        (NP
+	  (-NONE-A-RAISE- *T*-1))
+        (VP
+	  (TO to)
+          (VP
+	    (VB get)
+            (NP
+	      (DT a)
+	      (JJ new)
+	      (NN cabinet))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP she))
+    (VP
+      (AUX 's)
+      (VP
+        (VBG picking)
+        (PRT
+	  (RP up))
+        (NP
+          (NP
+	    (DT a)
+	    (NN card))
+          (CC and)
+          (NP
+	    (DT all)
+	    (NN that)))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH oh)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (PRP I))
+    (VP
+      (VBD thought)
+      (SBAR
+        (S
+          (NP
+	    (PRP you))
+          (VP
+	    (VBD meant)
+            (PP
+	      (IN like))))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH wow))
+  (S
+    (VP
+      (VB look)
+      (PP
+        (IN at)
+        (NP
+	  (NN this))))
+    (. !)))
+
+(ROOT
+  (S
+    (VP
+      (VB look)
+      (SBAR
+        (WHNP-1
+	  (WP what))
+        (S
+          (NP
+	    (PRP you))
+	  (VP
+	    (AUX se)
+            (VP
+	      (VBG eating)
+	      (NP
+	        (-NONE-ABAR-WH- *T*-1)))))))
+    (. !)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1
+      (WP who))
+    (SQ
+      (NP
+        (-NONE-ABAR-WH- *T*-1))
+      (VP
+        (VBD did)
+        (NP
+	  (NN that))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP
+      (MD can)
+      (NP
+        (NNP Uncle))
+      (VP
+        (VB have)
+      	(NP
+	  (DT some)
+          (PP
+	    (IN of)
+            (NP
+	      (PRP$ your)
+	      (NN turkey))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (VP
+      (VB have)
+      (NP
+        (JJR more)
+	(NN turkey)))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC so)
+    (SBARQ
+      (WHNP-1
+        (WP what))
+      (SQ
+        (VP
+	  (AUX do)
+          (NP
+	    (PRP you))
+          (VP
+	    (VB want)
+	    (NP
+	      (-NONE-ABAR-WH- *T*-1))))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH oh))
+  (FRAG
+    (NP
+      (PRP you))
+    (ADVP
+      (RB already))
+    (VP
+      (VBD got)
+      (NP
+        (NN some)))
+    (. ?)))
+
+(ROOT
+  (S
+    (INTJ
+      (UH yeah))
+    (CC but)
+    (S
+      (NP
+        (PRP you))
+      (VP
+        (VBD stole)
+        (NP
+	  (PRP$ my)
+	  (NN gravy))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH yes))
+  (S
+    (NP
+      (PRP you))
+    (VP
+      (VBD did))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1
+      (WP who))
+    (SQ
+      (NP
+        (-NONE-ABAR-WH- *T*-1))
+      (VP
+        (VBD spilled)
+        (NP
+	  (PRP it))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP
+      (PRP he))
+    (VP
+      (VBD did)
+      (NP
+        (PRP it))
+      (NP
+        (PRP himself)))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (VBD ate)))
+  (INTJ
+    (UH hey))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VB point)
+        (PP
+	  (IN to)
+          (NP
+	    (PRP me))))))
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (VBP have)
+      (NP
+        (DT a)
+	(NN name)))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH no))
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (AUX did)
+      (NOT n't)
+      (VP
+        (VB do)
+        (NP
+	  (PRP it)))))
+  (S
+    (NP
+      (PRP you))
+    (VP
+      (VBD did)
+      (NP
+        (PRP it)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (PRP I))
+    (VP
+      (VBN seen)
+      (S
+        (NP
+	  (PRP you))
+        (VP
+	  (VB do)
+          (NP
+	    (PRP it)))))
+    (. !)))
+
+(ROOT
+  (INTJ
+    (UH hey))
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VB talk)
+        (PP
+	  (IN to)
+          (NP
+	    (PRP me)))
+        (PP
+	  (IN with)
+          (NP
+	    (DT a)
+	    (NN fork))
+          (PP
+	    (IN in)
+            (NP
+	      (PRP$ your)
+	      (NN hand))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (PRP you))
+    (ADJP
+      (ADJP
+        (JJ crazy))
+      (CC or)
+      (NP
+        (NN something)))
+    (. ?)))
+
+(ROOT
+  (INTJ
+    (UH yeah)
+    (. !)))
+
+(ROOT
+  (INTJ
+    (UH yeah)
+    (UH yeah))
+  (FRAG
+    (S
+      (NP
+        (PRP you))
+      (VP
+        (VBD did)
+        (NP
+	  (PRP it))))
+    (CC and)
+    (FRAG
+      (NP
+        (PRP I)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (WHNP
+      (WP what))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (ADJP
+      (JJ crazy))
+    (VP
+      (COP is)
+      (NP
+        (DT a)
+	(JJ bad))))
+  (FRAG
+    (NP
+      (PRP you)))
+  (S
+    (NP
+      (NN that))
+    (VP
+      (COP 's)
+      (SBAR
+        (COMP because)
+        (S
+          (NP
+	    (PRP you))
+          (VP
+	    (COP 're)
+            (NP
+	      (DT a)
+	      (JJ crazy)
+	      (NN lady))))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH oh)
+    (NP
+      (NN boy))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (NP-1
+      (PRP you))
+    (VP
+      (VBG going)
+      (S
+        (NP
+	  (-NONE-A-RAISE- *T*-1))
+        (VP
+	  (TO to)
+          (VP
+	    (VB put)
+            (NP
+	      (PRP me))
+            (PP
+	      (IN in)
+              (NP
+	        (PRP$ my)
+		(NN place)))))))
+    (. ?)))
+
+(ROOT
+  (INTJ
+    (UH yeah)
+    (. ?)))
+
+(ROOT
+  (S
+    (VP
+      (VB let)
+      (S
+        (NP
+	  (PRP me))
+        (VP
+	  (VB tell)
+          (NP
+	    (PRP you))
+          (NP
+	    (NN something)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP-1
+      (PRP you))
+    (VP
+      (VB got)
+      (S
+        (NP
+	  (-NONE-A-RAISE- *T*-1))
+	(VP
+	  (TO to)
+	  (VP
+	    (VB get)
+	    (ADJP
+              (DT a)
+	      (NN lot)
+              (JJR bigger)
+              (PP
+	        (IN than)
+          	(S
+            	  (NP
+		    (PRP you))
+            	  (VP
+		    (COP are)
+		    (ADVP
+		      (RB now))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP-1
+      (PRP I))
+    (VP
+      (VBG going)
+      (S
+        (NP
+	  (-NONE-A-RAISE- *T*-1))
+        (VP
+	  (TO to)
+          (VP
+	    (VB beat)
+            (NP
+	      (PRP$ your)
+	      (NN butt))
+            (SBAR
+              (WHADVP-2
+	        (WRB when))
+              (S
+                (NP
+		  (PRP we))
+                (VP
+		  (VBP get)
+                  (ADJP
+		    (JJ done)
+                    (S
+                      (VP
+		        (VBG eating))))
+		  (ADVP
+		    (-NONE-ABAR-RC- *T*-2)))))))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH no))
+  (S
+    (NP
+      (PRP he))
+    (VP
+      (AUX 's)
+      (NOT not))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP-1
+      (PRP I))
+    (VP
+      (AUX 'm)
+      (VP
+        (VBG going)
+        (S
+	  (NP
+	    (-NONE-A-RAISE- *T*-1))
+	  (VP
+	    (TO to))))))
+  (S
+    (NP-2
+      (PRP I))
+    (VP
+      (AUX 'm)
+      (VP
+        (VBG going)
+        (S
+	  (NP
+	    (-NONE-A-RAISE- *T*-2))
+          (VP
+	    (TO to)
+            (VP
+	      (VB beat)
+              (NP
+	        (PRP$ your)
+		(NN butt)))))))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (SBAR
+      (COMP because)
+      (ADVP
+        (RB then)))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH oh))
+  (S
+    (VP
+      (VB come)
+      (PP
+        (IN on)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP-1
+      (PRP you))
+    (VP
+      (AUX 're)
+      (VP
+        (VBG going)
+        (S
+	  (NP
+	    (-NONE-A-RAISE- *T*-1))
+          (VP
+	    (TO to)
+            (VP
+	      (VB beat)
+              (NP
+	        (PRP$ his)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP
+      (RB upstairs))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH oh))
+  (S
+    (NP
+      (PRP he))
+    (VP
+      (VBD left))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (MD 'll)
+      (VP
+        (VB beat)
+        (NP
+	  (PRP you))
+        (ADVP
+	  (RB anyways))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP-1
+      (PRP I))
+    (VP
+      (AUX 'm)
+      (VP
+        (VBG going)
+        (S
+	  (NP
+	    (-NONE-A-RAISE- *T*-1))
+          (VP
+	    (TO to)
+            (VP
+	      (VB beat)
+              (NP
+	        (PRP you))))))))
+  (S
+    (NP-2
+      (PRP I))
+    (VP
+      (AUX 'm)
+      (VP
+        (VBG going)
+        (S
+	  (NP
+	    (-NONE-A-RAISE- *T*-2))
+          (VP
+	    (TO to)
+            (VP
+	      (VB get)
+              (ADJP
+	        (JJ done)
+                (S
+                  (VP
+		    (VBG eating))))
+              (SBAR
+	        (COMP before)
+                (S
+                  (NP
+		    (PRP you))
+                  (VP
+		    (COP are)))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (DT no)
+      (NNS wings))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP
+      (PRP I))
+    (VP
+      (COP 'm))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (COP 'm)
+      (ADVP
+        (RB almost))
+      (ADJP
+        (JJ done))
+      (ADVP
+        (RB now)))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH yeah)
+    (. .)))
+
+(ROOT
+  (SQ
+    (NP
+      (PRP I))
+    (VP
+      (MD 'll)
+      (VP
+        (VB choke))
+      (SBAR
+        (COMP if)
+        (S
+          (NP
+	    (PRP I))
+          (VP
+	    (VBP stuff)
+            (NP
+	      (PRP$ my)
+	      (NN mouth))))))
+    (. ?)))
+
+(ROOT
+  (INTJ
+    (UH yeah))
+  (FRAG
+    (ADJP
+      (JJ alright)))
+  (S
+    (SBAR-2
+      (S
+        (NP-1
+          (PRP you))
+        (VP
+          (VB got)
+          (S
+            (NP
+	      (-NONE-A-RAISE- *T*-1))
+	    (VP
+	      (TO ta)
+              (VP
+	        (VB chew)
+                (NP
+	          (PRP$ your)
+	          (NN food))
+                (ADVP
+	          (RB too))))))))
+    (NP
+      (PRP you))
+    (VP
+      (VBP know)
+      (SBAR
+        (-NONE-ABAR-OTHER- *T*-2)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VB say)
+      (NP
+        (S
+          (NP
+	    (PRP I))
+          (VP
+	    (VBP chew)
+            (NP
+	      (PRP$ my)
+	      (NN food))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP
+      (JJ good))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VB look)
+        (PP
+	  (IN like)
+          (NP
+	    (PRP it)))
+        (PP
+	  (IN to)
+          (NP
+	    (PRP me)))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VB listen)))
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (MD can)
+      (VP
+        (VB do)
+        (NP
+	  (NN that))
+        (ADVP
+	  (RB too))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (PRP I))
+    (VP
+      (VB know)
+      (ADVP
+        (RBR better)
+	(PP
+	  (IN than)
+          (NP
+	    (NN that)))))
+    (. ?)))
+
+(ROOT
+  (INTJ
+    (JJ okay)
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VB tell)
+      (NP
+        (PRP him)))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (JJ okay)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (EX there))
+    (VP
+      (COP 's)))
+  (S
+    (S
+      (NP
+        (EX there))
+      (VP
+        (COP 's)
+        (ADVP
+          (RB only))
+        (NP
+          (CD one)
+	  (NN baby))
+        (PP
+          (IN in)
+          (NP
+	    (DT the)
+	    (NN house)))))
+    (CC and)
+    (S
+      (NP
+        (PRP you))
+      (VP
+        (COP 're)
+        (NP
+	  (PRP it))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP
+      (JJ right))
+    (. ?)))
+
+(ROOT
+  (INTJ
+    (UH oh))
+  (S
+    (NP
+      (NNP Bryan))
+    (VP
+      (COP is)
+      (NP
+        (DT the)
+	(NN baby)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC but)
+    (SQ
+      (VP
+        (AUX do)
+	(NOT n't)
+	(NP
+	  (PRP you))
+        (VP
+	  (VB act)
+          (PP
+	    (IN like)
+            (NP
+	      (DT a)
+	      (NN baby)))
+          (ADVP
+	    (RB sometime))
+          (SBAR
+	    (WHADVP-1
+	      (WRB when))
+            (S
+              (NP
+	        (PRP you))
+              (VP
+	        (VBP cry)
+		(ADVP
+		  (PDT all)
+		  (DT the)
+		  (NN time))
+		(ADVP
+		  (-NONE-ABAR-RC- *T*-1))))))))
+    (. ?)))
+
+(ROOT
+  (INTJ
+    (UH hey)
+    (. !)))
+
+(ROOT
+  (S
+    (NP-1
+      (PRP you))
+    (VP
+      (VBP keep)
+      (S
+        (NP
+	  (-NONE-A-RAISE- *T*-1))
+        (VP
+	  (VBG chucking)
+          (NP
+	    (NNS potatoes))
+          (PP
+	    (IN at)
+            (NP
+	      (PRP me)))
+          (PP
+	    (IN on)
+            (NP
+	      (PRP$ your)
+	      (NN fork)))))))
+  (S
+    (VP
+      (VB knock)
+      (NP
+        (PRP it))
+      (PRT
+        (RP off)))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+	(VB point)
+        (NP
+	  (PRP$ your)
+	  (NN fork)))
+      (NP
+	(NNP honey))
+      (SBAR
+	(COMP because)
+        (FRAG
+	  (S
+            (NP
+	      (PRP it))
+            (VP
+	      (MD could)
+              (VP
+	        (VB slip))))
+	  (CC and)
+    	  (FRAG
+	    (NP
+	      (PRP it))
+	    (VP
+	      (MD could))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP$ your)
+      (NNS potatoes))
+    (VP
+      (AUX are)
+      (VP
+        (VP
+	  (VBG slipping)
+          (PP
+	    (IN off)))
+        (CC and)
+        (VP
+	  (VBG hitting)
+          (NP
+	    (PRP me)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (ADVP
+        (RB just))
+      (VBD took)
+      (NP
+        (DT a)
+	(JJ nice)
+	(NN shower))))
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (COP 'm)
+      (ADJP
+        (RB all)
+	(JJ clean)))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1
+      (WP who))
+    (SQ
+      (NP
+        (-NONE-ABAR-WH- *T*-1))
+      (VP
+        (VBZ comes)
+        (S
+          (VP
+	    (TO to)
+            (VP
+	      (VB get)
+              (NP
+	        (PRP you))
+              (PP
+	        (IN in)
+                (NP
+		  (NN school)))))))))
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (VBP pick)
+      (NP
+        (PRP you))
+      (PRT
+        (RP up))
+      (PP
+        (IN from)
+        (NP
+	  (NN school)))
+      (ADVP
+        (PDT all)
+	(DT the)
+	(NN time)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (VBP let)
+      (S
+        (NP
+	  (PRP you))
+        (VP
+	  (VB drive)
+          (NP
+	    (PRP$ my)
+	    (NN car)))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH yeah)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC but)
+    (CC but)
+    (SBARQ
+      (SBAR-1
+        (WHADVP-2
+	  (WRB when))
+	(S
+          (NP
+	    (PRP I))
+          (VP
+	    (VBP take)
+            (NP
+	      (PRP you))
+            (PRT
+	      (RP out))
+	    (ADVP
+	      (-NONE-ABAR-RC- *T*-2)))))
+      (SBAR-3
+        (WHADVP-4
+	  (WRB when))
+        (S
+          (NP
+	    (PRP we))
+          (VP
+	    (VBP hit)
+            (NP
+	      (DT the)
+	      (NN street))
+            (ADVP
+	      (-NONE-ABAR-RC- *T*-4)))))
+      (WHNP-5
+        (WP who))
+      (SQ
+        (NP
+	  (-NONE-ABAR-WH- *T*-5))
+	(VP
+	  (VBZ gets)
+          (PP
+	    (IN in)
+            (NP
+	      (DT the)
+	      (NN steering)
+	      (NN wheel)))
+	  (SBAR
+	    (-NONE-ABAR-OTHER- *T*-1))
+	  (SBAR
+	    (-NONE-ABAR-OTHER- *T*-3))))))
+  (SBARQ
+    (WHNP-6
+      (WP who))
+    (SQ
+      (NP
+        (-NONE-ABAR-WH- *T*-6))
+      (VP
+        (VBZ drives)
+        (NP
+	  (DT the)
+	  (NN car))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1
+      (WP who))
+    (SQ
+      (VP
+        (COP 's)
+	(NP
+	  (PRP me))
+	(NP
+	  (-NONE-ABAR-WH- *T*-1))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP
+      (PRP you))
+    (VP
+      (AUX do))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH oh)
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP you))
+    (VP
+      (VBP know)
+      (SBAR
+        (S
+          (NP
+	    (PRP you))
+          (VP
+	    (AUX 'd)
+            (ADVP
+	      (RB better))
+            (ADVP
+	      (RB never))
+            (VP
+	      (VB smash)
+              (NP
+                (NP
+		  (NNP Unky)
+		  (NNP Johnny)
+		  (POS 's))
+                (NN car)))
+            (SBAR
+	      (COMP because)
+              (S
+                (SBAR-1
+		  (COMP if)
+                  (S
+                    (NP
+		      (PRP you))
+                    (VP
+		      (VBP smash)
+                      (NP
+		        (PRP$ my)
+			(NN car)))))
+                (NP
+		  (PRP you))
+                (VP
+		  (AUX 'd)
+                  (ADVP
+		    (RB better))
+                  (NOT not)
+                  (VP
+		    (VB come)
+                    (PP
+		      (NN home)))
+		  (SBAR
+		    (-NONE-ABAR-OTHER- *T*-1)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP-1
+      (NNP Uncle))
+    (VP
+      (AUX is)
+      (VP
+        (VBG going)
+        (S
+	  (NP
+	    (-NONE-A-RAISE- *T*-1))
+          (VP
+	    (TO to)
+            (VP
+	      (COP be)
+              (PP
+	        (IN in)
+                (NP
+		  (JJ big)
+		  (NN trouble))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NNP Uncle))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP we))
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VB care))))
+  (SQ
+    (VP
+      (AUX do)
+      (NP
+        (PRP we))))
+  (INTJ
+    (UH huh)
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (ADJP
+      (JJ right))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP we))
+    (VP
+      (VBP like)
+      (S
+        (VP
+	  (TO to)
+          (VP
+	    (VB drive))))))
+  (INTJ
+    (UH huh)
+    (. ?)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (AUX 'm)
+      (VP
+        (VBG teaching)
+        (NP
+	  (PRP you))
+        (SBAR
+          (WHADVP-1
+	    (WRB how))
+          (S
+            (VP
+	      (TO to)
+              (VP
+	        (VB drive)
+		(ADVP
+		  (-NONE-ABAR-WH- *T*-1))))))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1
+      (WP what))
+    (SQ
+      (VP
+        (AUX do)
+	(NP
+	  (PRP you))
+	(VP
+	  (VB do)
+          (NP
+	    (-NONE-ABAR-WH- *T*-1))
+	  (PP
+	    (IN at)
+            (NP
+	      (DT a)
+	      (NN stop)
+	      (NN sign))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (S
+      (NP
+        (PRP I))
+      (VP
+        (VBP know)))
+    (CC but)
+    (SBARQ
+      (WHNP-1
+        (WP what))
+      (SQ
+        (VP
+	  (AUX 's)
+          (NP
+	    (NN that))
+          (VP
+	    (VB mean)
+	    (NP
+	      (-NONE-ABAR-WH- *T*-1))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (ADJP
+      (JJ right))
+    (. .)))
+
+(ROOT
+  (NP
+    (NNP Chi))
+  (SBARQ
+    (WHADVP-1
+      (WRB why))
+    (SQ
+      (VP
+        (AUX do)
+	(NOT n't)
+	(NP
+	  (PRP you))
+        (VP
+	  (VB tell)
+          (NP
+	    (NNP Uncle))
+          (S
+	    (VP
+	      (TO to)
+              (VP
+	        (VB buy)
+              	(NP
+		  (PRP you))
+                (NP
+		  (PRP$ your)
+		  (JJ own)
+		  (NN car))
+                (PP
+		  (IN in)
+                  (NP
+		    (DT a)
+		    (JJ few)
+		    (NNS years)))))))
+	(ADVP
+	  (-NONE-ABAR-WH- *T*-1))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (VP
+      (VB buy)
+      (NP
+        (PRP you))
+      (NP
+        (PRP$ your)
+	(JJ own)
+	(NN car)))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (S
+      (NP
+        (PRP you))
+      (VP
+        (MD can)
+        (VP
+	  (VB park)
+          (PP
+	    (RB right)
+	    (IN next)
+            (IN to)
+            (NP
+	      (PRP$ his))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (PRP you))
+    (VP
+      (VB got)
+      (NP
+        (NP
+	  (DT a)
+	  (NN driver)
+	  (POS 's))
+        (NN license)))
+    (. ?)))
+
+(ROOT
+  (INTJ
+    (UH yes)
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH oh))
+  (INTJ
+    (JJ okay)
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VB want)
+        (NP
+	  (DT no)
+	  (NN fork)))))
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (VB got)
+      (NP
+        (PRP$ my)
+	(JJ own)
+	(NN fork)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VB tell)
+      (NP
+        (PRP him))
+      (SBAR
+        (S
+          (NP
+	    (PRP it))
+          (VP
+	    (MD 'll)
+            (VP
+	      (COP be)
+              (ADJP
+	        (DT a)
+		(NN lot)
+                (JJR cheaper))
+              (ADVP
+	        (RB too)))))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1
+      (WP what))
+    (SQ
+      (VP
+        (COP are)
+	(NP
+	  (PRP you))
+	(NP
+	  (-NONE-ABAR-WH- *T*-1)))))
+  (FRAG
+    (NP
+      (DT a)
+      (JJ little)
+      (NN parrot)))
+  (FRAG
+    (NP
+      (PRP you))
+    (VP
+      (VB say)
+      (SBAR
+        (WHNP-2
+	  (WDT whatever))
+        (S
+          (NP
+	    (NNP Grm))
+          (VP
+	    (VBZ tells)
+	    (NP
+	      (PRP you))
+            (S
+              (VP
+	        (TO to)
+                (VP
+		  (VB say)
+		  (NP
+		    (-NONE-ABAR-RC- *T*-2)))))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NNP Polly))
+    (VP
+      (VB want)
+      (NP
+        (DT a)
+	(NN cracker)))
+    (. ?)))
+
+(ROOT
+  (INTJ
+    (UH uhoh)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NNP Jessie))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP
+      (JJ little)
+      (NNP Jessie))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VB think)
+        (SBAR
+          (S
+            (NP
+	      (PRP she))
+            (VP
+	      (MD should)
+              (VP
+	        (VB talk)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (VP
+      (VBG going)
+      (ADVP
+        (RB back))
+      (PP
+	(IN out))
+      (ADVP
+        (RB again)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP you))
+    (VP
+      (AUX 're)
+      (VP
+        (VBG getting)
+        (ADJP
+	  (JJ tall))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH mhm)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (PRP you))
+    (VP
+      (VB know)
+      (SBAR
+        (WHNP-1
+	  (WP what))
+        (S
+	  (NP
+	    (-NONE-ABAR-WH- *T*-1))
+          (VP
+	    (COP 's)
+            (ADJP
+	      (JJ on))
+            (ADVP
+	      (NN today))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NN football))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP we))
+    (VP
+      (VBP like)
+      (NP
+        (NN football)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP we))
+    (VP
+      (VBP like)
+      (S
+        (VP
+	  (TO to)
+          (VP
+	    (VB tackle)
+            (NP
+	      (PRP you))))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH uhoh)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (WHADVP
+      (WRB why)))
+  (SBARQ
+    (WHNP-1
+      (WP what))
+    (SQ
+      (VP
+        (AUX 'd)
+	(NP
+	  (PRP we))
+	(VP
+	  (VB do)
+	  (NP
+	    (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP
+      (PRP you))
+    (VP
+      (VBP know)
+      (SBAR
+        (S
+	  (NP
+	    (NN that))
+          (VP
+	    (COP 's)
+            (NP
+              (NP
+	        (PRP$ my)
+		(NN chair))
+              (SBAR
+	        (WHNP-1
+		  (WP *NULL*))
+                (S
+                  (NP
+		    (PRP you))
+                  (VP
+		    (AUX 're)
+                    (VP
+		      (VBG sitting)
+                      (PP
+		        (IN in)
+			(NP
+			  (-NONE-ABAR-RC- *T*-1))))))))))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH oh))
+  (INTJ
+    (UH yes))
+  (S
+    (NP
+      (PRP it))
+    (VP
+      (COP is))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH oh))
+  (INTJ
+    (UH yeah))
+  (S
+    (NP
+      (PRP they))
+    (VP
+      (COP are))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (AUX do)
+      (NOT n't)
+      (VP
+        (VB shake)
+        (NP
+	  (PRP$ your)
+	  (NN head))
+        (NP
+	  (UH no))
+        (PP
+	  (IN at)
+          (NP
+	    (PRP me)))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH yeah))
+  (S
+    (NP
+      (PRP you))
+    (VP
+      (VBP wait)))
+  (S
+    (S
+      (NP-1
+        (PRP I))
+      (VP
+        (AUX 'm)
+        (VP
+	  (VBG going)
+          (S
+            (NP
+	      (-NONE-A-RAISE- *T*-1))
+	    (VP
+	      (TO to)
+              (VP
+	        (VB jump)
+                (PP
+		  (IN in)
+                  (NP
+		    (PRP$ your)
+		    (NN seat)))))))))
+    (CC and)
+    (S
+      (NP-2
+        (PRP it))
+      (VP
+        (AUX 's)
+        (VP
+	  (VBG going)
+          (S
+	    (NP
+	      (-NONE-A-RAISE- *T*-2))
+            (VP
+	      (TO to)
+              (VP
+	        (COP be)
+                (NP
+		  (PRP$ my)
+		  (NN seat))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NN tonight))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NNP Al)
+      (NNP Bundy)))
+  (S
+    (NP-1
+      (PRP I))
+    (VP
+      (AUX 'm)
+      (VP
+        (VBG going)
+        (S
+	  (NP
+	    (-NONE-A-RAISE- *T*-1))
+          (VP
+	    (TO to)
+            (VP
+	      (VB have)
+              (S
+	        (NP
+		  (NNP Uncle)
+		  (NNP Fitzy))
+		(VP
+		  (VB tape)
+		  (NP
+		    (PRP it))
+		  (PP
+		    (IN for)
+		    (NP
+		      (PRP me))))))))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH oh))
+  (SQ
+    (VP
+      (AUX are)
+      (NP
+        (PRP you)))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP
+      (PRP he))
+    (VP
+      (MD might)
+      (NOT not)
+      (VP
+        (COP be)
+        (PP
+	  (NN home))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH well))
+  (S
+    (NP
+      (PRP you))
+    (VP
+      (MD can))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (MD could))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH oh))
+  (S
+    (NP-1
+      (PRP you))
+    (VP
+      (AUX 're)
+      (VP
+        (VBG going)
+        (S
+	  (NP
+	    (-NONE-A-RAISE- *T*-1))
+          (VP
+	    (TO to)
+            (VP
+	      (VB tape)
+              (NP
+	        (PRP it))
+              (PP
+	        (IN for)
+                (NP
+		  (PRP me)))))))))
+  (S
+    (NP
+      (PRP you))
+    (VP
+      (VBP know)
+      (SBAR
+        (WHADVP-2
+	  (WRB how))
+        (S
+          (VP
+	    (TO to)
+            (VP
+	      (VB work)
+              (NP
+	        (DT the)
+		(NN VCR))
+	      (ADVP
+	        (-NONE-ABAR-WH- *T*-2)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VB tell)
+      (NP
+        (NNP Unc))
+      (NP
+        (S
+	  (S
+	    (VP
+	      (COP be)
+              (ADJP
+	        (JJ nice)
+		(PP
+		  (IN to)
+		  (NP
+		    (PRP me))))))
+	  (CC and)
+    	  (S
+      	    (NP
+	      (PRP we))
+      	    (VP
+	      (MD 'll)
+              (VP
+	        (VB tape)
+          	(NP
+		  (PRP it))
+		(PP
+		  (IN for)
+		  (NP
+		    (PRP you)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (COP 'm)
+      (ADVP
+        (RB always))
+      (ADJP
+        (JJ nice)
+	(PP
+          (IN to)
+          (NP
+	    (PRP you)))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH no))
+  (S
+    (NP
+      (PRP he))
+    (VP
+      (VBZ teases)
+      (NP
+        (PRP you)))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH no))
+  (S
+    (NP
+      (PRP I))
+    (VP
+      (AUX do)
+      (NOT n't))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP you))
+    (VP
+      (COP 're)
+      (NP
+        (DT a)
+	(JJ bad)
+	(NN girl)))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH no))
+  (S
+    (NP
+      (PRP she))
+    (VP
+      (COP 's)
+      (NOT not))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (JJ okay)
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP you))
+    (VP
+      (VBD called)
+      (NP
+        (PRP me))
+      (NP
+        (DT a)
+	(JJ bad)
+	(NN boy)))
+    (. !)))
+
+(ROOT
+  (INTJ
+    (VP
+      (VB say)))
+  (S
+    (NP
+      (NN that))
+    (VP
+      (COP 's)
+      (ADJP
+        (JJ different)))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHADVP-1
+      (WRB why))
+    (SQ
+      (VP
+        (COP 's)
+	(NP
+	  (NN that))
+	(ADJP
+	  (JJ different))
+	(ADVP
+	  (-NONE-ABAR-WH- *T*-1))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (SBAR
+      (COMP because)
+      (S
+        (NP
+	  (PRP you))
+        (VP
+	  (COP are))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (SBAR
+      (COMP because)
+      (S
+        (NP
+	  (PRP you))
+        (VP
+	  (COP are))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH oh)
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP he))
+    (VP
+      (COP 's)
+      (NP
+        (DT a)
+	(JJ fresh)
+	(NN boy)))
+    (. .)))
+
+(ROOT
+  (S
+    (INTJ
+      (UH yeah))
+    (CC but)
+    (S
+      (NP
+        (PRP I))
+      (VP
+        (COP 'm)
+        (NP
+	  (PRP$ your)
+	  (JJ bad)
+	  (NN boy))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NNS pictures))
+    (NP
+      (NN home))
+    (ADVP
+      (RB again))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (VP
+      (VBD said)
+      (SBAR
+        (COMP that)
+        (S
+          (NP
+	    (NN somebody))
+          (VP
+	    (AUX had)
+            (VP
+	      (ADVP
+	        (RB already))
+	      (VBN picked)
+              (PRT
+	        (RP up))
+              (NP
+	        (DT the)
+		(NNS copies)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC so)
+    (S
+      (NP
+        (NP
+	  (PRP me))
+        (CC and)
+        (NP
+	  (NNP Auntie)
+	  (NNP Darlene)))
+      (VP
+        (AUX are)
+     	(VP
+	  (AUX getting)
+          (VP
+	    (VBN married)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (PRP you))
+    (VP
+      (AUX are)
+      (ADVP
+        (RB too))))
+  (S
+    (NP-1
+      (PRP you))
+    (VP
+      (AUX 're)
+      (VP
+        (VBG going)
+	(S
+	  (NP
+	    (-NONE-A-RAISE- *T*-1))
+          (VP
+	    (TO to)
+            (VP
+	      (AUX get)
+              (VP
+	        (VBN married))))))))
+  (SQ
+    (NP-2
+      (PRP you))
+    (VP
+      (AUX 're)
+      (VP
+        (VBG going)
+        (S
+	  (NP
+	    (-NONE-A-RAISE- *T*-2))
+          (VP
+	    (TO to)
+            (VP
+	      (VB marry)
+              (NP
+	        (PRP me))
+              (ADVP
+	        (RB too)))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (SQ
+      (NP-1
+        (PRP I))
+      (VP
+        (AUX 'm)
+	(VP
+	  (VBG going)
+          (S
+	    (NP
+	      (-NONE-A-RAISE- *T*-1))
+            (VP
+	      (TO to)
+              (VP
+	        (VB have)
+                (NP
+                  (NP
+		    (PRP you))
+                  (CC and)
+                  (NP
+		    (NNP Auntie)
+		    (NNP Darlene)))))))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (NP-1
+      (PRP I))
+    (VP
+      (AUX 'm)
+      (VP
+        (VBG going)
+        (S
+	  (NP-2
+	    (-NONE-A-RAISE- *T*-1))
+          (VP
+	    (TO to)
+            (VP
+	      (VB have)
+	      (S
+	        (NP
+		  (-NONE-A-RAISE- *T*-2))
+		(VP
+		  (TO to)
+		  (VP
+		    (VB live)
+		    (PP
+		      (IN with)
+                      (NP
+		        (PDT the)
+			(DT both)
+			(PP
+			  (IN of)
+			  (NP
+			    (PRP youse)))))))))))))
+    (. ?)))
+
+(ROOT
+  (INTJ
+    (UH oh)
+    (NP
+      (PRP$ my)
+      (NN god))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VB tell)
+      (NP
+        (PRP him))
+      (SBAR
+        (S
+          (NP
+	    (PRP you))
+          (VP
+	    (MD can)
+            (VP
+	      (VB do)
+              (ADVP
+	        (RBR better)))))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH no))
+  (S
+    (NP
+      (PRP you))
+    (VP
+      (MD can)
+      (VP
+        (VB do)
+        (ADVP
+	  (RBR better))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (VP
+      (VB say))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC so)
+    (SQ
+      (NP-1
+        (NP
+          (PRP me))
+        (CC and)
+        (NP
+	  (PRP you)))
+      (VP
+        (MD will)
+        (VP
+	  (VB have)
+	  (S
+	    (NP
+	      (-NONE-A-RAISE- *T*-1))
+	    (VP
+	      (TO to)
+	      (VP
+                (VP
+		  (VB go)
+		  (VP
+		    (VBG shopping))
+		  (PP
+		    (IN with)
+		    (NP
+		      (NNP Auntie)
+		      (NNP Darlene)))
+		  (ADVP
+		    (PDT all)
+		    (DT the)
+		    (NN time)))
+                (CC and)
+        	(VP
+		  (VB spend)
+		  (NP
+		    (RB twice)
+		    (PP
+		      (IN as)
+		      (NP
+		        (JJ much)
+		        (NN money)))))))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP
+      (PRP you))
+    (VP
+      (VB got)
+      (NP
+        (PRP$ your)
+	(JJ own)
+	(NN charge)
+	(NN card)))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP
+      (PRP you))
+    (VP
+      (VBD ate)
+      (ADVP
+        (RB good))))
+  (INTJ
+    (UH huh))
+  (FRAG
+    (NP
+      (PRP you))
+    (VP
+      (VBD ate))))
+
+(ROOT
+  (INTJ
+    (UH hey))
+  (FRAG
+    (NP
+      (PRP you))
+    (VP
+      (VB got)
+      (NP
+        (PRP$ your)
+	(JJ own)
+	(NN charge)
+	(NN card)))
+    (. ?)))
+
+(ROOT
+  (INTJ
+    (UH oh)
+    (NP
+      (NN boy)))
+  (S
+    (ADVP
+      (RB then))
+    (NP
+      (PRP you))
+    (VP
+      (COP 're)
+      (ADJP
+        (RB all)
+	(JJ set)))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1
+      (WP$ whose)
+      (NN name))
+    (SQ
+      (VP
+        (COP is)
+	(NP
+	  (PRP it))
+	(PP
+	  (IN under)
+	  (NP
+	    (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (VP
+      (VB tell)
+      (NP
+        (NNP Unc))
+      (NP
+        (PRP$ yours)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC so)
+    (NP-1
+      (PRP I))
+    (VP
+      (VB got)
+      (S
+        (NP
+	  (-NONE-A-RAISE- *T*-1))
+	(VP
+	  (TO ta)
+	  (VP
+	    (VB pay)
+	    (PP
+	      (IN for)
+              (NP
+                (NP
+		  (PDT all)
+		  (DT the)
+		  (NN stuff))
+		(SBAR
+		  (WHNP-2
+		    (WP *NULL*))
+		  (S
+		    (NP
+		      (PRP you))
+		    (VP
+		      (VBP buy)
+		      (NP
+		        (-NONE-ABAR-RC- *T*-2)))))))))))
+    (. ?)))
+
+(ROOT
+  (INTJ
+    (UH oh)
+    (NP
+      (NN boy))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP
+      (JJ right))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (VP
+      (VP
+        (VB go)
+        (ADVP
+	  (RB back)
+	  (RB outside)))
+      (CC and)
+      (VP
+        (VB play)
+        (PP
+	  (IN with)
+          (NP
+	    (NP
+	      (NNP Jessie))
+            (CC and)
+            (NP
+	      (NNP Richie))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (ADJP
+      (JJ good))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VB scram))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH ow))
+  (S
+    (VP
+      (VB look)
+      (PP
+        (IN at)
+        (NP
+	  (PDT all)
+	  (DT those)
+	  (NN mosquito)
+	  (NNS bites)
+	  (PP
+	    (IN on)
+            (NP
+	      (PRP$ your)
+	      (NN back))))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH wow))
+  (S
+    (VP
+      (VB come)
+      (ADVP
+        (RB here)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP
+      (VB let)
+      (S
+        (NP
+	  (PRP me))
+        (VP
+	  (VB see))))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH wow)
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (PRP they))
+    (VP
+      (VBP like)
+      (NP
+        (PRP you))))
+  (INTJ
+    (UH huh)
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP
+      (ADJP
+        (WRB how)
+	(JJ many))
+      (NNS times)))
+  (S
+    (VP
+      (VB look)))
+  (FRAG
+    (NP
+      (CD one))
+    (NP
+      (CD two))
+    (NP
+      (CD three))
+    (NP
+      (CD four))
+    (NP
+      (CD five))
+    (NP
+      (CD six)
+      (NN mosquito)
+      (NNS bites))
+    (. !)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1
+      (WP what))
+    (SQ
+      (VP
+        (AUX are)
+	(NP-2
+	  (PRP we))
+        (VP
+	  (VBG going)
+          (S
+	    (NP
+	      (-NONE-A-RAISE- *T*-2))
+            (VP
+	      (TO to)
+              (VP
+	        (VB do)
+                (NP
+		  (-NONE-ABAR-WH- *T*-1))
+		(PP
+		  (IN to)
+                  (NP
+		    (DT the)
+		    (NNS mosquitos)))))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (VP
+      (VB squish)
+      (NP
+        (PRP them)))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (NP-1
+      (PRP we))
+    (VP
+      (AUX 're)
+      (VP
+        (VBG going)
+        (S
+	  (NP
+	    (-NONE-A-RAISE- *T*-1))
+	  (VP
+	    (TO to)
+            (WHNP
+	      (WP what))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP-1
+      (PRP we))
+    (VP
+      (AUX 're)
+      (VP
+        (VBG going)
+        (S
+	  (NP
+	    (-NONE-A-RAISE- *T*-1))
+          (VP
+	    (TO to)
+            (VP
+	      (VB squish)
+              (NP
+	        (PRP them)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP-1
+      (PRP we))
+    (VP
+      (AUX 're)
+      (VP
+        (VBG going)
+	(S
+	  (NP
+	    (-NONE-A-RAISE- *T*-1))
+          (VP
+	    (TO to)
+            (NP
+	      (PRP them))
+            (PRT
+	      (RP up))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP
+      (JJ alright))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (VP
+      (VB see)
+      (NP
+        (PRP you)))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH bye)
+    (UH bye)
+    (. .)))
+
+(ROOT
+  (INTJ
+    (VP
+      (VB see)
+      (NP
+        (PRP you))
+      (ADVP
+        (RB later)))
+    (NP
+      (NN alligator))
+    (. .)))

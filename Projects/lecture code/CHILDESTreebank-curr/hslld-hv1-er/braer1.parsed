@@ -1,0 +1,226 @@
+(ROOT
+  (FRAG
+    (VP (VB wan)
+	  (S (VP
+	       (TO ta)
+    	       (VP (VB tell)
+      	       	   (NP (PRP her))
+      		   (PP (IN about)
+        	       (NP (DT the)
+		       	   (NN fish)
+			   (NN store)))
+      		   (SBAR (COMP because)
+        	   	 (S
+          		   (NP (PRP you))
+          		   (VP (ADVP (RB already))
+              		       (VBD told)
+			       (NP (PRP her))
+           		       (NP (DT a)
+			       	   (NN story)
+                		   (PP (IN about)
+                  		       (NP (DT the)
+				       	   (NN fish)
+					   (NN store)))))))))))
+    (. .)))
+
+(ROOT
+  (INTJ (UH yeah))
+  (S (VP (VB tell)
+         (NP (PRP me))
+         (PP (IN about)
+             (NP (DT the)
+	     	 (NN fish)
+		 (NN store)))))
+  (FRAG (VP (VB remember)
+          (SBAR
+            (S
+              (NP (PRP you))
+                  (VP (AUX were)
+                      (VP (VBG telling)
+                      	  (NP (PRP me))))))))
+  (S (NP (PRP you))
+     (VP (VBD told)
+      	 (NP (PRP me))
+      	 (NP
+           (NP (DT some)
+	       (NN stuff))
+           (SBAR
+	     (WHNP-1 (WP *NULL*))
+             (S
+              (NP (PRP I))
+              (VP (VBP remember)
+                  (VP (VBG hearing)
+                      (PP (IN about)
+		      	  (NP (-NONE-ABAR-RC- *T*-1)))))))))
+     (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ (VP (AUX do)
+      	    (NP (PRP you))
+      	    (VP (VB get)
+	    	(NP (-NONE-ABAR-WH- *T*-1))
+            	(PP (IN at)
+            	    (NP (DT the)
+		     	(NN fish)
+		    	(NN store))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP what))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (PRP I))
+    (NP (NN licorice))
+    (ADVP (RB too))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP what))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WDT what)
+    	    (NN color))
+    (SQ (VP (COP is)
+    	    (NP
+	      (NP (NNP Mama)
+	    	  (POS 's))
+              (JJ favorite)
+	      (NN licorice))
+	    (NP (-NONE-ABAR-WH- *T*-1))))
+    (. ?)))
+
+(ROOT
+  (FRAG (NP (JJ black)
+      	    (NN licorice))
+        (. .)))
+
+(ROOT
+  (FRAG
+    (NP (PRP they))
+    (VP (VB make)
+      	(NP (JJ orange)
+	    (NN licorice)))
+    (. ?)))
+
+(ROOT
+  (INTJ
+    (UH yeah)
+    (. ?)))
+
+(ROOT
+  (FRAG (CC and)
+    (S (NP-1 (PRP it))
+       	(VP (VBZ tastes)
+       	    (ADJP (JJ good))
+            (S
+			  (VP (ADVP (RB all))
+            	(VP (VBN mixed)		 
+		    (NP (-NONE-A-PASS- *T*-1))
+              	    (PRT (RP up))
+              	    (PP (IN like)
+              	    	(NP (NN that))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what)
+    	    (RB else))
+    (SQ (VP (AUX do)
+      	    (NP (PRP we))
+      	    (VP (VB buy)
+	    	(NP (-NONE-ABAR-WH- *T*-1))
+            	(PP (IN at)
+          	    (NP (DT the)
+		    	(NN fish)
+			(NN store))))))
+    (. ?)))
+
+(ROOT
+  (SQ (VP (MD can)
+      	  (NP (PRP you))
+    	  (VP (VB tell)
+      	      (NP (NNP Anne))
+        (SBAR
+          (WHADVP-1 (WRB why))
+          (S(S (NP (PRP you))
+             (VP (VBP call)
+             	 (NP (PRP it))
+                 (NP (DT the)
+		     (NN fish)
+		     (NN store))
+		 (ADVP (-NONE-ABAR-WH- *T*-1))))
+          (CC and)
+          (S (NP (NN nobody)(RB else))
+             (VP (VBZ does)))))))
+      (. ?)))
+
+(ROOT
+  (INTJ (UH zzz)
+    	(. .)))
+
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (COP 's)
+    	(NOT not)
+      	(ADVP (RB really))
+      	(NP (DT a)
+	    (NN fish)
+	    (NN store)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP-1 (WRB why))
+    (SQ (VP (AUX do)
+      	    (NP (PRP you))
+      	    (VP (VB call)
+            (NP (PRP it))
+            (NP (DT the)
+	    	(NN fish)
+		(NN store))
+            (ADVP (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ (VP (AUX do)
+      	    (NP (PRP you))
+      	    (VP (VB get)
+	    	(NP (-NONE-ABAR-WH- *T*-1))
+            	(PP (IN at)
+            	    (NP (DT that)
+		    	(NN store))))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH zzz)
+    	(. .)))
+
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (MD 'll)
+      	(VP (VB go)
+            (NP (NN today))))
+    (. .)))
+
+(ROOT
+  (INTJ (UH yep))
+  (S (NP (PRP we))
+     (VP (MD 'll)
+      	 (VP (VB go)
+             (PP (IN to)
+             	 (NP (DT the)
+		     (NN fish)))))
+    (. .)))
+

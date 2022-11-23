@@ -1,0 +1,275 @@
+(ROOT
+  (SQ
+    (VP (MD can)
+    	(NP (PRP you))
+    	(VP (VB tell)
+            (NP (NNP Jeanne))
+            (PP (IN about)
+            	(SBAR
+            	  (WHADVP-1 (WRB how))
+            	  (S
+              	    (NP (PRP we))
+              	    (VP (VBD went)
+                    	(PP (IN to)
+                  	    (NP (DT the) (NN beach)))
+			(ADVP (-NONE-ABAR-WH- *T*-1))))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (VP (MD can)
+    	(NP (PRP you))
+    	(VP (VB tell)
+      	    (NP (NNP Jeanne))
+      	    (SBAR
+           (WHADVP (WRB how))
+		   (WHADVP (WRB how))
+		(S(NP (PRP we)))))))
+  (FRAG            (WHADVP-1 (WRB how))
+              (S
+                (NP (PRP we))
+              	(VP (VBD went)
+                    (PP (IN to)
+                    	(NP (DT the) (NN beach)))
+		    (ADVP (-NONE-ABAR-WH- *T*-1))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB go)
+      	    (PP (IN to)
+            	(NP (DT the) (NN beach)))
+            (ADVP (RB yesterday))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (NP (-NONE-ABAR-WH- *T*-1))
+      (VP (VBD happened)
+          (ADVP (RB there))
+          (PP (IN at)
+              (NP (DT the) (NN beach)))
+          (ADVP (RB yesterday))))
+    (. ?)))
+
+(ROOT
+  (S
+    (ADVP (RB maybe))
+    (NP (PRP you))
+    (VP (MD can)
+      	(VP (VB get)
+            (S
+	      (NP (PRP him))
+	      (VP (TO to)
+              (VP (VB tell)
+              	  (NP (PRP me))
+              	  (NP (NN something)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (CD 16))
+    (. .)))
+
+(ROOT
+  (SQ
+    (VP (MD can)
+    	(NP (PRP you))
+    	(VP (VB tell)
+          (NP (NNP Jeanne))
+          (PP (IN about)
+            (SBAR
+              (WHADVP-1 (WRB when))
+              (S
+                (NP (PRP you))
+                (VP (VBD stayed)
+              	   (PP (IN at)
+                    (NP
+		      (NP (NNP Auntie)
+		    	  (NNP Diane)
+			  (POS 's))
+                      (NP (NN house))))
+		 (ADVP (-NONE-ABAR-RC- *T*-1))))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB go)
+	    (PP (IN to)))))
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+	(VP (VBP go)
+	    (PP (IN to)
+	    	(NP
+		  (NP (NN auntie)
+		      (NNP Pat) (POS 's))
+		  (NP (NN house))))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (VBD did)
+      	(NP (PRP you)))
+    (. ?)))
+
+(ROOT
+  (NP (NN honey))
+  (INTJ (UH please)
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB tell)
+      	(NP (PRP us))
+      	(NP (DT the) (NN story)
+      	(PP (IN about)
+            (SBAR
+              (WHADVP-1 (WRB how))
+              (S
+                (NP (PRP you))
+            	(VP (VBD went)
+              	    (PP (IN to)
+                    	(NP (DT the) (NN beach)))
+		    (ADVP (-NONE-ABAR-RC- *T*-1))))))))
+    (. .)))
+
+(ROOT
+  (FRAG (NP (NN yesterday)) (. .)))
+
+(ROOT
+  (S
+    (VP (VB tell)
+      	(NP (PRP me)))
+    (. !)))
+
+(ROOT
+  (S
+    (VP (VB tell)
+      	(NP (PRP us))))
+  (S
+    (NP (PRP I))
+    (VP (VBP want)
+    	(S(VP (TO ta)
+            (VP (VB hear)
+                (NP (NNP Pat))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (COMP because)
+    (S
+      (NP (PRP I))
+      (VP (AUX was)
+      	  (NOT n't)
+          (ADVP (RB there))))
+    (. .)))
+
+(ROOT
+  (INTJ (UH no)
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (VBD went)
+      	(PP (IN to)
+            (NP (DT the) (NN beach)))
+        (ADVP (RB yesterday)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Chi))
+    (VP (VBD came)
+      	(PRT (RP along)))
+    (. .)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB have)
+      	    (NP (DT a) (JJ nice) (NN time))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB have)
+      	    (NP (DT a) (JJ nice) (NN day)
+            (PP (IN at)
+            	(NP (DT the) (NN beach))))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH huh)
+    	(. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB have)
+	    (NP (DT a) (JJ nice) (NN time)))))
+  (SQ
+    (VP (COP was)
+    	(NP (PRP it))
+	(ADJP (JJ lovely)))
+    (. ?)))
+
+(ROOT
+  (S
+    (VP (MD would)
+    	(NP (PRP you))
+    	(VP (VBP rate)
+	    (NP (PRP it))
+            (ADJP (ADJP(JJ good))
+	    	  (ADJP(JJ fair)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADJP (JJ fair))
+    (PP (IN to)
+    	(ADJP (JJ middling)))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP what))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (COP was)
+      	  (NP (PRP it))
+	  (NP (-NONE-ABAR-WH- *T*-1)))))
+  (FRAG
+    (VP (COP was)
+    	(ADJP (JJ green)))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN beach))
+    (VP (COP was)
+      	(ADJP (JJ green)))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (AUX do) (NOT n't)
+      	(VP (VB know)))
+    (. .)))
+

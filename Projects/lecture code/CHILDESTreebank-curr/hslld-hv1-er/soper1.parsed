@@ -1,0 +1,135 @@
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX 'd)
+      	  (NP (PRP you))
+      	  (VP (VB do)
+              (NP (-NONE-ABAR-WH- *T*-1))
+	      (PP (IN for)
+              	  (NP (PRP$ your) (NN birthday))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX did)
+      	  (NP (PRP you))
+      	  (VP (VB do)
+              (NP (-NONE-ABAR-WH- *T*-1))
+	      (PP (IN on)
+              	  (NP (PRP$ your) (NN birthday))))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB have)
+      	    (NP (DT a) (NN party))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB have)
+      	    (NP (DT a) (NN party))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP who))
+    (SQ
+      (NP (-NONE-ABAR-WH- *T*-1))
+      (VP (VB give)
+          (NP (PRP you))
+          (NP (DT the) (NN party))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP who))
+    (SQ
+      (NP (-NONE-ABAR-WH- *T*-1))
+      (VP (VB make)
+          (NP (DT the) (NN party))
+          (PP (IN for)
+              (NP (PRP you)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP who))
+    (SQ
+      (NP (-NONE-ABAR-WH- *T*-1))
+      (VP (VB buy)
+          (NP (PRP you))
+          (NP (NN thing))
+	  (PP (IN for)
+              (NP (PRP$ your) (NN birthday)))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP who) (RB else))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP who) (RB else))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP who))
+    (SQ
+      (NP (-NONE-ABAR-WH- *T*-1))
+      (VP (VBD got)
+      	  (NP (PRP you))
+          (NP (DT that) (NN bike)
+              (ADVP (RB downstairs)))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (NNP pappy))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB like)
+      	    (NP (DT the) (NN bike))))
+    (. ?)))
+
+(ROOT
+  (S
+    (VP (AUX do) (NOT n't)
+      	(VP (VB shake)
+            (NP (PRP$ your) (NN head))))
+    (. .)))
+
+(ROOT
+  (INTJ (UH yes) (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB say)
+      	    (NP (INTJ (VP (VB thank) (NP (PRP you)))))
+            (PP (IN to)
+            	(NP (PRP$ your) (NN daddy)))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yep)
+    (. .)))
+

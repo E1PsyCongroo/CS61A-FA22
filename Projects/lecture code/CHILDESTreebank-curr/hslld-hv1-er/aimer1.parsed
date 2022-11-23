@@ -1,0 +1,148 @@
+(ROOT
+  (FRAG
+    (VP (VP (VB come))
+      	(CC and)
+      	(VP (VB tell)
+      	    (NP (PRP me))
+      	    (PP (IN about)
+            	(NP (NNP Grace)
+		    (NN wedding)))))
+    (. .)))
+
+(ROOT
+  (SQ (VP(AUX did)
+      (NP (PRP you))
+      (VP (VB enjoy)
+        (NP (NNP Grace)
+	    (NN wedding))))
+      (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ (VP(COP were)
+      	(NP (PRP you))
+	(NP (-NONE-ABAR-WH- *T*-1))
+      	(PP (IN in)
+            (NP (NNP Grace)
+	    	(NN wedding)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (AUX was)
+      	(VP (VBG singing)))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (AUX was)
+      	(VP (VBG dancing)))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (SBARQ
+       (WHNP-1 (WP what)
+	       (RB else))
+       (SQ (VP(AUX did)
+       	   (NP (PRP we))
+       	   (VP (VB do)
+	       (NP (-NONE-ABAR-WH- *T*-1))
+               (PP (IN at)
+               	   (NP (DT the)
+		       (NN wedding)))))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+  	(. !)))
+
+(ROOT
+  (FRAG
+    (CC but)
+    (S (NP (PRP you))
+       (VP (ADVP (RB already))
+       	   (VBD told)
+      	   (NP (PRP me))
+           (NP (NN that))))
+    (. .)))
+
+(ROOT
+  (INTJ (UH uhhuh))
+  (FRAG (PP (IN with)
+            (WHNP (WP who)))
+        (. ?)))
+
+(ROOT
+  (FRAG (PP (IN with)
+      	    (WHNP (WP who)))
+        (. ?)))
+
+(ROOT
+  (FRAG (PP (IN with)
+      	    (NP (NNP Richie)))
+        (. .)))
+
+(ROOT
+  (FRAG (CC and)
+    (S(VP (VB tell)
+        (NP (PRP me))
+        (NP (SQ (VP (AUX did)
+              	  (NP-1 (PRP you))
+              	  (VP (AUX get)
+                      (VP (VBN dressed)
+		      	  (NP (-NONE-A-PASS- *T*-1))
+                      	  (PRT (RP up)))))))))
+    (. ?)))
+
+(ROOT
+  (SQ (VP (AUX did)
+      	  (NP (PRP you))
+    	  (VP (VB like)
+      	      (NP (DT that)
+	      	  (NN part))))
+      (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP-1 (WRB how))
+    (SQ (VP(AUX were)
+      	(NP-2 (PRP you))
+      	(VP (VBN dressed)
+            (NP(-NONE-A-PASS- *T*-2))(PRT (RP up))
+	    (ADVP (-NONE-ABAR-WH- *T*-1)))))
+    	(. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ (VP(VBD did)
+      	(NP (PRP I))
+      	(VP (VBN dress)
+            (NP (PRP you))
+            (PP (IN in)
+	    	(NP (-NONE-ABAR-WH- *T*-1))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (FRAG(VP(AUX did)
+    (NP (PRP you))
+    	(VP (VB have)
+		(PRT(RP on))
+      	    (NP 
+	      	(DT a)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (PP (IN on)
+      (NP (PRP$ your)
+      	  (NN dress)))
+    (. ?)))
+

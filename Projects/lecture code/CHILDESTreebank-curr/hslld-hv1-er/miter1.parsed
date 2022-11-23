@@ -1,0 +1,175 @@
+(ROOT
+  (INTJ (UH no) (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX did)
+      	  (NP (PRP he))
+      	  (VP (VB get)
+	      (NP
+	        (NP (-NONE-ABAR-WH- *T*-1))
+		(ADJP (JJ new))
+		(SBAR (-NONE-ABAR-OTHER- *T*-2)))
+	      (ADVP (DT the) (JJ other) (NN day))
+              (SBAR-2
+           	(WHNP-3 (WP that))
+            	(S
+		    (NP (-NONE-ABAR-RC- *T*-3))
+              	    (VP (COP 's)
+                    (ADVP (RB outside)
+		    	  (PP
+		    	    (IN in)
+                  	    (NP (DT the) (NN garage))))))))))
+    (. ?)))
+
+(ROOT
+  (NP (DT a) (JJ new) (NN car) (. .)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (VP (VB know)
+      	(SBAR
+          (WHNP-1 (WDT what) (NN color))
+          (S
+            (NP (PRP it))
+            (VP (COP is)
+	    	(NP (-NONE-ABAR-WH- *T*-1))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (JJ black))
+      (CC and)
+      (WHNP (WP what)))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (JJ blue))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH no))
+  (S
+    (NP (PRP it))
+    (VP (COP 's)
+      	(NP (JJ silver)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC or)
+    (NP (JJ gray))
+    (. .)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (SBARQ
+      (WHNP-1 (WP what))
+      (SQ
+        (NP (-NONE-ABAR-WH- *T*-1))
+		(VP (COP 's)
+	    (PP (IN inside)
+            	(PP (IN of)
+            	    (NP (PRP it)))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (S
+      (NP (PRP we))
+      (VP (VBP roll)
+      	  (PRT (RP up))
+      	  (NP (DT the) (NNS windows))))
+    (CC and)
+    (SBARQ
+      (ADVP (RB then))
+      (WHNP-1 (WP what))
+      (SQ
+        (VP (AUX does)
+            (NP (NNP Daddy))
+            (VP (VB put)
+                (PRT (RP on))
+		(NP (-NONE-ABAR-WH- *T*-1))))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah))
+  (FRAG
+    (CC but)
+    (SBARQ
+      (WHNP-1 (WP what) (RB else))
+      (SQ
+        (VP (AUX does)
+      	    (NP (PRP he))
+      	    (VP (VB put)
+            	(PRT (RP on))
+		(NP (-NONE-ABAR-WH- *T*-1))
+        	(ADVP (RB inside))
+        	(SBAR
+          	  (WHADVP-2 (WRB when))
+          	  (S
+            	    (NP (PRP it))
+            	    (VP (COP 's)
+              	    	(ADJP
+			  (ADJP (JJ nice))
+                	  (CC and)
+                	  (ADJP (JJ cool)))
+			(ADVP (-NONE-ABAR-RC- *T*-2)))))))))
+    (. ?)))
+
+(ROOT
+  (FRAG (NP (NN air)
+  	    (NN conditioner))
+    (. .)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. !)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (SBARQ
+      (WHNP-1 (WDT what)
+      	      (NN kind)
+      	      (PP (IN of)
+              	  (NP (NN car))))
+      (SQ
+        (VP (COP is)
+       	    (NP (PRP it))
+	    (NP (-NONE-ABAR-WH- *T*-1))))))
+  (FRAG
+    (NP (DT a) (NN stick) (NN shift))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (NNP Mummy))
+    (VP (MD can) (NOT n't)
+      	(VP (VB drive)
+            (NP (PRP it)))))
+  (INTJ (UH huh)
+    (. ?)))
+
+(ROOT
+  (INTJ (UH huh)
+    (. ?)))
+

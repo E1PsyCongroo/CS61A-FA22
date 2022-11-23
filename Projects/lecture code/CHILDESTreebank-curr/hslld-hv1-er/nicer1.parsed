@@ -1,0 +1,212 @@
+
+(ROOT
+  (FRAG
+    (NP (NNP Friday))
+    (. .)))
+
+(ROOT
+  (INTJ (UH no) (UH no) (UH no) (UH no))
+  (FRAG (NP (NNP Wednesday)))
+  (FRAG
+    (VP (VB remember)
+	(SBAR(S
+        (NP
+	  (NP (PRP you))
+    	  (CC and)
+    	  (NP (NNP Cory)))
+        (VP (VBD went)
+            (PP (IN to)
+            	(NP (DT the)))
+            	      (PP (IN to)
+                (NP (DT the) (NN park)))
+            (NP (NNP Wednesday))))))
+      (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (AUX was)
+      	  (VP (VBG helping)
+              (NP (PRP you)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX was)
+      	  (NP (NNP Cory))
+      	  (VP (VBG helping)
+              (S(NP (PRP you))
+              (VP (TO to)
+              	  (VP (VB do)
+		      (NP (-NONE-ABAR-WH- *T*-1))))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (VP (TO to)
+    	(VP (VB do)
+      	    (WHNP (WP what))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. !)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (FRAG
+      (WHNP-1 (WP what))
+      (SQ
+        (VP (AUX did)
+      	    (NP (PRP they))
+      	    (VP (VB do)
+	    	(NP (-NONE-ABAR-WH- *T*-1))
+        	(SBAR
+          	   (WHADVP (WRB when))
+          	  (S	(NP (PRP you))))))))
+	(FRAG(SBAR	  (WHADVP-2 (WRB when))
+                  (S
+                    (NP (NNP Cory))
+                    (VP (AUX was)
+                    	(VP (VBG picking)
+                      	    (NP (PRP you))
+                      	    (PRT (RP up))
+                            (S(VP (TO to)
+              		    	(VP (VB put)
+                		    (NP (PRP you))
+                		    (PP (IN in)
+                  		    	(NP (DT the) (NN swing))))))
+			    (ADVP (-NONE-ABAR-RC- *T*-2)))))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH okay))
+  (FRAG
+    (WHNP-1 (WP what))
+    (SQ
+      (NP (PRP they))
+      (VP (VB do)
+      	  (NP (-NONE-ABAR-WH- *T*-1))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBD took)
+      	(NP (PRP$ your) (NN picture)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (ADVP (RB then))
+    (SBARQ
+      (WHNP-1 (WP what))
+      (SQ
+        (VP (AUX did)
+	    (NP (NNP Cory))
+	    (VP (VB say)
+	    	(NP (-NONE-ABAR-WH- *T*-1))))))
+        (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (VP (VB remember)
+      	(SBAR
+          (WHNP-1 (WP what))
+          (S
+            (NP (NNP Cory))
+            (VP (VBD said)
+	    	(NP (-NONE-ABAR-WH- *T*-1))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (PRP he))
+    (VP (VBD said))
+    (. .)))
+
+(ROOT
+  (SQ
+    (VP (AUX did) (NOT n't)
+    	(NP (PRP he))
+    	(VP (VB say)
+      	    (NP
+	      (NN something)
+              (PP (IN about)
+	      	  (NP
+		      (S
+              	        (NP (PRP she))
+          	      	(VP (COP 's) (NOT not)
+            	      	    (ADJP (JJ heavy))))
+                      (S (NP (PRP she))
+                      	 (VP (COP 's)
+                    	     (NP (PRP$ my) (NN sister)))))))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH well))
+  (S
+    (NP (NN that))
+    (VP (COP 's)
+      	(SBAR
+          (WHNP-1 (WP what))
+          (S
+            (NP (PRP it))
+            (VP (VBZ says)
+	    	(NP (-NONE-ABAR-RC- *T*-1))
+            	(PP (IN in)
+              	    (NP (DT the) (NN newspaper)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (COP were)
+      	(PP (IN in)
+            (NP (DT the) (NN newspaper))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (COP were)
+      	(PP (IN in)
+            (NP (DT the) (NN newspaper))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (S(NP (PRP you))
+    (VP (VBD were)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (PRP he))
+    (VP (VBD had)
+     	(PRT (RP on))))
+    (INTJ (UH no))
+    (S
+      (NP (PRP he))
+      (VP (VBD had)
+          (PRT (RP on))
+          (NP (PRP$ his) (JJ red) (NN jacket)))
+    (. .)))
+
+(ROOT
+  (INTJ (UH oh)
+  	(UH okay)
+   	(. .)))
+
+(ROOT
+  (INTJ (UH okay)
+    	(. !)))
+

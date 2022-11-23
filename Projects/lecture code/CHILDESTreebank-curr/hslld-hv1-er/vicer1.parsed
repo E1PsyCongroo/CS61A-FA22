@@ -1,0 +1,201 @@
+(ROOT
+  (INTJ (UH no))
+  (FRAG
+    (CC but)
+    (NP (PRP you))
+    (VP (VBP want)
+     	(S
+          (VP (TO ta)
+              (VP (VB tell)
+              	  (NP (PRP us))
+          	  (PP (IN about)
+            	      (SBAR
+              	        (WHADVP-1 (WRB when))
+              		(S
+                	  (NP (PRP you))
+                	  (VP (VBD hit)
+                  	      (NP (PRP yourself))
+			      (ADVP (-NONE-ABAR-RC- *T*-1)))))))))))
+  (S
+    (NP (NN that))
+    (VP (COP 's)
+    	(ADJP (JJ okay)))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (NP (-NONE-ABAR-WH- *T*-1))
+      (VP (VBD happened)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX did)
+      	  (NP (PRP you))
+      	  (VP (VB do)
+	      (NP (-NONE-ABAR-WH- *T*-1))
+              (PP (IN to)
+              	  (NP (PRP$ your) (NN head))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP-1 (WRB how))
+    (SQ
+      (VP (AUX did)
+      	  (NP (NN that))
+      	  (VP (VB happen)
+	      (ADVP (-NONE-ABAR-WH- *T*-1))))))
+  (FRAG (NP (NNP Chi))
+    	(. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX were)
+      	  (NP (PRP you))
+     	  (VP (VBG doing)
+	      (NP (-NONE-ABAR-WH- *T*-1)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC so)
+    (NP (NN that))
+    (VP (VBD happened))
+    (. ?)))
+
+(ROOT
+  (FRAG (NP (NNP Spuds) (NNP MacKenzie)) (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (NP (PRP you))
+    (VP (VBN tripped))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (VBD hit)
+      	(NP (DT the) (NN wall)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (SBARQ
+      (WHNP-1 (WP what))
+      (SQ
+        (NP (-NONE-ABAR-WH- *T*-1))
+        (VP (VBD happened)
+            (SBAR
+              (WHADVP-2 (WRB when))
+              (S
+                (NP (PRP you))
+            	(VP (VBD hit)
+              	    (NP (DT the) (NN wall))
+		    (ADVP (-NONE-ABAR-RC- *T*-2))))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (VBD got)
+      (NP (DT a) (JJ big) (NN booboo))
+      (SBAR
+        (SBARQ
+          (WHADVP (WRB where))
+          (SQ (VBD did)
+            (NP (PRP you))
+            (VP (VB go)))
+          (. ?))))))
+
+(ROOT
+  (SBARQ
+    (INTJ
+      (WHNP (WP what))
+      (SQ
+        (VP (AUX did)
+      	    (NP (DT the)))))
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX did)
+      	  (NP (PRP you))
+	  (VP (VBP say)
+	      (NP (-NONE-ABAR-WH- *T*-1))
+	      (PP (IN to)
+	      	  (NP (DT the) (NN doctor))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX did)
+      	  (NP (PRP you))
+      	  (VP (VB say)
+              (NP (-NONE-ABAR-WH- *T*-1))
+	      (PP (IN to)
+              	  (NP (DT the) (NN doctor))))))
+    (. .)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NOT n't)
+    	(NP (PRP you))
+    	(VP (VBP tell)
+      	    (NP (PRP him))
+      	    (PP (IN about)
+            	(NP (PRP$ your) (NN birthday)))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB tell)
+      	    (NP (PRP him))
+       	    (PP (IN about))))
+    (. .)))
+
+(ROOT
+  (FRAG (NP (DT the) (NNS puppies)) (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB tell)
+      	    (NP (PRP him))
+      	    (SBAR
+              (WHADVP-1 (WRB how))
+              (S
+                (NP (PRP you))
+          	(VP (VBD hit)
+           	    (NP (PRP$ your) (NN head))
+		    (ADVP (-NONE-ABAR-WH- *T*-1)))))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (MD can)
+    	(NP (PRP you))
+    	(VP (VB tell)
+      	    (NP (PRP me))
+      	    (SBAR
+              (WHNP-1 (WP what))
+              (S
+                (NP (PRP you))
+          	(VP (VBD told)
+            	    (NP (PRP him))
+		    (NP (-NONE-ABAR-WH- *T*-1)))))))
+    (. ?)))
+

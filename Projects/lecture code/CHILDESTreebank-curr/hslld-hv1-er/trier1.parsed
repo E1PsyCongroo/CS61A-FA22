@@ -1,0 +1,174 @@
+(ROOT
+  (SQ
+    (VP (MD can)
+    	(NP (PRP you))
+    	(VP (VB tell)
+      	    (NP (PRP us))
+      	    (PP (IN about)
+            	(NP (PRP$ your) (NN birthday)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX did)
+      	  (NP (PRP you))
+      	  (VP (VB do)
+	      (NP (-NONE-ABAR-WH- *T*-1))
+              (PP (IN on)
+              	  (NP (PRP$ your) (NN birthday))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what)
+      	    (ADVP (RB else)))
+    (SQ
+      (VP (AUX did)
+      	  (NP (PRP you))
+      	  (VP (VB do)
+	      (NP (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH mhm))
+  (FRAG
+    (CC and)
+    (WHNP (WP what)
+    	  (ADVP (RB else)))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB get)
+      	    (NP (DT any) (JJ other) (NNS presents))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB eat)
+      	    (NP (NN anything))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB eat)
+      	    (NP (NN anything))
+      	    (PP (IN on)
+            	(NP (PRP$ your) (NN birthday)))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB blow)
+      	    (NP (NN anything))
+      	    (PRT (RP out))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH no)
+  	(UH no)
+	(UH no))
+  (S
+    (NP (NN that))
+    (VP (AUX does)
+    	(NOT n't)
+      	(VP (VB go)
+            (PRT (RP up))))
+    (. .)))
+
+(ROOT
+  (SQ
+    (VP (MD can)
+    	(NP (PRP we))
+    	(VP (VB talk)
+	    (PP (IN about)
+            	(NP (PRP$ your) (NN birthday)))))
+        (. ?)))
+
+(ROOT
+  (SQ
+    (VP (MD can)
+    	(NP (PRP you))
+    	(VP (VB tell)
+      	    (NP (PRP us))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (PP (IN about))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (SBAR
+      (WHADVP (WRB how))
+      (S
+        (NP (NNP Skipper))
+	(VP (VBZ gets)
+            (PRT (RP along))
+            (PP (IN with)
+            	(NP (PRP$ your) (JJ other) (NNS dolls))))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH no))
+  (SQ
+    (VP (AUX does)
+      	(NP (PRP she))
+      	(VP (VB get)
+            (PRT (RP along))
+            (ADJP (JJ good)) 
+            (PP (IN with)
+            	(NP (DT the) (JJ other) (NNS girls)))))
+    (. ?)))
+
+(ROOT
+  (FRAG (CC and) (NP (NNP Ken)) (. ?)))
+
+(ROOT
+  (SQ
+    (VP
+      (MD can)
+      (NP (PRP you))
+      (VP (VB tell)
+      	  (NP (PRP us))
+      	  (PP (IN about)
+              (NP (PRP them)))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (NP (PRP they))
+    (VP (COP were))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX 'd)
+      	  (NP (PRP they))
+      	  (VP (VB do)
+	      (NP (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH no) (. ?)))
+
+(ROOT
+  (FRAG
+    (NP
+      (ADJP (JJ mean))
+      (NNS girls))
+    (. !)))
+

@@ -1,0 +1,241 @@
+(ROOT
+  (FRAG
+    (VP (VB remember)
+      	(SBAR
+          (WHADVP-1 (WRB when))
+          (S (NP (PRP we))
+             (VP (VBD went)
+             	 (PP (IN with)
+              	     (NP (DT the)
+		     	 (NNP Drivas)
+			 (NNS daughters)))
+		(ADVP (-NONE-ABAR-RC- *T*-1))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (PP (IN to)
+      (NP (DT the)
+      	  (DT the)
+	  (NN beach)))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB like)
+      	    (NP (NN that))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP-1 (WRB how))
+    (SQ
+      (VP (COP was)
+      	  (NP (PRP it))
+	  (ADVP (-NONE-ABAR-WH- *T*-1))))
+    (. ?)))
+
+(ROOT
+  (SQ (VP (AUX did)
+      	  (NP (PRP you))
+    	  (VP (VB try)
+      	      (S (NP(-NONE- *PRO*))(VP (TO to)
+              	     (VP (VB swim))))))
+      (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP who))
+    (SQ (VP (AUX did)
+      	    (NP (PRP you))
+      	    (VP (VB play)
+            	(PP (IN with)
+		    (NP (-NONE-ABAR-WH- *T*-1))))))
+    (. ?)))
+
+(ROOT
+  (FRAG(NP (NNP Shica))
+      (. .)))
+
+(ROOT
+  (FRAG
+    (CC or)
+    (NP (NNP Eliza))
+    (. ?)))
+
+(ROOT
+  (SQ (VP(COP is)
+      (NP (PRP she))
+      (NP (PRP$ your)
+      	  (NN friend)))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (VP (VBP like)
+      	(NP (PRP her))
+      	(ADVP (RBR better)
+      	      (PP (IN than))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (AUX did))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (NN that))
+    (VP (COP was)
+        (ADJP (JJ fun))))
+  (INTJ (UH huh))
+  (NP (NNP honey)
+      (. ?)))
+
+(ROOT
+  (S
+    (NP (DT the)
+    	(NN water))
+    (VP (COP was)
+      	(ADJP (RB so)
+	      (JJ cold))))
+  (S
+     (NP (PRP you))
+     (VP (AUX did))
+     (. ?)))
+
+(ROOT
+  (FRAG
+    (FRAG
+	  (VP 
+	    (VBD played)))
+    (CC and)
+    (CC and)
+	(FRAG
+	  (NP 
+	    (NNP Shica)))
+    (. .)))
+
+(ROOT
+  (INTJ (UH oh)
+    	(UH yeah)
+    	(. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP remember)
+      	(S
+	  (VP (VBG seeing)
+              (NP (PRP you))
+              (VP (VB play)
+              	  (PP (IN with)
+                      (NP (NNP Shica)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP-1 
+	  (PRP we))
+    (VP
+	  (AUX have)
+      (S 
+	    (NP 
+		  (-NONE-A-RAISE- *T*-1))
+	    (VP 
+		  (TO to)
+    	  (VP 
+		    (VB go)
+            (ADVP 
+			  (RB again)))))))
+  (FRAG 
+    (NP 
+	  (PRP you))
+    (VP 
+	  (VBP know))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (PP (IN on)
+      	(NP (DT the)
+	    (NN weekend)))
+    (. .)))
+
+(ROOT
+  (SQ 
+    (VP
+	  (MD would)
+      (NP 
+	    (PRP you))
+      (VP 
+	    (VB like)
+        (S
+          (VP 
+		    (TO to)
+            (VP
+ 			  (VB go)
+              (ADVP
+			    (RB again)))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (NN dog)
+    	(NN paddle))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH oh)
+      	(UH well)
+      	(. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP believe)
+      (SBAR
+        (S
+          (NP (PRP you))
+          (VP (VBD tried))))))
+  (INTJ 
+    (UH huh)
+    (. .)))
+
+(ROOT
+  (NP (NNP Nina)
+      (. ?)))
+
+(ROOT
+  (FRAG (ADJP (JJ scared)))
+  (NP (NNP honey)
+      (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (COP were)
+    	(NOT not)
+      	(ADJP (JJ scared))))
+  (SQ
+    (VP (COP were)
+        (NP (PRP you)))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (ADJP (JJ scared))
+    (. ?)))
+
+(ROOT
+  (S
+    (ADVP (IN at)
+    	  (JJS least))
+    (NP (PRP you))
+    (VP (VBD tried))
+    (. .)))
+

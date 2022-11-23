@@ -1,0 +1,135 @@
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB go)
+      	    (PP (IN to)
+            	(NP (NN school)))
+      	    (NP (NN yesterday))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX did)
+      	  (NP (PRP you))
+      	  (VP (VB do)
+              (NP(-NONE-ABAR-WH- *T*-1))(PP (IN in)
+              	  (NP (NN school))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (VP (VB think))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB look)
+      	(PP (IN at)
+            (NP (PRP me)))))
+  (S
+    (VP (VB look)
+      	(PP (IN at)
+            (NP (PRP me))))
+    (. .)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB go)
+      	    (NP (NN outside))
+	    (NP (NN yesterday))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (PP (IN in)
+      	(NP (NN school)))
+    (. ?)))
+
+(ROOT
+  (S
+    (VP
+      (AUX did)
+      	  (NP (PRP you)))
+    (. ?)))
+
+(ROOT
+  (S
+    (VP (VB look)
+      	(PP (IN at)
+            (NP (PRP me))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX did)
+      	  (NP (PRP you))
+      	  (VP (VB do)
+		  (NP(-NONE-ABAR-WH- *T*-1))
+              (PP (IN outside)
+              	  (NP (NN school)))
+              (NP (NN yesterday)))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB play)
+      	    (PP (IN in)
+            	(NP (DT the) (NN swing)))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH huh)
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB play)
+      	    (PP (IN in)
+            	(NP (DT the) (NN sandbox)))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP
+	  (VP (VB wear)
+              (NP (PRP$ your) (NN bathing) (NN suit)))
+          (CC and)
+     	  (VP (VB swim))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH no) (. .)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB take)
+      	    (NP (DT a) (NN nap))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (MD 'd)
+      	  (NP (PRP you))
+      	  (VP (VB eat)
+	      (NP (-NONE-ABAR-WH- *T*-1))
+              (PP (IN for)
+              	  (NP (NN breakfast))))))
+    (. ?)))
+

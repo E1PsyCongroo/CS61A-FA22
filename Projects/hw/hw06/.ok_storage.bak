@@ -1,0 +1,6 @@
+'Mint-correct', (0, 70)
+'store_digits-correct', (512, 70)
+'deep_map_mut-correct', (1024, 70)
+'two_list-correct', (1536, 70)
+'VirFib-correct', (2048, 70)
+'is_bst-correct', (2560, 70)

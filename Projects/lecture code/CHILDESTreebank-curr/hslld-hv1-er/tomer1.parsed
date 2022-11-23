@@ -1,0 +1,195 @@
+(ROOT
+  (S
+    (ADVP (RB once)
+          (PP (IN upon)
+              (NP (DT a) (NN time))))
+    (S
+      (S
+        (NP (EX there))
+    	(VP (AUX was)
+            (NP (DT a) (JJ little) (NN boy))
+            (VP (VBN named)
+            	(NP (NNP Tim) (NNP Wheaton)))))
+      (CC and)
+      (S
+        (NP (PRP it))
+      	(VP (COP was)
+            (NP (NNP Saturday)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (S
+        (NP (PRP he))
+    	(VP(VP (VBD went))
+      (CC and)
+      
+        (VP (VBD picked)
+      	    (PRT (RP up))
+      	    (NP (PRP$ his) (NN papa)))))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP (VBD went)
+          (PP
+      	    (ADVP (PDT all) (DT the) (NN way))
+	    (IN out)
+	    (PP (IN to)
+              	(NP (NNP Wakefield))))
+          (S
+            (VP (TO to)
+            	(VP (VB watch)
+            	    (NP (PRP$ his) (NNP cousin) (NNP Wes))
+		    (VP (VB play)
+		    	(NP (NN baseball))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (SBARQ
+      (WHNP-1 (WP who))
+      (SQ
+        (NP(-NONE-ABAR-WH- *T*-1))
+		(VP (COP 's)
+      	    (NP
+              (NP (NNP Wes) (POS 's))
+              (NN sister)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (VBP do)
+    	 (ADVP (RB too))))
+  (S
+    (NP (PRP you))
+    (VP (VBP do)
+    	(ADVP (RB too)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (SBARQ
+      (WHNP-1 (WP what))
+      (SQ
+        (VP (AUX did)
+      	    (NP (NNP Wes))
+      	    (VP (VB have)
+	    	(NP(NP (-NONE-ABAR-WH- *T*-1))(SBAR(-NONE-ABAR-OTHER- *T*-3)))
+        	(PP (IN in)
+          	   (NP (PRP$ his) (NN yard)))
+            (SBAR-3
+			(WHNP-2 (WP that))
+              		(S
+			  (NP (-NONE-ABAR-RC- *T*-2))
+                	  (VP (COP 's)
+                  	  (ADJP (JJ new)))))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP what))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (DT a) (NN sandbox)) (. .)))
+
+(ROOT
+  (INTJ (UH yeah))
+  (FRAG (WP what)
+  	(RB else)
+    	(. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (NP (DT a) (NN seesaw))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (NP (DT a) (JJ new) (NN swimming) (NN pool))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (S (NP (PRP you))
+       (VP (AUX did)
+       	   (NOT n't)
+       	   (VP (VB go)
+               (PP (IN in)
+               	   (NP (DT the) (NN water))))))
+    (CC but)
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (VBD got)
+      	(NP
+          (NP (PRP$ your) (NNS feet))
+          (CC and)
+          (NP (PRP$ your) (NNS legs)))
+	(ADJP (JJ wet))))
+  (INTJ (UH huh)
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah))
+  (FRAG
+    (CC but)
+    (ADJP
+      (NOT not)
+      (ADJP (RB real) (JJ deep)))
+    (SBAR (COMP because)
+          (S
+            (NP (PRP it))
+            (VP (AUX was)
+            	(VP (VBG getting)
+              	    (ADJP (JJ cool))))))
+    (. .)))
+
+(ROOT
+  (INTJ (UH oh))
+  (S
+    (NP (PRP I))
+    (VP (AUX do)
+    	(NOT n't)
+        (VP (VB think)
+	    (SBAR
+	      (S
+    	        (NP (PRP you))
+    	    	(VP (VBD did))))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (AUX do) (NOT n't)
+      	(VP (VB think)
+            (SBAR
+              (S
+                (NP (PRP you))
+            	(VP (VBD did))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (SBAR (COMP because)
+      	  (S
+            (NP (PRP it))
+            (VP (COP was)
+             	(ADJP (JJ cool)
+		      (RB out)))))
+    (. .)))
+

@@ -1,0 +1,130 @@
+(ROOT
+  (S
+    (S
+      (VP (VB come)
+          (VP (VB tell)
+              (NP (PRP me))
+              (NP
+                (NP (NN something)
+		    (NNS exciting))
+                (SBAR
+                  (WHNP-1 (WP that))
+                  (S
+		    (NP (-NONE-ABAR-RC- *T*-1))
+                    (VP (AUX 's)
+                    	(VP (VBN happened)))))))))
+    (CC and)
+    (S
+      (NP (PRP you))
+      (VP (MD can)
+        (VP (VB go))))
+    (. .)))
+
+(ROOT
+  (INTJ (UH uhhuh)
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (PP
+      (IN out)
+      (PP (IN of)
+      	  (WHNP (DT the)
+      	      (WP what))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. ?)))
+
+(ROOT
+  (INTJ (UH oh)
+  	(UH really)
+  	(. .)))
+
+(ROOT
+  (INTJ (UH zzz))
+  (SQ (VP (AUX are)
+      	  (NP (PRP you))
+          (VP (VBG making)
+              (PRT (RP up))
+              (NP (NN that))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH zzz)
+    (. .)))
+
+(ROOT
+  (FRAG (NP (NN nothing)))
+  (S (VP (VBP go)
+      	 (PP (IN like)
+	     (NP (NN that)))))
+  (FRAG
+    (NP (PRP you))
+    (VP (VBP know)
+    	(SBAR
+	  (S (NP (NN that)
+             (VP (COP 's)
+                 (S (NP (NNP Chi))
+                    (VP (VBG making)))))))))
+  (INTJ (UH huh)
+    (. ?)))
+
+(ROOT
+  (S
+    (VP (VB tell)
+      	(NP (PRP me))))
+  (S (VP (VB tell)
+         (NP (PRP me))
+         (NP (CD one) (NN thing))
+         (NP (CD one) (JJR more) (NN thing)))
+      (. .)))
+
+(ROOT
+  (INTJ (UH oh) (UH really) (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what)
+    	    (RB else))
+    (SQ
+      (NP (-NONE-ABAR-WH- *T*-1))
+      (VP (VBD happened)))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (SBARQ
+      (WHNP-1 (WP what)
+      	       (RB else))
+      (SQ
+        (NP (-NONE-ABAR-WH- *T*-1))
+      	(VP (VBD happened))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (VP (AUX 're)
+      	(VP (VBG telling)
+            (ADJP (JJ untrue)))))
+  (NP (NNP Chi)
+      (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP guess)
+      	(SBAR
+          (S
+            (NP (NN this))
+            (VP (COP is)
+            	(NP (PRP it))))))
+    (. .)))
+

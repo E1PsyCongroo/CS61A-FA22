@@ -1,0 +1,183 @@
+(ROOT
+  (SQ
+    (VP (AUX do)
+    	(NP (PRP you))
+    	(VP (VB want)
+      	    (S
+              (VP (TO to)
+              	  (VP (VB talk)
+            	      (PP (IN about)
+		      	  (NP
+			    (NP (DT the)
+			    	(NN cook_out))
+      			    (SBAR (WHNP-1 (WP that))
+        		    	  (S (NP (NN everyone))
+          			     (VP (VBD went)
+            			     	 (PP (IN to)
+					     (NP (-NONE-ABAR-RC- *T*-1)))))))))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (VP (VB come)
+       	(PRT (RP on))))
+  (FRAG
+    (VP (VB tell)
+        (NP (PRP me))
+        (PP (IN about)
+	    (NP (DT the))))
+    (. .)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (CC and)
+    (SBARQ
+      (WHNP-1 (WP who))
+      (S
+	(NP (-NONE-ABAR-WH- *T*-1))
+        (VP (COP was)
+            (ADVP (RB here)))))
+      (. ?)))
+
+(ROOT
+  (INTJ (UH yeah))
+  (FRAG
+    (CC and)
+    (WHNP (WP who)
+      	  (RB else))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah))
+  (FRAG
+    (WHNP (WP who)
+      	  (RB else))
+          (. ?)))
+
+(ROOT
+  (INTJ (UH uhhuh)
+    (. .)))
+
+(ROOT
+  (INTJ (UH huh)
+    	(UH huh))
+  (FRAG (CC and)
+        (WHNP (WP who)
+	      (RB else))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. .)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. .)))
+
+(ROOT
+  (INTJ (UH yeah))
+  (FRAG (CC and)
+  	(CC and)
+       	(WHNP (WP who)
+	      (RB else))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (WHNP (WP who)
+     	  (RB else))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (NP (NNP Ma))
+    (. .)))
+
+(ROOT
+  (FRAG (CC and)
+      	(WHNP (WP who)
+      	      (RB else))
+    (. ?)))
+
+(ROOT
+  (S
+    (S (VP (VB come)
+           (PRT (RP on))))
+    (CC and)
+    (S (VP (VB tell)
+           (NP (PRP me))
+           (SBAR
+             (WHNP-1 (WP what))
+             (S
+               (NP (PRP you))
+               (VP (VBD had)
+	       	   (NP (-NONE-ABAR-WH- *T*-1))
+              	   (PP (IN at)
+                       (NP (DT the)
+		       	   (NN cook_out))))))))
+    (. .)))
+
+(ROOT
+  (INTJ (UH yes))
+  (S (NP (PRP it))
+     (VP (COP is))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB come)
+      	(PRT (RP on))))
+  (FRAG (VB tell))
+  (INTJ (UH ahhah)
+     	(. .)))
+
+(ROOT
+  (FRAG
+    (NP (NN that))
+    (VP (COP 's)
+      	(PP (IN from)
+            (S
+              (VP (VBG playing)
+              	  (PP (IN in)
+              	      (NP (DT the)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD got)
+      	(NP (PRP it))
+      	(ADVP (RB now)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD forgot)
+      	(NP (PRP it)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (VP (VB understand))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ (VP (AUX did)
+      	    (NP (PRP you))
+      	    (VP (VB do)
+            	(NP(-NONE-ABAR-WH- *T*-1))(PP (IN for)
+          	    (NP (DT the)
+		    	(NN cook_out))))))
+    (. ?)))
+

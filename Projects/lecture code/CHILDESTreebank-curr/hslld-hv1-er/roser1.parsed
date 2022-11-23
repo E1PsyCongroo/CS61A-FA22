@@ -1,0 +1,354 @@
+(ROOT
+  (S 
+    (NP (PRP you))
+    (VP (VBP make)
+      	(NP (NN lunch))
+      	(PP (IN at)
+            (NP (NN day) (NN care)))
+        (SBAR
+          (WHADVP-1 (WRB when))
+          (S
+            (NP (PRP you))
+            (VP (COP 're)
+            	(VP (VBG playing)
+              	    (NP (VBG housekeeping)))
+		    (ADVP (-NONE-ABAR-RC- *T*-1))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB sometimes))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC but)
+    (FRAG (NP (PRP you)))
+    (S
+      (NP (PRP you))
+      (VP (VB pretend)
+          (SBAR
+            (S
+	      (NP (PRP you))
+              (VP (VBP have)
+                  (NP (NNS dishes)
+                      (CC and)
+                      (NNS pots)
+                      (CC and)
+		      (NNS pans))))))))
+  (SQ
+    (VP (AUX do) (NOT n't))
+        (NP (PRP you))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (PRP you)))
+  (FRAG
+    (NP (PRP you))
+    (ADVP (RB ever))
+    (NP (DT the) (NN cook))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. ?)))
+
+(ROOT
+  (INTJ (UH no) (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (COP 're)
+      	(NP (DT the) (NN mom)))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (DT a) (NN cooker) (NN kid)))
+    (INTJ (UH okay)
+    (. .)))
+
+(ROOT
+  (SQ
+    (VP (AUX does)
+    	(NP (NNP Danielle))
+    	(VP (VB cook)
+      	    (PP (IN with)
+            	(NP (PRP you)))
+      	    (SBAR
+              (WHADVP-1 (WRB when))
+              (S
+                (NP (PRP you))
+          	(VP (VBP play)
+		    (ADVP (-NONE-ABAR-RC- *T*-1)))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what) (RB else))
+    (SQ
+      (VP (AUX do)
+      	  (NP (PRP you))
+      	  (VP (VB do)
+	      (NP (-NONE-ABAR-WH- *T*-1))
+              (PP (IN in)
+	      	  (NP (VBG housekeeping))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (VP (VB clean)
+      	(NP (DT the) (NN house)))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (VP (VB wash)
+      	(NP (NNS dishes)))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX there))
+    (VP (COP 's)
+      	(NP (DT a) (NN bed))
+            (PP (IN in)
+            	(NP (VBG housekeeping)))
+            (ADVP (RB too))))
+  (FRAG (ADJP(JJ right))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (COP 's)
+      	  (NP (NN that))
+      	  (PP (IN for)
+	      (NP (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (VP (VB take)
+      	(NP (DT the) (NNS kids))))
+    (FRAG(VP (VB take)
+        (NP (DT a) (NN rest))
+    (SBAR
+      (WHADVP-1 (WRB when))
+      (S
+        (NP (PRP you))
+	(VP (COP 're)
+	    (VP (VBG playing)
+	    	(NP (VBG housekeeping))
+		(ADVP (-NONE-ABAR-RC- *T*-1)))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (PP (IN like)
+      	(NP (DT a) (NN car)))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH oh) (. .)))
+
+(ROOT
+  (FRAG (VP (VB do)))
+  (SQ
+    (VP (AUX do)
+        (NP (PRP you))
+        (VP (VB put)
+            (NP (PRP$ your) (NNS dollies))
+            (PP (IN with)
+              	(NP (NN that)))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH mhm)
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP
+      (ADVP (RB also))
+      (VBP have)
+      (NP (ADJP (VB dress)
+          	(RP up))
+          (NNS clothes))
+      (PP (IN in)
+          (NP (VBG housekeeping)))))
+  (FRAG (ADJP(JJ right))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah))
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (COP 's)
+      	  (NP (-NONE-ABAR-WH- *T*-1))
+          (NP (PRP$ your)
+	      (ADJP (JJ favorite))
+	      (ADJP (VB dress)
+              	    (RP up))
+              (NNS clothes))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP know))
+    (. .)))
+
+(ROOT
+  (FRAG(NP (PRP$ your) (NNS tutu)) (. .)))
+
+(ROOT
+  (INTJ (UH yes))
+  (FRAG
+    (WHNP (WP what)
+    	  (RB else))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (PRP$ your) (JJ pink) (NN tutu))
+    (PP (IN like)
+      	(NP (DT a) (NN ballerina)))
+    (. .)))
+
+(ROOT
+  (INTJ (UH well))
+  (S
+    (NP (PRP it))
+    (VP (COP 's)
+      	(NP (DT a) (NN ballerina) (NN costume))))
+  (FRAG(ADJP (JJ right))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (S(NP-1 (JJ high) (NNS heels))
+    (NP (PRP you))
+    (VP (VBP have)(NP(-NONE-ABAR-OTHER- *T*-1))))
+      (. .)))
+
+(ROOT
+  (FRAG
+    (NOT not)
+    (NP (NNS sandals))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what)
+    	    (RB else))
+    (SQ
+      (VP (AUX do)
+      	  (NP (PRP you))
+      	  (VP (VB do)
+	      (NP (-NONE-ABAR-WH- *T*-1))
+              (PP (IN in)
+              	  (NP (VBG housekeeping))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (S
+      (NP (NN somebody))
+      (VP (COP be)
+          (NP
+            (NP (DT the) (NN father))
+            (CC and)
+            (NP (DT the) (NN brother))
+            (CC and)
+            (NP (DT the) (NN sister)))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH mhm)
+    (. .)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. .)))
+
+(ROOT
+  (SQ
+    (VP (VB does)
+      	(NP (PRP he)))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (NNS girls))
+    (VP
+      (ADVP (RB ever))
+      (VB like)
+      (S
+        (VP (TO to)
+            (VP (VB be)
+            	(NP (DT the) (NN father))))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (MD would)
+    	(NP (PRP you))
+    	(VP (ADVP (RB ever))
+	    (COP be)
+      	    (NP (DT the) (NN father))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX do)
+    	(NP (PRP you))
+    	(VP
+	  (ADVP (RB ever))
+	  (COP be)
+     	  (NP (DT a) (NN sister))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH oh) (. !)))
+
+(ROOT
+  (INTJ (UH yeah))
+  (S
+    (NP (NN that))
+    (VP (COP 's)
+      	(ADJP (JJ good)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NN that))
+    (VP (COP 's)
+      	(ADVP (RB really)))
+    (. .)))
+

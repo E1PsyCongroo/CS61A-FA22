@@ -1,0 +1,566 @@
+(ROOT
+  (SQ (VP (AUX do)
+    	(NP (PRP you))
+    	(VP (VB remember))))
+  (SQ (VP (AUX do)
+      	  (NP (PRP you))
+          (VP (VB remember)
+              (SBAR
+                (WHADVP-1 (WRB when))
+              	(S
+                  (NP (PRP we))
+                  (VP (VBD went)
+                      (PP (IN to)
+                      	  (NP (NNP Guatemala)))
+		      (ADVP (-NONE-ABAR-RC- *T*-1)))))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX do)
+      	(NP (PRP you)))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX do)
+    	(NP (PRP you))
+    	(VP (VB remember))))
+  (SQ
+                (NP (PRP we))
+          	(VP (VBD went)
+            	    (PP (IN by)
+              	    	(WHNP (WP what))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (PP (IN by)
+      	(NP (NN bus)))
+    (PP (IN by)
+        (NP (NN plane)))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH no))(FRAG
+    
+    (CC but)
+    (WHADVP (WRB how))
+    (PP (IN like))
+      (. .)))
+
+(ROOT
+  (INTJ (UH yeah))
+  (FRAG
+    (CC but)
+    (SBARQ
+      (WHNP-1 (WP what))
+      (SQ (VP (AUX did)
+      	      (NP (PRP we))
+      	      (VP (VB take)
+	    	  (NP (-NONE-ABAR-WH- *T*-1))))))
+    (FRAG(NP (DT a) (NN bus)))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC or)
+    (NP(NP (DT a) (NN bicycle))
+    (CC or)
+    (NP (DT a) (NN plane)))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB like)
+      	    (NP (PRP it))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (S
+      (NP (PRP we))
+      (VP (VBD ate)
+      	  (ADVP (RB there))))
+    (CC and)
+    (CC and)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP what)
+    	   (RB else))
+    (. .)))
+
+(ROOT
+  (FRAG (NP (PRP we)))
+    
+   (FRAG(NP (PRP we)) (VP (VBD did)
+        (PP (IN in)
+        (PP (IN in)
+            (NP (DT the)
+	    	(NN plane)))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB sleep)
+      	    (ADVP (RB there))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+   (SBARQ 
+     (SBAR-3
+	   (WHADVP-2 (WRB when))
+       (S
+	     (NP (PRP we))
+         (VP (VBD got)
+    	  (PP (IN to) (NP(NNP Guatemala)))(ADVP(-NONE-ABAR-RC- *T*-2)))))
+  
+    (WHNP-1 (WP who))
+    (SQ
+      (VP (AUX did)
+      	  (NP (PRP you))
+          (VP (VB see)
+	      (NP (-NONE-ABAR-WH- *T*-1))
+		  (SBAR(-NONE-ABAR-OTHER *T*-3))))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah))
+  (FRAG
+    (CC and)
+    (WHNP (WP what)
+          (PP (IN about)
+              (NP (DT the)
+	      	     (DT the)
+    		  (NNS doggies))))
+    (. .)))
+
+(ROOT
+  (FRAG (NP (DT the) (NN dog)))
+  (SQ
+    
+    (VP (AUX do)
+      	(NP (PRP you))
+      	(VP (VB like)
+            (NP (NN dog))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Pachene)))
+    (INTJ (UH yeah)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (SBARQ
+      (WHADVP-1 (WRB where))
+      (SQ
+        (VP (AUX did)
+      	    (NP (PRP you))
+      	    (VP (ADVP (RB usually))
+            	(VB go)
+		(ADVP (-NONE-ABAR-WH- *T*-1))
+        	(SBAR
+          	  (WHADVP-2 (WRB when))
+          	  (S
+            	    (NP (PRP you))
+            	    (VP (VBD had)
+              	    	(NP (NN money))
+                	(PP (IN in)
+                  	    (NP (NNP Guatemala)))
+			(ADVP (-NONE-ABAR-RC- *T*-2)))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP-1 (WRB where))
+    (SQ
+      (VP (AUX did)
+      	  (NP (PRP you))
+      	  (VP (VB go)
+	      (ADVP (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (VP (TO to)
+      	(VP (VB buy)
+            (WHNP (WP what))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah))
+  (FRAG  (PP (IN with))
+    (. .)))
+
+(ROOT
+  (FRAG(FRAG
+    (NP (NN ice) (NN cream)))
+        (CC and)
+  (SBARQ
+    (WHNP (WP what)
+   	  (RB else))
+    (SQ
+      (VP (AUX did)
+      	  (NP (PRP you))
+      	  (VP (VB buy)
+	      (NP (-NONE-ABAR-WH- *T*-1)))))))
+  (INTJ (UH huh)
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP what)
+    	  (RB else))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (NN candy))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. .)))
+
+(ROOT
+  (FRAG (CC and)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP what) (RB else))
+    (. ?)))
+
+(ROOT
+  (FRAG (WHNP (WP what)))
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (NP (-NONE-ABAR-WH- *T*-1))
+      (VP (VBD happened)
+          (PP (IN with)
+              (NP (DT the) (NN plane)))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (VP (VB remember)
+      	(SBARQ
+          (WHNP-1 (WP what))
+          (SQ
+	    (NP (-NONE-ABAR-WH- *T*-1))
+            (VP (VBD happened)
+            	(PP (IN with)
+              	    (NP (DT the) (NN plane)))))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH oh))
+  (SQ
+    (NP (PRP you))
+    (VP (VBN got)
+      	(ADJP (JJ sick))
+      	(PP (IN in)
+            (NP (DT the) (NN plane))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah))
+  (FRAG
+    (CC and)
+    (NP (NNP Jennifer))
+    (. .)))
+
+(ROOT
+  (INTJ
+    (UH so))
+  (SQ
+        (VP (AUX did)
+    	    (NP (PRP you))
+    	    (VP (VB like)
+      	    	(NP (NNP Guatemala))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (VP (VB want)
+      	(S (VP (TO to))))
+    (. .)))
+
+(ROOT
+  (INTJ (UH oh))
+  (FRAG
+    (NP (PRP you))
+    (VP (VB want)
+      	(S
+          (VP (TO to)
+              (VP (VB go)
+              	  (PP(ADVP (RB back))
+            	       (IN to)
+              	      	  (NP (NNP Guatemala)))))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+      	(NP (PRP you))
+    (VP (VB take)
+      	(NP (NNS pictures))
+      	(ADVP (RB there))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP what))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB take)
+      	    (NP (NNS pictures))
+      	    (PP (IN in)
+            	(NP (NNP Guatemala)))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB really))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH oh) (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NN daddy) (POS 's))
+      (NN brother))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX do)
+    	(NP (PRP you))
+    	(VP (VB like)
+      	    (NP (PRP him))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH oh))
+  (FRAG
+   (NP (NNP Ricardo))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP who))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Paquito))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH oh))
+  (FRAG
+    (NP (PRP you))
+    (VP (VB like)
+      	(NP (PRP him)))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH oh) (UH oh))
+  (S
+    (NP (NN that))
+    (VP (COP 's)
+        (ADJP (JJ right))))
+  (S
+    (NP (PRP he))
+    (VP (VBD fed)
+      	(NP (PRP you)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (WHNP (WP who)
+          (RB else)))
+  (SQ
+    (VP (AUX do)
+      	(NP (PRP you))
+      	(VP (VB remember)
+            (SBAR
+              (WHADVP-1 (WRB where))
+              (S
+                (NP (PRP we))
+            	(VP (VBD stayed)
+		    (ADVP (-NONE-ABAR-RC- *T*-1))))))))
+  (FRAG (ADVP (RB there))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHADVP-1 (WRB where))
+    (S
+      (NP (PRP we))
+      (VP (AUX was)
+          (VP (VBG living)
+	      (ADVP (-NONE-ABAR-RC- *T*-1)))))
+    (. .)))
+
+(ROOT
+  (SQ
+    (NP (PRP we))
+    (VP (VBD did))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (SBARQ
+      (WHNP-1 (WP what))
+      (SQ
+        (VP (COP are)
+      	    (NP (DT the)
+	    	(NNS names)
+            	(PP (IN of)
+          	    (NP (PRP$ your) (JJ other) (NNS cousins))))
+	    (NP (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Becky)))
+    (INTJ (UH yeah)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP what)
+    	  (PP (IN about)
+      	      (NP (NNP Tinaka))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. .)))
+
+(ROOT
+  (SQ
+    (VP (AUX do)
+      	(NP (PRP you))
+      	(VP (VB like)
+            (NP (DT the) (NN food))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Kimberly)))
+    (INTJ (UH yeah)
+    (. .)))
+
+(ROOT
+  (INTJ (UH uhhuh))
+  (SQ
+    (VP (AUX do)
+      	(NP (PRP you))
+      	(VP (VB like)
+            (NP (DT the) (NN food))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (, ,)
+    (PP (IN in)
+    	(NP (NNP Guatemala)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX did)
+      	  (NP (PRP you))
+      	  (VP (VB have)
+	      (NP (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (NP (PRP you))
+    (VP (AUX do) (NOT n't)
+      	(VP (VB remember)))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH no))
+  (S (NP (PRP you))
+     (VP (VBD had)
+      	 (WHNP (WDT what) (NN juice)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NN cake)))
+    (INTJ (UH wow)
+    (. .)))
+
+(ROOT
+  (INTJ (UH mhm)
+    (. .)))
+
+(ROOT
+  (SQ
+    (NP (PRP you))
+    (VP (VBD had)
+      	(NP (NN milk)))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH no))
+  (S
+    (NP (PRP you))
+    (VP (AUX did)
+    	(NOT n't)
+      	(VP (VB drink)
+            (NP (NN milk))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (AUX did) (NOT n't))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NN ice) (NN cream))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. .)))
+

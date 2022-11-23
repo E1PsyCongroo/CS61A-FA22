@@ -1,0 +1,127 @@
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (VP (VB want)
+      	(S
+          (VP (TO to)
+              (VP
+                (ADVP (RB also))
+            	(VB tell)
+            	(NP (PRP me))
+            	(PP (IN about)
+              	    (SBAR
+                      (WHNP-1 (WP what))
+                      (S
+                        (NP (PRP you))
+                  	(VP (VBD did)
+			    (NP (-NONE-ABAR-WH- *T*-1))
+                    	    (PP (IN at)
+                      	    	(NP (DT the)
+				    (NN pond)))
+		            (ADVP (RB today))))))))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (NP (PRP you))
+    (VP (AUX do)
+    	(NOT n't)
+      	(VP (VB remember)))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yup)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NN something))
+    (VP (VBG moving))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX was)
+    	(NP (PRP it))
+    	(NP (DT a)
+	    (NN bug)))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (VBD saw)
+      	(NP (NN mud)))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB stay)
+      	    (PP (IN with)
+            	(NP (NNP Emma)))
+            (NP (DT the)
+	    	(JJ whole)
+		(NN time))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP who))
+    (SQ
+      (VP (AUX did)
+      	  (NP (PRP you))
+      	  (VP (VB walk)
+              (PP (IN with)
+	      	  (NP (-NONE-ABAR-WH- *T*-1))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (PP (IN with)
+      	(NP (NNS strangers)))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH oh))
+  (FRAG
+    (NP
+      (NP (DT the)
+      	  (NNS people))
+      (SBAR
+        (WHNP-1 (WP that))
+        (S
+	  (NP (-NONE-ABAR-RC- *T*-1))
+	  (VP (AUX were)
+              (VP (VBG showing)
+                  (NP (PRP you))
+                  (PP (IN around)
+                      (NP (DT the)
+		      	  (NN pond))))))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH oh))
+  (SQ (NP (PRP they))
+      (VP (VBD had)
+      	  (NP (NNS radios)))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (PP (IN like)
+      	(NP (DT that)
+	    (NN radio)))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP they))
+    	(VP (VB talk)
+      	    (PP (IN into)
+            	(NP (DT the)
+		    (NNS radios)))))
+    (. ?)))
+

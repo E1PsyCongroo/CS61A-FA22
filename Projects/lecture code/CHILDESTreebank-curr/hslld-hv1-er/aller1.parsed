@@ -1,0 +1,128 @@
+(ROOT
+  (FRAG
+    (VP (VBG going)
+    	(S 
+	   (VP (TO to)
+               (VP (VB tell)
+               	   (NP (NNP Mommy))
+            	   (SBAR
+              	      (WHNP-1 (WP what))
+              	         (S
+                	   (NP (PRP you))
+                	   (VP (VBD did)
+			       (NP (-NONE-ABAR-WH- *T*-1))
+                  	       (ADVP (RB today)))))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP what))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH huh)
+    	(. ?)))
+
+(ROOT
+  (FRAG
+    (NP (DT that)
+    	(NN talk))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX d')
+      	  (NP (PRP ya))
+      	  (VP (VB do)
+	      (NP (-NONE-ABAR-WH- *T*-1))
+              (ADVP (RB today)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX d')
+      	  (NP (PRP you))
+      	  (VP (VB do)
+	      (NP (-NONE-ABAR-WH- *T*-1))
+      	      (ADVP (RB today)))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (VP (VB want)
+      	(NP (DT a)
+	    (NN some)
+            (PP (IN of)
+            	(NP (NN this)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX d')
+      	  (NP (PRP you))
+          (VP (VB do)
+	      (NP (-NONE-ABAR-WH- *T*-1))
+              (ADVP (RB today))))))
+  (NP (NN Allison)
+      (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (VBD forgot))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (VP (VB play)
+      	(PP (IN in)
+            (NP (DT the)
+	    	(NN pool))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (PRP I))
+    (VP (VBP mean))
+    (. .)))
+
+(ROOT
+  (SQ (VP(AUX did)
+      (NP (PRP you))
+      (VP (VB play)
+          (PP (IN in)
+              (NP (DT the)
+	      	  (NN dirt)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX d')
+      	  (NP (PRP you))
+          (VP (VB do)
+	      (NP (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH oh)
+        (. .)))
+
+(ROOT
+  (FRAG
+    (VP (VB go)
+      	(NP (NN swimming)))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+        (. ?)))
+

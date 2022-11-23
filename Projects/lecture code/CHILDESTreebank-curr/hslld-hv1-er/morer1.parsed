@@ -1,0 +1,155 @@
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB go)
+      	    (PP (IN to)
+            	(NP (DT the) (NN park)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX 'd)
+      	  (NP (PRP you))
+      	  (VP (VB do)
+	      (NP (-NONE-ABAR-WH- *T*-1))
+              (PP (IN in)
+              	  (NP (DT the) (NN park))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX did)
+      	  (NP (PRP you))
+      	  (VP (VB do)
+	      (NP (-NONE-ABAR-WH- *T*-1))
+       	      (PP (IN in)
+              (NP (DT the) (NN park))))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+     	(NP (PRP you))
+    	(VP (VB go)
+      	    (VP (VB see)
+            	(NP (DT the) (NNS fishes)))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP-1 (WDT what)
+    	    (NN kind)
+      	    (PP (IN of))
+    	    	(NP (NNS fishes)))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (NN two)
+    (PP (IN of)
+      	(NP (PRP them))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (NP (DT the) (NNS sharks))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (SBAR
+      (WHNP (WP what) (RB else)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what)
+    	   (RB else))
+    (SQ
+      (VP (AUX did)
+      	  (NP (PRP you))
+      	  (VP (VB see)
+	      (NP (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP-1 (WP what)
+    	    (RB else))
+    (SQ
+      (VP (COP is)
+      	  (NP (-NONE-ABAR-WH- *T*-1))
+      	  (NP (EX there))
+      	  (PP (IN in)
+       	      (NP (DT the) (NN fish))
+              	  (NP (DT the)
+		  (NN aquarium)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (VBP see)
+      	(NP
+          (NP (DT a) (NN lot)
+              (PP (IN of)
+              	  (NP (NNS fishes))))
+          (CC and)
+          (NP (DT the) (NNS turtles))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (NP (DT the) (NNS lobsters))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (DT all))
+    (NP (PDT all) (DT the) (NNS fishes))
+    (NP (DT a) (NN lot)
+    	(PP (IN of)
+      	    (NP (PRP them))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (SQ
+      (VP (COP were)
+          (NP (PRP they))
+          (ADJP (JJ big))))
+    (CC or)
+    (FRAG (NP(DT the)))
+    (SQ
+      (VP (COP were)
+      	  (NP (PRP they))
+          (ADJP (JJ small))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (COP were)
+    	(NP (PRP they))
+    	(ADJP (JJ big)))
+    (. ?)))
+
+(ROOT
+  (NP (NNP Chi)
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (COP were)
+    	(NP (PRP they))
+    	(NP (JJ big)
+	    (NNS fishes)))
+    (. ?)))
+

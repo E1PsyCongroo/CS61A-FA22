@@ -1,0 +1,219 @@
+(ROOT
+  (INTJ (UH okay)
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB tell)
+      	(NP (PRP her))
+      	(SBAR
+          (WHNP-1 (WDT what)
+	  	  (NN movie))
+          (S
+            (NP (PRP you))
+            (VP (VBD saw)
+	    	(NP (-NONE-ABAR-WH- *T*-1))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB go)
+      	(ADVP (RB ahead)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (VP (VB remember)
+      	(SBAR
+          (WHADVP-1 (WRB when))
+          (S
+            (NP (PRP we))
+            (VP (VBD went)
+            	(PP (IN to)
+              	    (NP (DT the)
+		    	(NNS movies)))
+	        (ADVP (-NONE-ABAR-RC- *T*-1))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (SBARQ
+      (WHNP-1 (WP what))
+      (SQ (VP (AUX was)
+      	      (NP (DT the)
+	      	  (NN movie))
+	      (NP (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH uhhuh)
+    (. .)))
+
+(ROOT
+  (CC and)
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ (VP (AUX did)
+      	    (NP (PRP you))
+      	    (VP (VB see)
+	    	(NP (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH so))
+  (FRAG
+    (WHADVP (WRB how)
+      	    (PP (IN about)
+	        (SBAR
+            	  (WHNP-1 (WP what))
+    		  (SQ (VP (AUX did)
+      		      	  (NP (PRP you))
+     			  (VP (VB see)
+			      (NP (-NONE-ABAR-WH- *T*-1))
+        		      (PP (IN about)
+          		      	  (NP (DT the)
+				      (NN movie)))))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (NP (-NONE-ABAR-WH- *T*-1))
+      (VP (VBD happened)))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH huh)
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (SBARQ
+      (WHNP-1 (WP what))
+      (SQ
+	(NP (-NONE-ABAR-WH- *T*-1))
+      	(VP (VBD happened)
+            (PP (IN at)
+              	(NP (DT the)
+	      	    (NNS movies))))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (EX there))
+    (VP (COP were)
+      	(NP (NNS snakes)))
+    (. .)))
+
+(ROOT
+  (INTJ (UH uhhuh)
+    (. .)))
+
+(ROOT
+  (INTJ (UH uhhuh)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP what)
+    	  (RB else))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH okay)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (SBARQ
+      (WHNP-1 (WP what))
+      (SQ
+        (VP (AUX did)
+      	    (NP (PRP you))
+      	    (VP (VB eat)
+	    	(NP (-NONE-ABAR-WH- *T*-1))
+            	(PP (IN at)
+          	    (NP (DT the)
+		    	(NNS movies)))))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH uhhuh)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP what)
+    	  (RB else))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB tell)
+      	(NP (PRP us))
+      	(PP (IN about)
+            (NP (DT the)
+	    	(NN movie))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (VBD said)
+      	(NP (NN that))
+      	(ADVP (RB already)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB come)
+      	(PRT (RP on)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (VBD said)
+      	(NP (PRP it))
+      	(ADVP (RB already)))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB come)
+      (PRT (RP on)))
+    (. .)))
+
+(ROOT
+  (INTJ (UH zzz)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP what)
+    	  (RB else))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP (WDT which)
+    	  (NN one))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WDT what)
+    	    (NN movie))
+    (SQ (COP was)
+      	(NP (PRP it))
+	(NP (-NONE-ABAR-WH- *T*-1)))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH huh)
+    (. ?)))
+

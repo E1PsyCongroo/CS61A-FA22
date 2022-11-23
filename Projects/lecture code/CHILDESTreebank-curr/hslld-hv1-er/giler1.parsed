@@ -1,0 +1,184 @@
+(ROOT
+  (SBARQ
+    (WHADVP-1 (WRB where))
+    (SQ (VP (AUX did)
+      	    (NP (PRP you))
+      	    (VP (VB go)
+	    	(ADVP (-NONE-ABAR-WH- *T*-1))
+        	(PP (IN with)
+          	    (NP (NNP Fred)))
+                (ADVP (RB yesterday)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP-1 (WRB where))
+    (SQ (VP (AUX did)
+      	    (NP (PRP you))
+      	    (VP (VB go)
+	    	(ADVP (-NONE-ABAR-WH- *T*-1))
+          	(PP (IN with)
+            	    (NP (NNP Fred))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (NP (NNP Ricky))
+    (. .)))
+
+(ROOT
+  (FRAG (CC and)
+  	(NP (NNP Richard))
+	(. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Fred))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Nella))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH huh) (. ?)))
+
+(ROOT
+  (INTJ (UH oh) (. .)))
+
+(ROOT
+  (FRAG (ADVP (RB now))
+  	(WHNP (WP what)))
+  (SBARQ
+      (WHNP-1 (WP what)
+      	      (RB else))
+      (SBARQ (VP (AUX did)
+              	 (NP (PRP you))
+              	 (VP (VB see)
+		     (NP (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP what)
+    	  (RB else))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (WHNP (WP what)
+    	  (RB else))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP what)
+    	  (RB else))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (PP (IN out)
+          (WHADVP (WRB where)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what)
+    	    (RB else))
+    (SQ (VP (AUX did)
+      	    (NP (PRP you))
+      	    (VP (VB do)
+	    	(NP (-NONE-ABAR-WH- *T*-1))
+            	(PP (IN with)
+          	    (NP (PRP them))))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH oh))
+  (FRAG (ADVP (RB again))
+  	(. .)))
+
+(ROOT
+  (FRAG
+    (NP (NNS motorcycles))
+    (PP (IN in)
+      	(NP (PRP$ your)
+	    (NN head)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (AUX 're)
+       	(VP (ADVP (RB always))
+       	    (VBG talking)
+            (PP (IN about)
+            	(NP (NNS motorcycles)))))
+    (. !)))
+
+(ROOT
+  (FRAG
+    (NP (PRP I))
+    (VP (AUX do)	
+    	(NOT n't)
+      	(VP (VB think)))
+    (. !)))
+
+(ROOT
+  (INTJ (UH zzz)
+    (. .)))
+
+(ROOT
+  (INTJ (UH no) (. .)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (AUX do)
+    	(NOT n't)
+        (VP (ADVP (RB always))
+      	    (VB talk)
+            (PP (IN about)
+            	(NP (NNS motorcycles)))))
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHADVP-1 (WRB why))
+    (SQ (VP (AUX do)
+    	    (NOT n't)
+      	    (NP (PRP you))
+      	    (VP (VB tell)
+            	(NP (PRP me))
+            	(NP
+		  (NP (NN everything))
+            	  (SBAR
+		    (WHNP-2 (WP *NULL*))
+		    (NP (NP (PRP you))
+          	    	(CC and)
+          		(NP (NNP Fred)))
+                    (VP (VBD did)
+		    	(NP (-NONE-ABAR-RC- *T*-2))
+              	    	(ADVP (RB yesterday)))))
+		(ADVP (-NONE-ABAR-WH- *T*-1)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (NP (NP (NNP Ricky))
+        (CC and)
+        (NP (NNP Richard)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC but)
+    (NP (PRP you))
+    (VP (VBD went))
+    (. .)))
+

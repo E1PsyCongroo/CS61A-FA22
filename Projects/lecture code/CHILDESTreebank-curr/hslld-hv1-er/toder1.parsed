@@ -1,0 +1,271 @@
+(ROOT
+  (S
+    (VP (VB tell)
+      	(NP (PRP them))
+      	(PP (IN about)
+            (NP
+	      (NP (DT the) (NNS things))
+      	      (SBAR
+	        (WHNP-1 (WP that))
+        	(S
+          	  (NP (PRP we))
+          	  (VP (AUX did)
+		      (NP (-NONE-ABAR-RC- *T*-1))
+            	      (SBAR
+              	        (WHADVP-2 (WRB when))
+              		(S
+                	  (NP (PRP we))
+                	  (VP (VBD went)
+                  	      (PP (IN on)
+                   	       	  (NP (NN vacation)))
+			      (ADVP (-NONE-ABAR-RC- *T*-2))
+                              (NP (JJ last) (NN year)))))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (PP (RB up)
+      	(PP (IN in)
+            (NP (NNP Maine))))
+    (. .)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. !)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. .)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (SBARQ
+      (WHNP-1 (WP what))
+      (SQ
+        (VP (AUX did)
+      	    (NP (PRP you))
+      	    (VP (VB do)
+	    	(NP (-NONE-ABAR-WH- *T*-1))
+            	
+        	(SBAR
+		  (ADVP(RB all))(COMP while)
+          	  (S
+		    (NP (PRP we))
+            	    (VP (COP were)
+              	    	(ADVP (RB there)))))))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yes))
+  (S
+    (NP (PRP you))
+    (VP (VBD did))
+    (. .)))
+
+(ROOT
+  (INTJ (UH yeah))
+  (S
+    (NP (PRP you))
+    (VP (VBD did))
+    (. !)))
+
+(ROOT
+  (INTJ (UH yeah))
+  (FRAG
+    (VP (VBP remember)
+      	(SBAR
+          (S
+            (NP (PRP it))
+            (VP (COP was)
+            	(ADJP
+		  (ADJP (JJ nice))
+              	  (CC and)
+              	  (ADJP (JJ foggy)))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (S
+      (NP (PRP we))
+      (VP (MD could) (NOT n't)
+      	  (ADVP (RB even))
+      	  (VP (VB see))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH zzz)
+    (. .)))
+
+(ROOT
+  (INTJ (UH yes))
+  (S
+    (NP (PRP you))
+    (VP (VBD did))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (VP (VB remember)
+    (SBAR
+      (WHNP-1 (WP what))
+      (S
+        (NP (NN mama))
+	(VP (AUX did)
+	    (NP (-NONE-ABAR-WH- *T*-1))
+            (PP (IN with))
+	    (PP (IN to)
+	    	(NP (PRP you) (NNS guys)))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (VP (VB remember))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (NP (PRP I))
+    (VP (VBD made)
+      	(NP (PRP you))
+        (NP (DT a) (NN boat)))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (VP (VB remember))
+    (. ?)))
+
+(ROOT
+  (FRAG(FRAG
+    (NP (PRP I))
+    (VP (VBD put)
+        (NP (PRP you))
+        (PP (IN under)
+            (NP (DT the)))))
+    (CC and)
+  (S
+    (NP (PRP I))
+    (VP
+      (VP
+        (VBD covered)
+	(NP (PRP you))
+	    (PRT (RB all)
+	      	 (RB up))
+        (PP (IN with)
+            (NP (NN sand))))
+      (CC and)
+      (VP (VBD made)
+          (NP (DT a) (NN boat))
+          (PP (IN over)
+              (NP (PRP you))))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH zzz)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (VP (VB remember))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yep)
+    (. .)))
+
+(ROOT
+  (INTJ (UH zzz)
+    (. .)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. .)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. .)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. ?)))
+
+(ROOT
+  (INTJ (UH zzz)
+    (. .)))
+
+(ROOT
+  (INTJ (UH oh))
+  (FRAG (CC and)
+    	(. .)))
+
+(ROOT
+  (INTJ (UH oh) (. .)))
+
+(ROOT
+  (INTJ (UH oh) (. .)))
+
+(ROOT
+  (INTJ (UH zzz)
+    (. .)))
+
+(ROOT
+  (INTJ (UH zzz)
+    (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (COP 's)
+      	  (NP (PRP it))
+          (PP (IN like)
+	      (NP (-NONE-ABAR-WH- *T*-1)))
+          (SBAR
+	    (WHADVP-2 (WRB when))
+	    (S
+	      (NP (NN salt) (NN water))
+	      (VP (VBZ goes)
+	      	  (PP (IN in)
+		      (NP (PRP$ your) (NN mouth)))
+		  (ADVP (-NONE-ABAR-RC- *T*-2)))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (COP 's)
+      	  (NP (PRP it))
+          (PP (IN like)
+	      (NP (-NONE-ABAR-WH- *T*-1)))
+          (SBAR
+	    (WHADVP-2 (WRB when))
+	    (S
+	      (NP (NN salt) (NN water))
+	      (VP (VBZ goes)
+	      	  (PP (IN in)
+		      (NP (PRP$ your) (NN mouth)))
+		  (ADVP (-NONE-ABAR-RC- *T*-2)))))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH no) (. .)))
+
+(ROOT
+  (INTJ (UH zzz)
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT that))
+    (VP (COP 's)
+      	(ADJP (JJ silly)))
+    (. .)))
+

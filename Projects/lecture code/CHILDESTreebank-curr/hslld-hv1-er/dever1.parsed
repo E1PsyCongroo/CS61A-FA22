@@ -1,0 +1,158 @@
+(ROOT
+  (INTJ (UH okay))
+  (FRAG
+    (VP (VB remember)
+        (SBAR
+          (WHADVP-1 (WRB when))
+          (S (NP (PRP you))
+             (VP (VBD went)
+                 (VP (TO to)
+                     (VP (VB see)
+                     	 (NP (NNS Ghostbusters))))
+	         (ADVP (-NONE-ABAR-WH- *T*-1))))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB have)
+      	    (NP (NN fun))))
+    (. ?)))
+
+(ROOT
+  (FRAG (NP (NNS busters))
+  	(. .)))
+
+(ROOT
+  (FRAG (VP (VB remember))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (VP (AUX did))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (VP (VB remember)
+      	(SBAR
+          (NP (PRP we))
+          (VP (VBD went)
+              (PP (IN on)))))
+    (. .)))
+
+(ROOT
+  (INTJ (UH oh)
+  	(NP (PRP$ my)
+	    (NN goodness))
+	(. .)))
+
+(ROOT
+  (FRAG
+    (VP (VB remember)
+      	(SBAR
+          (WHADVP-1 (WRB when))
+          (S
+            (NP (PRP we))
+            (VP (VBD went)
+            	(PP (IN to)
+              	    (NP (DT the)
+		    	(NN beach)))
+	        (ADVP (-NONE-ABAR-RC- *T*-1))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (NP (PRP we))
+    (VP (VBD had))
+    (. .)))
+
+(ROOT
+  (FRAG (NP (NNS Ghostbusters))
+  	(. .)))
+
+(ROOT
+  (S
+    (NP (PRP he))
+    (VP (ADVP (RB also))
+    	(VBZ watches)
+      	(NP (DT the)
+	    (NN show))))
+  (S
+    (NP (PRP you))
+    (VP (VBP know))
+    (. .)))
+    
+(ROOT
+  (INTJ (UH okay))
+  (SBARQ (WHNP-2 (WP what))
+  (SQ (VP (AUX do)
+      	  (NP (PRP you))
+      	  (VP (VB remember)(NP(-NONE-ABAR-WH- *T*-2))))))
+   (FRAG
+		(WHNP-1 (WP what))
+              	(S (NP (PRP we))
+              	   (VP (VBD did)
+		       (NP (-NONE-ABAR-WH- *T*-1))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yes)
+  	(. .)))
+
+(ROOT
+  (SQ
+    (VP (AUX do)
+        (NP (PRP you))
+        (VP (VB remember)
+            (NP (DT the)
+	    	(NN movie)))))
+   (FRAG (VP (AUX was)
+   	     (NOT n't)
+             (NP (PRP it)))
+         (. .)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (VBD had)
+      	(NP (NN fun)))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB like)
+      	    (NP (DT the)
+	    	(NN movie))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB like)
+      	    (NP (DT the)
+	    	(NN movie)))))
+  (NP (NNP Chi)
+      	(. ?)))
+
+(ROOT
+  (INTJ (UH yeah))
+  (S
+    (NP (PRP you))
+    (VP (VBD did))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ (VP (AUX do)
+      	    (NP (PRP you))
+      	    (VP (VB remember)
+	    	(NP (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+

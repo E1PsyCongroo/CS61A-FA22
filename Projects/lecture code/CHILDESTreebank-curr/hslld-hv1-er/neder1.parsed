@@ -1,0 +1,239 @@
+(ROOT
+  (S
+    (VP (VB tell)
+      	(NP (PRP them))
+      	(SBAR
+          (WHADVP-1 (WRB where))
+          (S
+            (NP (PRP you))
+            (VP (VBD went)
+	    	(ADVP (-NONE-ABAR-WH- *T*-1))
+            	(ADVP (RB yesterday))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (SBARQ
+      (WHNP-1 (WP what))
+      (SQ
+        (VP (AUX did)
+      	    (NP (PRP you))
+      	    (VP (VB do)
+	    	(NP (-NONE-ABAR-WH- *T*-1))))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB ride)
+      	    (NP (DT a) (NN roller) (NN coaster))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX did)
+      	  (NP (PRP you))
+      	  (VP (VB do)
+	      (NP (-NONE-ABAR-WH- *T*-1))
+              (PP (IN at)
+              	  (NP (NN school)))
+              (ADVP (RB today)))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH huh)
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (VP (VBP got)
+      	(INTJ (UH ta))
+        (NP (DT a) (JJ smart) (NN mouth)))
+    (. .)))
+
+(ROOT
+  (INTJ (UH hi))
+    	(NP (NNP auntie)
+    (. .)))
+
+(ROOT
+  (INTJ (UH oh))
+  (S
+    (NP (PRP I))
+    (VP (COP 'm)
+        (ADJP (JJ sorry))))
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB get)
+      	    (NP (DT any) (NNS cigarettes))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH no) (. .)))
+
+(ROOT
+  (INTJ (UH Poo))
+  (S
+    (NP (PRP she))
+    (VP (VBP want)
+    	(S
+	  (VP (TO to)
+	      (VP (VB know)
+                  (SBAR
+                    (WHNP-1 (WP what))
+                    (S
+                      (NP (PRP you))
+                      (VP (VBD did)
+		      	  (NP (-NONE-ABAR-WH- *T*-1))
+                          (PP (IN in)
+                              (NP (NN school)))
+                          (ADVP (RB today)))))))))
+    (. .)))
+
+(ROOT
+  (INTJ (UH huh)
+    (. ?)))
+
+(ROOT
+  (INTJ (UH well))
+  (S
+    (VP (VB tell)
+      	(NP (PRP her))
+      	(SBAR
+          (WHNP-1 (WP what))
+          (S
+            (NP (PRP you))
+            (VP (VBD did)
+	    	(NP (-NONE-ABAR-WH- *T*-1)))))))
+  (S
+    (NP (PRP you))
+    (VP (AUX did) (NOT n't)
+    	(VP (VB tell)
+	    (NP (PRP her))
+	    (SBAR
+	      (WHNP-2 (WP what))
+	      (S
+	        (NP (PRP you))
+		(VP (VBD did)
+		    (NP (-NONE-ABAR-WH- *T*-2)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (WHNP (WP what)
+      	   (RB else))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (AUX did) (NOT n't)
+      	(VP (VB get)
+            (PP (IN on)
+            	(NP (NN nothing) (RB else)))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH oh))
+  (FRAG
+    (PP (IN on)
+      	(NP (DT a)
+	    (NN baby)
+            (NN ride)))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH Poo)
+    	(. .)))
+
+(ROOT
+  (SQ
+    (NP (PRP you))
+    (VP (VBD got)
+      	(PP (IN on)
+            (NP (DT an) (NN airplane))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (AUX did) (NOT n't)
+      	(VP (VB get)
+            (PP (IN on)
+            	(NP (DT the) (NNS airplanes)))))
+	    (ADVP (RB too))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB shut)
+      	(PRT (RP up)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB now))
+    (WHNP-1 (WP what)
+      	      (RB else))
+    (S
+      (NP (PRP you))
+      (VP (VB do)
+	    (NP (-NONE-ABAR-WH- *T*-1))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP-1 (WP what)
+    	   (RB else))
+    (SQ
+      (NP (PRP you))
+      (VP (VB do)
+      	  (NP (-NONE-ABAR-WH- *T*-1))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB play)
+      	    (NP (DT any) (NNS games))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (VB tell)
+      	(NP (PRP her))
+      	(SBAR
+          (WHNP-1 (WDT what) (NN game))
+          (S
+            (NP (PRP you))
+            (VP (VBD played)
+	    	(NP (-NONE-ABAR-WH- *T*-1))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (NNP Mario))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX did)
+      	  (NP (NNP Mario))
+      	  (VP (VB do)
+	      (NP (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH huh)
+    	(. ?)))
+

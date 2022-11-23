@@ -1,0 +1,157 @@
+(ROOT
+  (SQ (VP (AUX did)
+      	  (NP (PRP you))	
+    	  (VP (VB play)
+      	      (PP (IN with)
+              	  (NP (NNP Shana)))
+      	      (PP (IN at)
+        	  (NP (NN school)))))
+    (. ?)))
+
+(ROOT
+  (FRAG (NP (NNP Catherine)) (. .)))
+
+(ROOT
+  (SQ (VP (AUX did)
+      	  (NP (PRP you))
+    	  (VP (VB play)
+      	      (PP (IN with)
+              	  (NP (NNP Shana)))
+      	     (SBAR
+               (WHADVP-1 (WRB when))
+               (S (NP (PRP you))
+               	  (VP (VBD were)
+            	      (PP (IN at)
+              	      	  (NP (NN school)))
+		      (ADVP (-NONE-ABAR-WH- *T*-1)))))))
+      (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ (VP (AUX did)
+      	    (NP (PRP you))
+      	    (VP (VB play)
+	    	(NP (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP what))
+    (. .)))
+
+(ROOT
+  (S (NP (NN that))
+     (VP (COP 's)
+         (NP (DT a)
+	     (NN lot)
+             (PP (IN of)
+             	 (NP (NNS toys))))))
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ (VP (AUX did)
+    	    (NP (PRP you))
+            (VP (VB do)
+	    	(NP (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (VP (VB play)
+      	(PP (IN like)
+            (NP (DT this)))
+        (PP (IN at)
+            (NP (NN school))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (ADVP (RB then))
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX did)
+          (NP (PRP you))
+              (VP (VB do)
+	      	  (NP (-NONE-ABAR-WH- *T*-1))
+              	  (PP (IN at)
+                      (NP (NN school))))))
+    (. ?)))
+
+(ROOT
+  (SQ (VP (AUX did)
+      	  (NP (PRP you))
+    	  (VP (VB play)
+      	      (NP (NNS games))
+      	      (PP (IN with)
+              	  (NP (PRP her)))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP (WDT what)
+    	  (NN kind)
+    	  (PP (IN of)
+      	      (NP (NNS games))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH well))
+  (SBARQ
+    (WHNP-2 (WP what))
+    (SQ (VP (COP is)
+            (NP (DT this)
+	    	(NP (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (NP (PRP you))
+    (VP (VBD played)
+      	(PP (IN with)
+            (NP (NNS toys))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+    	(. ?)))
+
+(ROOT
+  (SQ
+    (NP (PRP you))
+    (VP (VBD played)
+      	(PP (IN with)
+            (NP (CD two)
+	    	(NNS phones))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (NP (PRP you))
+    (VP (VBD called)
+     	(NP (PRP her)))
+    (. ?)))
+
+(ROOT
+  (SQ (VP (COP was)
+      	  (NP (PRP she))
+    	  (NP (NN home)))
+      (. ?)))
+
+(ROOT
+  (INTJ (UH zzz)
+    	(. .)))
+
+(ROOT
+  (SQ
+    (NP (PRP you))
+    (VP (VBD had)
+      	(NP (DT a)
+	    (JJ real)
+	    (NN phone)))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+    	(. ?)))
+

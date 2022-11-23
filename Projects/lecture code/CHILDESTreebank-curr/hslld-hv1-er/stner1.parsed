@@ -1,0 +1,314 @@
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX did)
+      	  (NP (PRP we))
+      	  (VP (VB do)
+	      (NP (-NONE-ABAR-WH- *T*-1))))))
+  (FRAG
+    (VP (VB remember)
+    	(ADVP (RB there))
+	(ADVP (NP (DT a) (JJ couple) (NNS weeks)) (RB ago))))
+  (SBARQ
+    (WHADVP-2 (WRB where))
+    (SQ
+      (VP (AUX did)
+          (NP (NN Mama))
+          (VP (VB take)
+              (NP (PRP you))
+	      (ADVP (-NONE-ABAR-WH- *T*-2)))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (VP (VB remember)
+      	(ADVP (RB over)
+	      (RB there))
+        (PP (IN in)
+            (NP (NNP Carlisle))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX did)
+      	  (NP (PRP we))
+      	  (VP (VB do)
+	      (NP (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX did)
+      	  (NP (NN Mama))
+     	  (VP (VB take)
+	      (NP (-NONE-ABAR-WH- *T*-1)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (SBARQ
+      (WHNP-1 (WP what))
+      (SQ
+        (VP (AUX did)
+      	    (NP (PRP I))
+      	    (VP (VB buy)
+	    	(NP (PRP you))
+		(NP (-NONE-ABAR-WH- *T*-1))))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH huh)
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (VP (VB remember)
+      	(NP (DT the) (NN fishing) (NN rod)))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (SBARQ
+      (WHNP-1 (WP what))
+      (SQ
+        (VP (AUX did)
+      	    (NP (PRP we))
+      	    (VP (VB do)
+	    	(NP (-NONE-ABAR-WH- *T*-1)))))))
+  (SQ
+    (VP (MD can)
+    	(NP (PRP you))
+	(VP (VB tell)
+            (NP (PRP them))
+            (SBAR
+              (WHNP-2 (WP what))
+	      (S
+	        (NP (PRP we))
+                (VP (VBD caught)
+		    (NP (-NONE-ABAR-WH- *T*-2)))))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (COP was)
+    	(NP (PRP it))
+    	(ADJP (JJ big)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADJP-1 (WRB how) (JJ big))
+    (SQ
+      (VP (COP was)
+      	  (NP (PRP it))
+	  (ADJP (-NONE-ABAR-WH- *T*-1))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (NP (-NONE-ABAR-WH- *T*-1))
+      (VP (VBD happened)
+          (PP (IN to)
+              (NP (DT the) (NN fishing) (NN rod)))
+          (SBAR
+            (WHADVP-2 (WRB when))
+            (S
+              (NP (PRP we))
+              (VP (VBD got)
+              	  (NP (PRP him))
+              	  (PP (IN on)
+                      (NP (DT the) (NN line)))
+		  (ADVP (-NONE-ABAR-RC- *T*-2)))))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP it))
+    	(VP (VB break)))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP we))
+    	(VP (VB get)
+	    (NP (DT the) (NN fish)))))
+  (FRAG
+    (VP (VBD got)
+        (NP (DT a) (NN slap))
+        (PP (IN in)
+            (NP (DT the) (NN face))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH haha))
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP he))
+        (VP (VB hit)
+            (NP (DT the) (NN building))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+    	(UH huh)
+    	(. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (S
+      (NP-1 (NNP Mama))
+      (VP
+        (ADVP (RB almost)
+      	(VBD got)
+	(VP (VBN snapped)
+	    (NP (-NONE-A-RAISE- *T*-1))
+	    (PP (IN in)
+                (NP (DT the) (NNS buns))))))))
+  (FRAG (VP (VBP remember))
+    	(. ?)))
+
+(ROOT
+  (FRAG
+    (SBAR
+      (WHADVP-1 (WRB when))
+      (S
+	(NP (DT the) (NN rod))
+      	(VP (VBN sprung)
+            (ADVP (RB back))
+	    (-NONE-ABAR-RC- *T*-1))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (S (VP (VB hit)
+       	   (NP (NN Mama))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (VP (VB remember))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (SBARQ
+      (WHNP-1 (WP what))
+      (SQ
+        (VP (AUX did)
+      	    (NP (PRP you))
+      	    (VP (VB do)
+	    	(NP (-NONE-ABAR-WH- *T*-1))
+        	(PP (IN with)
+		    (NP (DT the) (NN food))))))))
+  (FRAG
+    (VP (VBP remember)
+    	(NP (NN Mama))
+        (VP (VBN brought)
+            (PP (IN for)
+                (NP (DT the) (NNS fishies)))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP we))
+    	(VP
+      	  (VP (VB take)
+              (NP (NN some)))
+          (CC and)
+      	  (VP (VB throw)
+              (NP (PRP it))
+              (PP (IN in)
+              	  (NP (DT the) (NN water))))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB like)
+      	    (S
+              (VP (VBG going)
+              	  (ADVP (RB over)
+            	      	(RB there))
+              	  (S (VP (VBG fishing)))))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX do)
+    	(NP (PRP you))
+    	(VP (VB like)
+      	    (S
+	      (VP (TO to)
+              	  (VP (VB go)
+            	      (ADVP (RB again))))))))
+  (FRAG
+    (VP (VB go)
+    	(S (VP (VBG fishing)))
+        (ADVP (RB again)))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP what)
+    	  (PP (IN about)
+	      (ADVP (RB maybe))
+              (ADVP (RBR later)
+      	      	    (IN on))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (S
+      (NP (PRP we))
+      (VP (MD can)
+      	  (VP (VB see)
+              (SBAR
+	        (COMP if)
+              	(S
+            	  (NP (DT that) (NN shark))
+            	  (VP (COP 's)
+              	      (PP (IN in)
+                      	  (NP (DT the) (NN water)))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (VP (VB remember)
+      	(SBAR
+          (S
+            (NP (PRP you))
+            (VP (VBD called)
+            	(NP (PRP it))
+              	(NP (DT a) (NN shark))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (VP (VB remember))
+    (. ?)))
+

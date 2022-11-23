@@ -1,0 +1,117 @@
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB go)
+      	    (PP (IN to)
+            	(NP (DT the) (NNP Plymouth) (NN plantation)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX did)
+      	  (NP (PRP you))
+      	  (VP (VB see)
+	      (NP (-NONE-ABAR-WH- *T*-1))
+              (ADVP (RB there)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (NN that))
+    (VP (COP was)
+    	(NOT n't)
+      	(NP (DT no) (NN deer)))
+    (. .)))
+
+(ROOT
+  (FRAG (NP (DT a) (NN pig)) (. .)))
+
+(ROOT
+  (FRAG (NP (NN mud)) (. .)))
+
+(ROOT
+  (FRAG
+    (WHNP-1 (WP what)
+    	    (RB else))
+    (S
+      (NP (PRP you))
+      (VP (VB see)
+      	  (NP (-NONE-ABAR-WH- *T*-1))))
+    (. ?)))
+
+(ROOT
+  (FRAG (NP (DT a) (NN cow)) (. ?)))
+
+(ROOT
+  (SQ
+    (NP (PRP you))
+    (VP (AUX ai)
+    	(NOT n't)
+      	(VP (ADVP (RB never))(VBN seen)
+            (NP (DT a) (NN cow))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX did)
+      	  (NP (PRP you))
+      	  (VP (VB do)
+	      (NP (-NONE-ABAR-WH- *T*-1))
+              (PP (IN to)
+              	  (NP (DT the) (NN sheep))))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB see)
+      	    (NP (DT the) (NN sheep)))))
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX 'd)
+      	  (NP (PRP you))
+	  (VP (VB do)
+	      (NP (-NONE-ABAR-WH- *T*-1))
+	      (PP (IN to)
+                  (NP (PRP it))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (VP (AUX 'd)
+      	  (NP (PRP you))
+      	  (VP (VB feed)
+              (NP (PRP him))
+              (PP (IN with)
+	      	  (NP (-NONE-ABAR-WH- *T*-1))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHADVP-1 (WRB how))
+    (S
+      (NP (PRP you))
+      (VP (VB feed)
+          (NP (PRP him))
+	  (ADVP (-NONE-ABAR-WH- *T*-1))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what)
+    	    (RB else))
+    (SQ
+      (NP (-NONE-ABAR-WH- *T*-1))
+	  (VP (COP is)
+      	  (ADVP (RB there))))
+    (. ?)))
+

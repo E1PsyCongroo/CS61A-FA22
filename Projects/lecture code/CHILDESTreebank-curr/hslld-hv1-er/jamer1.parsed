@@ -1,0 +1,96 @@
+(ROOT
+  (SQ
+    (VP (AUX do)
+    	(NP (PRP you))
+    	(VP (VB want)
+      	    (S
+              (VP (TO to)
+              	  (VP (VB get)
+            	      (S
+              	        (NP (PRP him))
+               		(VP (TO to)
+                	    (VP
+                  	      (VP (VB try))
+                  	      (CC and)
+                  	      (VP (VB tell)
+                    	      	  (NP (PRP us))
+                    		  (NP (NN something)))))))))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH okay)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (VP (VB want)
+      	(S
+          (VP (TO to)
+              (VP (VB tell)
+              	  (NP (PRP them))
+		  (WHNP (WP who))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (PP (IN about)
+    	(NP (DT the)
+	    (NN book)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP who))
+    (SQ (NP (-NONE-ABAR-WH- *T*-1)) (VP (COP was)
+    	    
+      	    (PP (IN in)
+            	(NP (DT the)
+		    (NN book)))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (SBARQ	
+      (WHNP-1 (WP what))
+      (SQ (VP (AUX did)
+      	      (NP (PRP they))
+      	      (VP (VB do)
+	      	  (NP (-NONE-ABAR-WH- *T*-1))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (SBARQ
+      (WHNP-1 (WP what))
+      (SQ (VP (AUX were)
+      	      (NP (DT the)
+	      	  (NNS bugs))
+              (VP (VBG doing)
+	      	  (NP (-NONE-ABAR-WH- *T*-1))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (VP (AUX do)
+    	(NOT n't)
+      	(VP (VB remember)))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (PP (IN to)
+      	(NP (DT the)
+      	    (NN cat)))
+
+    (. .)))
+
+(ROOT
+  (FRAG
+    (VP (VB remember)
+    	(NP (NN anything)
+            (ADVP (RB else))))
+    (. ?)))
+

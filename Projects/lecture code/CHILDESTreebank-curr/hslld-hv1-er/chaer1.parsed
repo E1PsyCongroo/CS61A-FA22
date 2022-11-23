@@ -1,0 +1,119 @@
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ (VP (AUX did)
+      	    (NP (PRP you))
+      	    (VP (VB leave)
+            	(NP (DT the)
+		    (NNP Easter)
+		    (NN bunny))
+		(NP (-NONE-ABAR-WH- *T*-1))
+                (ADVP (DT that)
+		    (NN night)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (WHADVP-1 (WRB when))
+    (S
+      (NP (PRP he))
+      (VP (VBD came)
+      	  (ADVP (-NONE-ABAR-WH- *T*-1))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (WHNP (WP what)
+          (RB else))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (SBARQ
+      (ADVP (RB then))
+      (WHNP-1 (WP what))
+        (SQ
+          (VP (AUX did)
+              (NP (PRP you))
+              (VP (VB do)
+	      	  (NP (-NONE-ABAR-WH- *T*-1))))))
+    (. ?)))
+
+(ROOT
+  (SQ (VP (AUX did)
+      	  (NP (PRP you))
+      	  (VP
+	    (VP (VB go)
+              	(PP (IN to)
+              	    (NP (NN bed))))
+            (CC and)
+      	    (VP (VB wait)
+            	(S(VP (TO to)
+            	    (VP (VB see)
+              	    	(SBAR (COMP if)
+                	      (S (NP (EX there))
+                  	      	 (VP (COP was)
+                     	       	     (NP (NNS baskets))
+                      	       	     (PP (IN in)
+                               	      	 (NP (DT the)
+				       	     (NN morning))))))))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (NN basket)
+    	(PP (IN of)
+      	    (WHNP (WP what))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+    	(. ?)))
+
+(ROOT
+  (FRAG (CC and)
+        
+        (SBARQ
+          (ADVP (RB then))(WHNP-1 (WP what))
+	  (SQ
+            (VP (AUX did)
+                (NP (PRP you))
+                (VP (VB do)
+		    (NP (-NONE-ABAR-WH- *T*-1))))))
+        (. ?)))
+
+(ROOT
+  (FRAG (CC and)
+      	
+      	(SBARQ
+	  (ADVP (RB then))(WHADVP-1 (WRB where))
+          (SQ (VP (AUX did)
+                  (NP (PRP we))
+                  (VP (VB go)
+		      (ADVP (-NONE-ABAR-WH- *T*-1))))))
+      (. .)))
+
+(ROOT
+  (FRAG
+    (VP (TO to)
+      	(VP (VB eat)))
+    (. .)))
+
+(ROOT
+  (FRAG (NP (NN lunch)) (. .)))
+
+(ROOT
+  (SQ
+    (NP (PRP we))
+    (VP (VBD went)
+      	(PP (IN to)
+            (NP (NNP Nanny)
+	    	(POS 's))))
+    (. ?)))
+

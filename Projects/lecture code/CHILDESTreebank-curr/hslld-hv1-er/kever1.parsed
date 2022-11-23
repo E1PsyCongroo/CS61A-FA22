@@ -1,0 +1,320 @@
+(ROOT
+  (NP (NNP honey))
+  (S
+    (NP (PRP you))
+    (VP (VBP tell)
+      	(NP (PRP me))
+      	(SBAR
+          (WHNP-1 (WP what))
+          (S
+            (NP
+              (NP (PRP you))
+              (CC and)
+              (NP (NNP Christine))
+              (CC and)
+              (NP (NNP Matthew)))
+            (VP (VBD did)
+	    	(NP (-NONE-ABAR-WH- *T*-1))
+               	(ADVP (RB outside))
+            	(SBAR (COMP while)
+              	      (S
+                        (NP (PRP I))
+                	(VP (COP was)
+                  	    (ADVP (RB inside)))))))))
+    (. .)))
+
+(ROOT
+  (SQ
+    (NP (PRP you))
+    (VP (VBD played)
+      	(PRT (RP around)))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+      	(NP (PRP you))
+		(VP (VB play)
+      (PP (IN in)
+        (NP (DT the) (NN dirt)))))
+    (. ?)))
+
+(ROOT
+  (SQ (VP (AUX did)
+    (NP (PRP you))
+    (VP (VB play)
+      (PP (IN in)
+        (NP (DT the) (NN mud)))))
+    (. ?)))
+
+(ROOT
+  (SQ (VP (AUX did)
+      	  (NP (PRP you))
+    	  (VP (VB play)
+      	      (PP (IN in)
+              	  (NP (DT the) (NN water)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (VBD played)
+      	(PP (IN in)
+            (NP (DT the) (NN water)))))
+  (SQ (VP (AUX did)
+      	  (NP (PRP you))
+          (VP (VBP get)
+              (ADJP (RB all)
+	      	    (JJ wet))))
+       (. ?)))
+
+(ROOT
+  (SQ
+    (VP (COP is)
+      	(NP (NN that)
+        (WHADVP-1 (WRB how))
+        (S
+          (NP (PRP you))
+          (VP (VBD got)
+              (NP (DT the) (NN mud))
+              (PP (IN on)
+              	  (NP (PRP$ your) (NN knee)))
+	      (ADVP (-NONE-ABAR-WH- *T*-1))))))
+    (. ?)))
+
+(ROOT
+  (SBARQ    (WHNP-1 (WP what) (RB else))
+    (SQ (VP (AUX did)
+      	    (NP (PRP you))
+      	    (VP (VB do)
+	    	(NP (-NONE-ABAR-WH- *T*-1))
+            	(ADVP (RB outside)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (AUX was)
+    	(NOT n't)
+      	(VP (VBG watching)
+            (SBAR (COMP so)
+            	  (S
+            	    (NP (PRP I))
+            	    (VP (AUX do) (NOT n't)
+              	    	(VP (VB know)
+                	    (SBAR
+                  	      (WHNP-1 (WP what))
+                  	      (S
+                    	        (NP (PRP you))
+                    		(VP (VBD did)
+				    (NP (-NONE-ABAR-RC- *T*-1)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP you))
+    (VP (AUX do) (NOT n't)
+     	 (VP (VB know)))
+	 (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ
+      (NP (-NONE-ABAR-WH- *T*-1))
+      (VP (VBD happened)
+          (PP (IN to)
+              (NP (PRP$ your) (NN ear)))))
+    (. ?)))
+
+(ROOT
+  (SQ (VBD did)
+    (NP (PRP you))
+    (VP (VB get)
+      (NP (DT a) (NN bug) (NN bite))
+      (PP (IN on)
+        (NP (PRP$ your) (NN ear))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB play)
+      	    (PP (IN on)
+            	(NP (PRP$ your) (JJ big) (NNS wheels)))))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ (VP (AUX did)
+      	    (NP (NNP Christine))
+      	    (VP (VB do)
+	    	(NP (-NONE-ABAR-WH- *T*-1)))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP what)
+      	  (PP (IN about)
+              (NP (DT the)
+	      	  (NNS swings)))))
+  (SQ (VP (AUX did)
+      	  (NP (PRP you))
+      	  (VP (VB play)
+              (PP (IN on)
+              	  (NP (NN that)))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (NP (DT the) (NN glider))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHADVP-1 (WRB where))
+    (SQ (VP (COP 's)
+      	    (NP (NNP Matthew))
+	    (ADVP (-NONE-ABAR-WH- *T*-1))
+	    (ADVP (RB right) (RB now))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (PP (IN at)
+        (WHADVP (WRB where)))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNP Julie) (POS 's))
+      (NN house))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (PP (IN with)
+      	(WHNP (WP who)))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (PP (IN with)
+      (NP (NNP Julie)))
+    (. ?)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what)
+    	   (RB else))
+    (SQ
+      (VP (AUX did)
+          (NP (PRP you))
+          (VP (VB do)
+	      (NP (-NONE-ABAR-WH- *T*-1))
+              (ADVP (RB outside))))))
+  (SQ (VP (AUX did)
+          (NP (PRP you))
+          (VP (VB get)
+              (NP (PRP$ your) (NNS sneakers))
+      	      (ADJP (RB all) (JJ wet))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yes) (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (COP 're)
+      	(ADJP (JJ wet))
+      	(ADVP (RB right) (RB there)))
+    (. .)))
+
+(ROOT
+  (SQ (VP (AUX did)
+      	  (NP (PRP you))
+    	  (VP (VB ride)
+      	      (NP (PRP$ your) (JJ big) (NN wheel))))
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX did)
+    	(NP (PRP you))
+    	(VP (VB skin)
+      	    (NP (PRP$ your) (NN knee))
+      	    (NP (NN today))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH no) (. ?)))
+
+(ROOT
+  (FRAG
+    (WHADVP (WRB how)
+    	    (PP (IN about)
+      	    	(NP (PRP$ your)
+		    (NNS elbows))))
+      (. ?)))
+
+(ROOT
+  (INTJ (UH no) (UH oh) (NP(NN boy)) (. !)))
+
+(ROOT
+  (FRAG
+    (NP (DT no)
+    	(VBN skinned)
+	(NP
+	  (NP(NNS knees))
+          (CC or)
+      	  (NP(NNS elbows))))
+    (NP (NN today)))
+    (INTJ (UH huh)
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (COP was)
+    	(NP (EX it))
+    	    (ADJP (JJ cold))
+	    (ADVP (RB outside)))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH yeah)
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (PRP you))
+    (VP (VB think)
+      	(SBAR
+          (S
+            (NP (PRP you))
+            (VP (MD should)
+            	(VP (VB have)
+              	    (NP (PRP$ your) (NN winter) (NNS clothes))
+                (PRT (RP on)))))))
+    (. ?)))
+
+(ROOT
+  (INTJ (UH no)
+    (. ?)))
+
+(ROOT
+  (SQ
+    (VP (AUX do) (NOT n't)
+    	(NP (PRP you))
+    	(VP (VBP have)
+      	    (NP(NP (NN anything) (RB else))
+            (SBAR(WHNP-1(WP *NULL*))(S(VP (TO to)
+            	(VP (VB say)(NP(-NONE-ABAR-RC- *T*-1))
+            	    (PP (IN to)
+              	    	(NP (PRP me))))))))))
+    (. ?)))
+

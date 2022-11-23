@@ -1,0 +1,241 @@
+(ROOT
+  (SBARQ
+    (WHADVP-1 (WRB where))
+    (SQ (VP (AUX did)
+      	    (NP (PRP we))
+      	    (VP (VB have)
+            	(NP (NN fun))
+            	(PP (IN at)
+	    	    (ADVP (-NONE-ABAR-WH- *T*-1))))))
+    (. ?)))
+
+(ROOT
+  (SQ (VP (AUX did)
+      	  (NP (PRP you))
+    	  (VP (VB have)
+      	      (NP (NN fun))
+      	      (PP (PP (IN over)
+              	      (NP (NP (NNP grandma)
+		      	      (POS 's))
+            	          (NN house)))
+        	  (CC or)
+        	  (PP (IN at)
+          	      (NP (NP (NNP auntie)
+		      	      (NNP Vye)
+			      (POS 's))
+            		  (NN house))))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (NP (NP (NN grandma)
+    	    (POS 's))
+      	(NN house))
+    (. .)))
+
+(ROOT
+  (INTJ (UH okay))
+  (S (VP (VB push)
+      	 (NP (DT the)
+	     (NN chair))
+      	 (PRT (RP up))
+    	 (SBAR
+	   (COMP so)
+      	   (S (NP (PRP you))
+              (VP (AUX do)
+	      	  (NOT n't)
+          	  (VP (VB rock)
+            	      (PP (IN on)
+              	      	  (NP (PRP$ his)
+			      (NNS feet))))))))
+     (. .)))
+
+(ROOT
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ (AUX did)
+      	(NP (PRP you))
+      	(VP (VB do)
+	    (NP (-NONE-ABAR-WH- *T*-1))
+            (PP (IN at)
+            	(NP (NP (NNP grandma)
+		    	(POS 's))
+                    (NN house)))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (WHNP (WP what)))
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ (VP (AUX did)
+            (NP (PRP we))
+              	(VP (VB do)
+		    (NP (-NONE-ABAR-WH- *T*-1))
+                    (ADVP (RB over)
+                      	  (RB there)))))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (VBD stayed)
+      	(NP (DT the)
+	    (NN night))))
+  (INTJ (UH huh)
+  	(UH yeah)
+    	(. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (. .)))
+
+(ROOT
+  (SQ (AUX did)
+      (NP (PRP you))
+      (VP (VB have)
+      	  (NP (NN fun)))
+      (. ?)))
+
+(ROOT
+  (INTJ (UH yeah))
+  (SBARQ
+    (WHNP-1 (WP what))
+    (SQ (AUX did)
+        (NP (PRP you))
+        (VP (VB like)
+	    (NP (-NONE-ABAR-WH- *T*-1))
+            (PP (IN about)
+                (NP (PRP it)))))
+    (. ?)))
+
+(ROOT
+  (FRAG
+    (VP (VBG seeing)
+      	(NP (NNP uncle)
+	    (NNP Charles))
+        (PP (IN on)
+            (NP (NN television))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (SBAR
+      (WHNP (WP what)(RB else)))
+    (. ?)))
+
+(ROOT
+  (S
+    (NP (NN that))
+    (VP (COP 's)
+      (NP (PRP it)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD thought)
+      	(SBAR
+          (S
+            (NP (PRP you))
+            (VP (VBD said)
+            (SBAR
+              (S
+                (NP (PRP you))
+                (VP (VBD had)
+                    (NP (NN fun)))))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP (NN anything))
+    (ADVP (RB else))
+    (. ?)))
+
+(ROOT
+  (S
+    (SBAR-1
+      (WHADVP-2 (WRB when))
+      (S
+        (NP (PRP we))
+        (VP (COP was)
+            (ADVP (RB over)
+            	  (RB there))
+	    (ADVP (-NONE-ABAR-WH- *T*-2)))))
+    (NP (PRP we))
+    (VP (VBD went)
+      	(PP (IN to)
+            (NP (DT the)
+	    	(NN park)))
+        (SBAR (-NONE-ABAR-OTHER- *T*-1)))
+    (. .)))
+
+(ROOT
+  (INTJ (UH yes))
+  (S
+    (NP (PRP we))
+    (VP (VBD did))
+    (. .)))
+
+(ROOT
+  (SQ
+    (S
+      (NP (PRP it))
+      (VP (AUX s)
+    	  (VP (COP been)
+              (NP (DT a)
+	    	  (JJ long)
+		  (NN time))
+	      (ADVP (RB now))
+              (SBAR
+		(COMP since)
+              	(S (NP (PRP we))
+              	   (VP (AUX 've)
+                       (VP (VBN been)
+                     	   (PP (IN to)
+                    	       (NP (DT the)
+			     	   (NN park))))))))))
+  (CC but)
+  (INTJ (UH yeah))
+  (SQ (NP (PRP we))
+      (VP (AUX did)))
+  (INTJ (UH huh))
+      (. ?)))
+
+(ROOT
+  (INTJ (UH Oh))
+  (SQ (VP (AUX did)
+      	  (NP (PRP you))
+      	  (VP (VB like)
+              (NP (NN that))))
+      (. ?)))
+
+(ROOT
+  (FRAG (NP (NN fire)
+      	    (NN hydrant))
+      (. .)))
+
+(ROOT
+  (S
+    (VP (VB go)
+      	(ADVP (RB ahead)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (CC and)
+    (SBARQ (WHNP-1 (WP what)
+    	   	   (RB else))
+           (SQ
+	     (VP (AUX did)
+      	       	 (NP (PRP you))
+      	       	 (VP (VB do)
+		     (NP (-NONE-ABAR-WH- *T*-1))
+        	     (PP (IN over)
+          	     	 (NP (NP (NNP grandma)
+			     	 (POS 's))
+                             (NN house)))))))
+    (. .)))
+
