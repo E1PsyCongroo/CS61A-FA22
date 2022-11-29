@@ -16,3 +16,4 @@
 'tests.scm-correct', (7680, 70)
 'Problem 15-correct', (8192, 70)
 'Problem 16-correct', (8704, 70)
+'Problem EC 1-correct', (9216, 70)
