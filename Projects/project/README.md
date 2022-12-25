@@ -1,0 +1,1 @@
+scheme项目为普通版本，scheme画图比赛并未参加，因此scheme_contest与scheme_stubbed并未有任何更改
